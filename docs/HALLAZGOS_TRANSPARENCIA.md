@@ -21,3 +21,15 @@ carga parte del contenido con JavaScript.
 
 Siguiente paso posible (lo decide y presenta el autor): solicitud de acceso a la información (Llei 19/2014 art. 18;
 plazo de 1 mes; reclamación ante la GAIP) — plantilla `documentos.solicitud()`.
+
+
+## Correcciones tras revisión en navegador (2026-10-24)
+
+- `bases-d-execucio-del-pressupost-188` → **publicado**: bases 2020-2025; la más reciente: https://seu.elprat.cat/siac/Tablon_ver_doc.aspx?id=12762
+- **solo_enlace** (solo introducción + enlace externo, sin documento propio): organigrama, ejecución presupuestaria trimestral, auditorías de cuentas (actualizada 24/07/2023), resoluciones de acceso a la información, plan anual normativo, agenda de altos cargos (solo enlaza a la lista de concejales).
+- **sin_documentos**: ejecución de convenios y convenios urbanísticos.
+- `mociones_aprobadas`: no hay apartado específico; extraer de las actas del Pleno (`actes-de-ple`).
+- `of_tasa_residuos` y `of23_aparcamiento` → **publicado** en CIDO (aprobación definitiva 15/09/2026): https://cido.diba.cat/normativa_local/20498914/ordenances-fiscals-per-a-lany-2026-ajuntament-del-prat-de-llobregat
+- `of_2027_aprobacion_inicial`: a 2026-10-24 aún no publicadas en CIDO ni BOPB.
+
+Recuento actualizado del checklist (57): publicado 33, desactualizado 10, solo_enlace 6, no_verificado 4, no_encontrado 2, sin_documentos 2.

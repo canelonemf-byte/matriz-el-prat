@@ -1,12 +1,16 @@
 fecha_auditoria: '2026-10-24'
 ente: Ajuntament del Prat de Llobregat (CODI_ENS 816910007)
-metodo: Portal de Transparència AOC (112 ítems, base legal declarada por el propio portal) + fuentes oficiales externas
-nota_rgpd: Solo URL, fecha, hash y agregados. No se guardan datos de personas físicas (p. ej. beneficiarios).
+metodo: Portal de Transparència AOC (112 ítems, base legal declarada por el propio
+  portal) + fuentes oficiales externas
+nota_rgpd: Solo URL, fecha, hash y agregados. No se guardan datos de personas físicas
+  (p. ej. beneficiarios).
 resumen_checklist:
-  publicado: 30
-  no_encontrado: 13
+  publicado: 33
+  solo_enlace: 6
   desactualizado: 10
+  no_encontrado: 2
   no_verificado: 4
+  sin_documentos: 2
 resumen_portal:
   desactualizado: 37
   publicado: 50
@@ -31,10 +35,11 @@ checklist:
 - id: organigrama-de-l-ens
   obligacion: Organigrama
   base_legal: Llei 19/2014 art. 9.1.c; Ley 19/2013 art. 6.1
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organigrama-de-l-ens
-  fecha: '2024-01-02'
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo texto introductorio + enlace externo;
+    sin documento propio'
   beneficio_ciudadano_si_se_corrige: saber quién es responsable de cada servicio
 - id: alts-carrecs-personal-directiu-i-carrecs-eventuals
   obligacion: Retribuciones y declaraciones de altos cargos
@@ -50,7 +55,8 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/retribucions-indemnitzacions-i-dietes-dels-empleats-publics
   fecha: '2023-08-02'
-  nota: 'última actualización 2023-08-02; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  nota: 'última actualización 2023-08-02; frecuencia declarada: En disposar de noves
+    dades, o per defecte anualment'
   beneficio_ciudadano_si_se_corrige: control del gasto de personal
 - id: relacio-de-llocs-de-treball-rlt
   obligacion: RLT
@@ -66,7 +72,8 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/estatuts
   fecha: '2024-07-31'
-  nota: 'última actualización 2024-07-31; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  nota: 'última actualización 2024-07-31; frecuencia declarada: En disposar de noves
+    dades, o per defecte anualment'
   beneficio_ciudadano_si_se_corrige: ''
 - id: ordenances-fiscals
   obligacion: Ordenanzas fiscales vigentes (portal)
@@ -75,7 +82,8 @@ checklist:
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/ordenances-fiscals
   fecha: '2026-10-24'
   nota: ''
-  beneficio_ciudadano_si_se_corrige: conocer impuestos y bonificaciones a las que se tiene derecho
+  beneficio_ciudadano_si_se_corrige: conocer impuestos y bonificaciones a las que
+    se tiene derecho
 - id: of1_ibi_2026
   obligacion: OF 1 IBI 2026 (texto)
   base_legal: TRLRHL art. 17.4
@@ -89,24 +97,25 @@ checklist:
   base_legal: TRLRHL art. 17.1-2 (30 días de exposición)
   estado: no_encontrado
   url: https://www.lavanguardia.com/elllobregat/sociedad/20261023/11666278/prat-congela-ibi-viviendas-comercios-2027-sube-70-grandes-propiedades.html
-  fecha: '2026-10-23'
-  nota: solo prensa; el edicto BOPB y el texto se vigilan a diario (sub_1_2). Abre plazo de reclamaciones
+  fecha: '2026-10-24'
+  nota: a 2026-10-24 aún no publicadas en CIDO ni BOPB (aprobación inicial 22-10-2026);
+    vigilancia diaria activa
   beneficio_ciudadano_si_se_corrige: permite presentar reclamaciones en plazo
 - id: of23_aparcamiento
   obligacion: OF 23 tasa estacionamiento (Zona Taronja Mas Blau)
   base_legal: TRLRHL art. 17.4
-  estado: no_encontrado
-  url: https://cido.diba.cat/
-  fecha: null
-  nota: texto consolidado no localizado; tarifa 8 €/mes solo verificada en prensa
+  estado: publicado
+  url: https://cido.diba.cat/normativa_local/20498914/ordenances-fiscals-per-a-lany-2026-ajuntament-del-prat-de-llobregat
+  fecha: '2026-10-24'
+  nota: 'CIDO: aprobación definitiva 15/09/2026'
   beneficio_ciudadano_si_se_corrige: trabajadores conocen la tarifa y sus derechos
 - id: of_tasa_residuos
   obligacion: OF tasa de residuos (descuento 40 % vigente según el Ajuntament)
   base_legal: Ley 7/2022 art. 11.3; TRLRHL art. 17.4
-  estado: no_encontrado
-  url: https://cido.diba.cat/
-  fecha: null
-  nota: texto no localizado automáticamente
+  estado: publicado
+  url: https://cido.diba.cat/normativa_local/20498914/ordenances-fiscals-per-a-lany-2026-ajuntament-del-prat-de-llobregat
+  fecha: '2026-10-24'
+  nota: 'CIDO: aprobación definitiva 15/09/2026'
   beneficio_ciudadano_si_se_corrige: hogares conocen las bonificaciones
 - id: tipus-impositius
   obligacion: Tipos impositivos
@@ -135,10 +144,11 @@ checklist:
 - id: bases-d-execucio-del-pressupost-188
   obligacion: Bases de ejecución del presupuesto
   base_legal: Llei 19/2014 art. 11.1.a
-  estado: no_encontrado
-  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/bases-d-execucio-del-pressupost-188
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  estado: publicado
+  url: https://seu.elprat.cat/siac/Tablon_ver_doc.aspx?id=12762
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: bases de ejecución 2020-2025 publicadas; la
+    más reciente en la URL indicada'
   beneficio_ciudadano_si_se_corrige: conocer las reglas de gasto
 - id: modificacio-de-pressupostos
   obligacion: Modificaciones presupuestarias
@@ -162,15 +172,17 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/compte-general
   fecha: '2022-10-11'
-  nota: 'última actualización 2022-10-11; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  nota: 'última actualización 2022-10-11; frecuencia declarada: En disposar de noves
+    dades, o per defecte anualment'
   beneficio_ciudadano_si_se_corrige: conocer la situación patrimonial real
 - id: execucio-pressupostaria-trimestral
   obligacion: Ejecución presupuestaria trimestral
   base_legal: Llei 19/2014 art. 11.1.a; Ley 19/2013 art. 8.1.d
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/execucio-pressupostaria-trimestral
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo introducción + enlace externo; pendiente
+    comprobar si el destino tiene los documentos'
   beneficio_ciudadano_si_se_corrige: seguir el gasto durante el año
 - id: conprel_hacienda
   obligacion: Ejecución y liquidación en Hacienda (CONPREL)
@@ -199,10 +211,11 @@ checklist:
 - id: auditories-de-comptes
   obligacion: Auditorías / control financiero
   base_legal: Llei 19/2014 art. 11.1.c; Ley 19/2013 art. 8.1.e
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/auditories-de-comptes
-  fecha: '2023-07-24'
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo introducción + enlace externo; página
+    actualizada por última vez el 24/07/2023'
   beneficio_ciudadano_si_se_corrige: saber si el dinero se usa bien
 - id: pla-anual-de-control-financer
   obligacion: Plan anual de control financiero
@@ -218,7 +231,8 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/inventari-general-del-patrimoni
   fecha: '2023-07-27'
-  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves
+    dades, o per defecte anualment'
   beneficio_ciudadano_si_se_corrige: ''
 - id: relacio-de-contractes-adjudicats-historics
   obligacion: Contratos adjudicados
@@ -242,7 +256,8 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/modificacions-de-contractes
   fecha: '2023-07-27'
-  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves
+    dades, o per defecte setmanalment'
   beneficio_ciudadano_si_se_corrige: control de sobrecostes
 - id: placsp
   obligacion: Perfil contratante (PLACSP)
@@ -271,10 +286,10 @@ checklist:
 - id: informacio-de-l-execucio-dels-convenis
   obligacion: Ejecución de convenios
   base_legal: Llei 19/2014 art. 14.2
-  estado: no_encontrado
+  estado: sin_documentos
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/informacio-de-l-execucio-dels-convenis
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: página sin documentos ni enlaces'
   beneficio_ciudadano_si_se_corrige: ''
 - id: subvencions-atorgades
   obligacion: Subvenciones concedidas
@@ -282,7 +297,8 @@ checklist:
   estado: publicado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/subvencions-atorgades
   fecha: '2026'
-  nota: 'dataset AOC/BDNS: {''n'': 541, ''import_eur'': 1751371.51} en 2026; la fecha de la página es antigua'
+  nota: 'dataset AOC/BDNS: {''n'': 541, ''import_eur'': 1751371.51} en 2026; la fecha
+    de la página es antigua'
   beneficio_ciudadano_si_se_corrige: ''
 - id: convocatories-de-subvencions-i-ajuts
   obligacion: Convocatorias de subvenciones
@@ -314,15 +330,17 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/convocatories-de-sessions-del-ple
   fecha: '2025-04-01'
-  nota: 'última actualización 2025-04-01; frecuencia declarada: En disposar de noves dades, o per defecte trimestralment'
+  nota: 'última actualización 2025-04-01; frecuencia declarada: En disposar de noves
+    dades, o per defecte trimestralment'
   beneficio_ciudadano_si_se_corrige: saber cuándo y qué se vota
 - id: mociones_aprobadas
   obligacion: Mociones aprobadas (listado)
   base_legal: Llei 19/2014 art. 10.1
   estado: no_encontrado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia
-  fecha: null
-  nota: no existe listado propio; solo dentro de las actas
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: no existe apartado específico; extraer de
+    actes-de-ple'
   beneficio_ciudadano_si_se_corrige: seguir el cumplimiento de mociones
 - id: acords-de-junta-de-govern
   obligacion: Acuerdos de Junta de Govern
@@ -330,15 +348,16 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/acords-de-junta-de-govern
   fecha: '2026-03-18'
-  nota: 'última actualización 2026-03-18; frecuencia declarada: En disposar de noves dades, o per defecte mensualment'
+  nota: 'última actualización 2026-03-18; frecuencia declarada: En disposar de noves
+    dades, o per defecte mensualment'
   beneficio_ciudadano_si_se_corrige: ''
 - id: resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
   obligacion: Resoluciones de acceso a la información
   base_legal: Llei 19/2014 art. 10.1.f
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo introducción + enlace externo'
   beneficio_ciudadano_si_se_corrige: ver qué información se pide y se deniega
 - id: memories-i-documents-dels-projectes-normatius-en-curs
   obligacion: Proyectos normativos en curso
@@ -346,15 +365,17 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/memories-i-documents-dels-projectes-normatius-en-curs
   fecha: '2023-07-27'
-  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves
+    dades, o per defecte setmanalment'
   beneficio_ciudadano_si_se_corrige: participar antes de aprobar normas
 - id: pla-anual-normatiu
   obligacion: Plan anual normativo
   base_legal: Ley 39/2015 art. 132
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/pla-anual-normatiu
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo introducción + enlace externo; pendiente
+    comprobar destino'
   beneficio_ciudadano_si_se_corrige: ''
 - id: planejament-urbanistic
   obligacion: POUM / planeamiento
@@ -367,10 +388,10 @@ checklist:
 - id: convenis-urbanistics
   obligacion: Convenios urbanísticos
   base_legal: TRLU art. 105
-  estado: no_encontrado
+  estado: sin_documentos
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convenis-urbanistics
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: página sin documentos ni enlaces'
   beneficio_ciudadano_si_se_corrige: ''
 - id: organismes-dependents-o-vinculats
   obligacion: Entes dependientes (Prat Espais, Aigües del Prat, etc.)
@@ -407,10 +428,11 @@ checklist:
 - id: agenda-institucional-dels-alts-carrecs
   obligacion: Agenda de altos cargos
   base_legal: Llei 19/2014 art. 55 (código conducta)
-  estado: no_encontrado
+  estado: solo_enlace
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/agenda-institucional-dels-alts-carrecs
-  fecha: null
-  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  fecha: '2026-10-24'
+  nota: 'revisión navegador 2026-10-24: solo enlaza a la lista de concejales, no a
+    una agenda'
   beneficio_ciudadano_si_se_corrige: ''
 - id: tauler-d-edictes-i-anuncis
   obligacion: Tablón de edictos
@@ -418,7 +440,8 @@ checklist:
   estado: desactualizado
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis
   fecha: '2016-04-11'
-  nota: 'última actualización 2016-04-11; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  nota: 'última actualización 2016-04-11; frecuencia declarada: En disposar de noves
+    dades, o per defecte setmanalment'
   beneficio_ciudadano_si_se_corrige: ''
 - id: bopb_edictos
   obligacion: Edictos BOPB
@@ -1127,7 +1150,8 @@ portal_completo:
   actualizacion: '2025-07-02'
   estado: publicado
 - id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.declaracio-institucional-impuls-politica-integritat-i-lluita-contra-frau
-  titulo: Declaració institucional d’impuls de la política d’integritat i de lluita contra el frau
+  titulo: Declaració institucional d’impuls de la política d’integritat i de lluita
+    contra el frau
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/declaracio-institucional-impuls-politica-integritat-i-lluita-contra-frau
   base_legal:
     llei_19_2014: null
@@ -1141,7 +1165,8 @@ portal_completo:
   base_legal:
     llei_19_2014: null
     ley_19_2013: null
-  frecuencia_declarada: La freqüència d’actualització serà en disposar del document aprovat i modificacions/novetats que es puguin produir.
+  frecuencia_declarada: La freqüència d’actualització serà en disposar del document
+    aprovat i modificacions/novetats que es puguin produir.
   actualizacion: '2026-10-24'
   estado: publicado
 - id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.registre-de-grups-d-interes
@@ -1406,7 +1431,8 @@ portal_completo:
   actualizacion: null
   estado: publicado
 - id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.resolucions-relatives-a-les-declaracions-d-activitats-patrimonials-i-d-interessos-dels-alts-carrecs-i-del-personal-directiu
-  titulo: Resolucions relatives a les declaracions d&#039;activitats, patrimonials i d&#039;interessos dels alts càrrecs i del personal directiu
+  titulo: Resolucions relatives a les declaracions d&#039;activitats, patrimonials
+    i d&#039;interessos dels alts càrrecs i del personal directiu
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/resolucions-relatives-a-les-declaracions-d-activitats-patrimonials-i-d-interessos-dels-alts-carrecs-i-del-personal-directiu
   base_legal:
     llei_19_2014: Article 11. Apartat 1. Punt d.
@@ -1415,7 +1441,8 @@ portal_completo:
   actualizacion: null
   estado: no_encontrado
 - id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.resolucions-sobre-el-regim-d-incompatibilitats-dels-alts-carrecs-i-personal-directiu
-  titulo: Resolucions sobre el règim d&#039;incompatibilitats dels alts càrrecs i personal directiu
+  titulo: Resolucions sobre el règim d&#039;incompatibilitats dels alts càrrecs i
+    personal directiu
   url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/resolucions-sobre-el-regim-d-incompatibilitats-dels-alts-carrecs-i-personal-directiu
   base_legal:
     llei_19_2014: Article 9. Apartat 1. Punt m.
@@ -1698,3 +1725,4 @@ kpi:
       inmuebles: 40260
       valor_catastral_eur: 3444815740
     ultima_valoracion_catastral: 1997
+revision_navegador: '2026-10-24'

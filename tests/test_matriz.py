@@ -100,5 +100,5 @@ def test_inventario_existe_y_sin_datos_personales():
     import yaml, pathlib
     root = pathlib.Path(__file__).resolve().parents[1]
     inv = yaml.safe_load((root / "inventario_obligaciones.yaml").read_text(encoding="utf-8"))
-    assert inv["checklist"] and all(i["estado"] in {"publicado", "desactualizado", "no_encontrado", "no_verificado"} for i in inv["checklist"])
+    assert inv["checklist"] and all(i["estado"] in {"publicado", "desactualizado", "no_encontrado", "no_verificado", "solo_enlace", "sin_documentos"} for i in inv["checklist"])
     assert "BENEFICIARI" not in (root / "data/fuentes/aoc_dades_obertes_agregado.json").read_text(encoding="utf-8")
