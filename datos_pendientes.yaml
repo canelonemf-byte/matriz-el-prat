@@ -1,0 +1,36 @@
+# Datos que faltan. Rellénalos (o conecta la fuente) y el sub-agente dejará de estar en espera.
+meta:
+  proyecto: matriz_el_prat
+  autor: "Lázaro López Paz, El Prat de Llobregat, Barcelona, España, con asistencia de IA"
+  orcid: "0000-0001-8601-1963"
+  actualizado: "2026-10-24"
+fuentes_comprobadas_2026_10_24:
+  operativas: [boe_sumario, dogc_normativa, bopb_rss, placsp_atom, elprat_dades_obertes, bopb_pdf_of1_2026]
+  no_automatizables: 
+    - {fuente: catastro_ovc, url: "https://ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejero.asmx", motivo: "el servicio devuelve página de error HTML a las consultas"}
+    - {fuente: conprel_hacienda, url: "https://serviciostelematicosext.hacienda.gob.es/SGFAL/CONPREL", motivo: "aplicación web interactiva sin API pública"}
+    - {fuente: seu_elprat_publicaciones, url: "https://seu.elprat.cat/siac/Publicaciones.aspx?t=O&viewall=Y", motivo: "responde 404 desde este servidor"}
+    - {fuente: bopb_historico, url: "https://bop.diba.cat/cercador-butlletins", motivo: "buscador por formulario POST con token; solo se automatiza el RSS del día"}
+subagentes_en_espera:
+  sub_1_3_gestor_rom_secretaria: {falta: "texto vigente del Reglament Orgànic Municipal (ROM) del Prat y su publicación en el BOPB"}
+  sub_2_1_inspector_ejecucion_presupuestaria: {falta: "liquidación/ejecución presupuestaria 2025-2026 en CSV (CONPREL o portal de transparència)"}
+  sub_3_1_gestor_vpo_prat_espais: {falta: "datos públicos de Prat Espais: promociones, lista de espera, rentas"}
+  sub_3_2_controlador_movilidad_mas_blau: {falta: "aforos, plazas y ocupación de aparcamiento en Mas Blau (fuente oficial)"}
+  sub_3_3_inspector_dominio_publico_grua: {falta: "texto de OF 8 (retirada de vehículos) y OF 14 (ocupación vía pública) 2026 y estadísticas de servicio"}
+  sub_4_1_gestor_tasa_residuos_pxg: {falta: "OF 26 2026 (tarifa base), coste del servicio y recaudación prevista"}
+  sub_4_3_monitor_energia_y_agua: {falta: "consumos energéticos y de agua municipales (dataset oficial)"}
+  sub_5_1_auditor_gestiona_pleno: {falta: "actas o vídeos del Pleno publicados (Gestiona no tiene API pública)"}
+calculos:
+  base_liquidable_total_urbana: ""   # Estadística catastral por municipio: https://www.catastro.hacienda.gob.es/esp/estadisticas.asp
+  base_liquidable_total_bice: ""     # padrón BICE aeropuerto y puerto (BOPB 24-03-2026, exposición pública)
+  tarifa_base_residuos_of26: ""
+  coste_servicio_residuos: ""
+  recaudacion_prevista_residuos: ""
+  dir3_ajuntament: ""
+propuestas_registro_maestro:   # copiadas de Drive: Registro_Maestro_Mejoras_El_Prat (2026-10-24)
+  - {id: PRAT-FIS-001, nombre: "Rebaja IBI urbano residencial del 0,62 % al 0,48 %", impacto_declarado_eur: -2700000, fundamento_declarado: "art. 72 TRLRHL"}
+  - {id: PRAT-FIS-002, nombre: "Recargo IBI BICE al 1,30 % (AENA y Puerto)", impacto_declarado_eur: 6100000, fundamento_declarado: "art. 72.1 TRLRHL"}
+  - {id: PRAT-ECO-001, nombre: "Bonificación 40 % tasa de residuos por pago por generación", impacto_declarado_eur: -1200000, fundamento_declarado: "art. 11.3 Ley 7/2022"}
+  - {id: PRAT-URB-001, nombre: "Tarjeta de movilidad laboral Mas Blau (exención 100 % aparcamiento)", impacto_declarado_eur: 0, fundamento_declarado: "art. 25.2.g LBRL"}
+  - {id: PRAT-VIV-001, nombre: "Plan 1.500 VPO alquiler asequible (Prat Espais)", impacto_declarado_eur: 54000000, fundamento_declarado: "Patrimonio municipal de suelo", falta: ["suelo disponible", "coste por vivienda", "financiación"]}
+  - {id: PRAT-LEG-001, nombre: "Bloqueo tecnológico en Gestiona por falta de expediente previo", impacto_declarado_eur: 0, fundamento_declarado: "art. 77 LBRL y art. 84 ROF", falta: ["descripción técnica del problema en Gestiona"]}

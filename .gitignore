@@ -1,0 +1,5 @@
+data/
+borradores/
+__pycache__/
+*.pyc
+.venv/
