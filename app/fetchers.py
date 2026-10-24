@@ -126,9 +126,18 @@ def f_ipc():
             "anual": {str(k): {"media": sum(v) / len(v), "meses": len(v)} for k, v in sorted(anual.items())}}, url
 
 
+def f_personal():
+    url, rows = soql("4g9s-gzp6", f"SELECT any_exercici,nivell,estructura,descripcio,import WHERE codi_ens='{ENS9}' AND tipus_partida='D' "
+                                  f"AND tipus_classif='E' AND starts_with(estructura,'1') AND nivell in('2','3','4') ORDER BY any_exercici,estructura LIMIT 5000")
+    return {"dataset": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6",
+            "descripcion": "Capítulo 1 (personal) del presupuesto inicial por concepto económico: órganos de gobierno, eventuales, funcionarios, laborales, Seguridad Social, formación (160200)",
+            "filas": [{"any": int(r["any_exercici"]), "nivel": int(r["nivell"]), "codigo": r["estructura"], "concepto": r["descripcio"],
+                       "importe": _num(r.get("import"))} for r in rows]}, url
+
+
 FETCHERS = {"liquidacio": f_liquidacio, "pressupost": f_pressupost, "cost_serveis": f_cost_serveis,
             "ens": f_ens, "contractes": f_contractes,
-            "contractes_detall": f_contractes_detall, "ipc": f_ipc}
+            "contractes_detall": f_contractes_detall, "ipc": f_ipc, "personal": f_personal}
 
 
 def _manifest_upsert(archivo, url, sha):

@@ -1,0 +1,5503 @@
+{
+ "dataset": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6",
+ "descripcion": "Capítulo 1 (personal) del presupuesto inicial por concepto económico: órganos de gobierno, eventuales, funcionarios, laborales, Seguridad Social, formación (160200)",
+ "filas": [
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 929152.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 929152.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 812637.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 116515.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 731565.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 731565.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 205093.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 526472.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 15100819.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5912951.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 710721.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 866102.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 651033.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1627238.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 190843.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 587044.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 1279970.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8971052.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 1905826.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 6183726.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 881500.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 216816.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120403",
+   "concepto": "Sous del grup C1",
+   "importe": 8817.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 43254.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120406",
+   "concepto": "Triennis",
+   "importe": 2255.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "120409",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 162490.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6008121.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5132879.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4993485.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 43115.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 96279.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 875242.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 19753.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 17753.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1407",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 2000.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 547780.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 375736.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 172044.0
+  },
+  {
+   "any": 2010,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6593074.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6479543.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6479543.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 60000.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 60000.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 45000.0
+  },
+  {
+   "any": 2010,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2010,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 8531.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 854848.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 854848.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 748854.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 105994.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 654862.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 654862.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 184714.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 470148.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 14658535.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5860409.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 658793.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 909132.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 699840.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1635744.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 204042.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 609822.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 1143036.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8798126.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 1870012.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 6067833.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 860281.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5508507.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 4718853.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4573685.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 42462.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 102706.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 789654.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 545066.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 375433.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 169633.0
+  },
+  {
+   "any": 2011,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6730392.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6615104.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6615104.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 60000.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 60000.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 45000.0
+  },
+  {
+   "any": 2011,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2011,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 10288.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 826500.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 826500.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 749700.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 76800.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1001",
+   "concepto": "Retr. bàsiques i altres rem. del personal directiu",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100100",
+   "concepto": "Retribucions bàsiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100101",
+   "concepto": "Altres remuneracions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1007",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100700",
+   "concepto": "Dels membres dels òrgans de govern",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "100701",
+   "concepto": "Del personal directiu",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 638018.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 638018.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 177175.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 460843.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "110002",
+   "concepto": "Altres remuneracions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1107",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 14107312.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5653715.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 610400.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 831442.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120002",
+   "concepto": "Sous del grup B",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 665290.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1604772.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 210045.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 629861.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 1101905.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8453597.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 1802163.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 5880320.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 771114.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1202",
+   "concepto": "Retribucions en espècie",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120400",
+   "concepto": "Sous del grup A1",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120401",
+   "concepto": "Sous del grup A2",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120402",
+   "concepto": "Sous del grup B",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120403",
+   "concepto": "Sous del grup C1",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120405",
+   "concepto": "Sous del grup E",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120406",
+   "concepto": "Triennis",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "120409",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1207",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5281148.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 4821121.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4661879.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 57795.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 101447.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 460027.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1302",
+   "concepto": "Retribucions en espècie",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1307",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 92975.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 66945.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1407",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 26030.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 517457.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 381003.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 136454.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1502",
+   "concepto": "Altres incentius al rendiment",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1503",
+   "concepto": "Complement de dedicació especial",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6175721.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6031147.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6031147.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160008",
+   "concepto": "Assistència medicofarmacèutica",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160009",
+   "concepto": "Altres quotes",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 60000.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160103",
+   "concepto": "Pensions excepcionals",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 60000.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160105",
+   "concepto": "Pensions a càrrec de l'entitat local",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160107",
+   "concepto": "Assistència medicofarmacèutica a pensionistes",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 75000.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 30000.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160201",
+   "concepto": "Economats i menjadors",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160202",
+   "concepto": "Transport de personal",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160204",
+   "concepto": "Acció social",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2012,
+   "nivel": 4,
+   "codigo": "160209",
+   "concepto": "Altres despeses socials",
+   "importe": 0.0
+  },
+  {
+   "any": 2012,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 9574.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 826500.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 826500.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 749700.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 76800.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1001",
+   "concepto": "Retr. bàsiques i altres rem. del personal directiu",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100100",
+   "concepto": "Retribucions bàsiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100101",
+   "concepto": "Altres remuneracions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1007",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100700",
+   "concepto": "Dels membres dels òrgans de govern",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "100701",
+   "concepto": "Del personal directiu",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 647077.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 647077.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 252069.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 395008.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "110002",
+   "concepto": "Altres remuneracions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1107",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 13943608.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5625244.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 623708.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 851581.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120002",
+   "concepto": "Sous del grup B",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 657920.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1556496.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 217649.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 652268.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 1065622.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8318364.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 1785702.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 5821890.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 710772.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1202",
+   "concepto": "Retribucions en espècie",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120400",
+   "concepto": "Sous del grup A1",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120401",
+   "concepto": "Sous del grup A2",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120402",
+   "concepto": "Sous del grup B",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120403",
+   "concepto": "Sous del grup C1",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120405",
+   "concepto": "Sous del grup E",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120406",
+   "concepto": "Triennis",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "120409",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1207",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5151108.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 4831446.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4687654.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 45083.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 98709.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 319662.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1302",
+   "concepto": "Retribucions en espècie",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1307",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 93493.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 93493.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1407",
+   "concepto": "Contribucions a plans i fons de pensions",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 522924.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 390481.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 132443.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1502",
+   "concepto": "Altres incentius al rendiment",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1503",
+   "concepto": "Complement de dedicació especial",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6119964.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 5952961.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 5952961.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160008",
+   "concepto": "Assistència medicofarmacèutica",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160009",
+   "concepto": "Altres quotes",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 60000.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160103",
+   "concepto": "Pensions excepcionals",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 60000.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160105",
+   "concepto": "Pensions a càrrec de l'entitat local",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160107",
+   "concepto": "Assistència medicofarmacèutica a pensionistes",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 95000.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 50000.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160201",
+   "concepto": "Economats i menjadors",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160202",
+   "concepto": "Transport de personal",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160204",
+   "concepto": "Acció social",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2013,
+   "nivel": 4,
+   "codigo": "160209",
+   "concepto": "Altres despeses socials",
+   "importe": 0.0
+  },
+  {
+   "any": 2013,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 12003.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 826500.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 826500.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 749700.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 76800.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 651028.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 651028.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 256020.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 395008.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 14135546.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5710440.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 625511.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 886105.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 656652.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1540931.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 218087.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 695100.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 1088054.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8425106.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 1802679.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 5836665.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 785762.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5266875.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 4913099.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4763664.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 42540.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 106895.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 353776.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 221756.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 221756.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 520261.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 392100.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 128161.0
+  },
+  {
+   "any": 2014,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6209060.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6000628.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6000628.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 105000.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2014,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2014,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 13432.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 823850.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 823850.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 747050.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 76800.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 631768.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 631768.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 246284.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 385484.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 14588965.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5442294.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 675153.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1097585.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 741367.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1742804.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 258689.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 869704.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 56992.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 8851944.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2100301.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 5803852.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 947791.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 294727.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 294721.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "120406",
+   "concepto": "Triennis",
+   "importe": 6.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5223509.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 4872975.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4711632.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 42540.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 118803.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 350534.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 132386.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 132386.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 515835.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 389914.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 125921.0
+  },
+  {
+   "any": 2015,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6289373.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6079273.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6079273.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 105000.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2015,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2015,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 15100.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 770496.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 770496.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 674748.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 95748.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 586154.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 586154.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 156798.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 429356.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 15562923.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5978795.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 726405.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1199293.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1807083.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1003538.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 255934.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 932915.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 53627.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 9577443.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2247245.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 5971887.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 1358311.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 6685.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 6685.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5273545.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5002052.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4745126.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 48069.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 208857.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 271493.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 187591.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 187591.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 440995.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 277772.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 163223.0
+  },
+  {
+   "any": 2016,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6326799.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6118032.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6118032.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 105000.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2016,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2016,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 13767.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 775344.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 775344.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 638387.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 136957.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 586161.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 586161.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 156798.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 429363.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 15619472.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 6209897.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 754670.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1327929.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1727213.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1118387.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 255934.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 968643.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 57121.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 9402890.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2423400.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 6446324.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 533166.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 6685.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 6685.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5315571.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5028512.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4772402.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 50736.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 205374.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 287059.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 250315.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 250315.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 498642.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 297060.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 201582.0
+  },
+  {
+   "any": 2017,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6691815.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6446734.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6446734.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 126000.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 126000.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 105000.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2017,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 45000.0
+  },
+  {
+   "any": 2017,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 14081.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 812608.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 812608.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 718212.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 94396.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 518436.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 518436.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 145727.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 372709.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 15991884.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 6289681.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 763606.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1371928.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1734414.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1087941.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 258489.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1016185.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 57118.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 9534568.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2433635.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 6588729.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 512204.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 167635.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 167635.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5455888.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5168738.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 4888691.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 58362.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 221685.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 287150.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 287037.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 287037.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 559880.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 356995.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 202885.0
+  },
+  {
+   "any": 2018,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 6764539.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6539237.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6539237.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 120000.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2018,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 60000.0
+  },
+  {
+   "any": 2018,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 15302.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 866020.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 841225.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 760111.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 81114.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1001",
+   "concepto": "Retr. bàsiques i altres rem. del personal directiu",
+   "importe": 24795.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "100101",
+   "concepto": "Altres remuneracions",
+   "importe": 24795.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 544227.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 544227.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 151775.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "110001",
+   "concepto": "Retribucions complementàries",
+   "importe": 377117.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "110002",
+   "concepto": "Altres remuneracions",
+   "importe": 15335.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 17652246.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 6642932.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 815071.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1546538.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1803274.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1104165.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 263022.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1009588.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 101274.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 10717887.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2627694.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 7090358.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 999835.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 291427.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 291427.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5765931.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5451992.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5044785.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 55182.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 352025.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 313939.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 344889.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 344889.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 607656.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 367380.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 240276.0
+  },
+  {
+   "any": 2019,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 7096377.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 6832377.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 6832377.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 120000.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 120000.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 120000.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 60000.0
+  },
+  {
+   "any": 2019,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 60000.0
+  },
+  {
+   "any": 2019,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 24000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 896953.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 896953.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 827764.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 69189.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 815628.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 815628.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 815628.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 18601750.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 7127383.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 976394.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1731223.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1890988.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1160447.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 284715.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1047683.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 35933.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 11056518.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2865170.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 7775343.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 416005.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 417849.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 417849.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6023926.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5677340.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5424924.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 45990.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 206426.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 346586.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 314934.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 314934.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 524436.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 359760.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 164676.0
+  },
+  {
+   "any": 2020,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 8507814.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 8214675.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 8214675.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 140000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 140000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 133000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 65000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 68000.0
+  },
+  {
+   "any": 2020,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 20139.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 889372.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 889372.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 802858.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 86514.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 823998.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 823998.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 823998.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 19367174.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 7490244.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 1007447.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1784940.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1959134.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1247760.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 285882.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1063018.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 142063.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 11643973.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2954600.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 8108758.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 580615.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 232957.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 232957.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6099215.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5686624.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5417990.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 45425.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 223209.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 412591.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 398069.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 398069.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 574741.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 359746.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 214995.0
+  },
+  {
+   "any": 2021,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 8466036.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 8161036.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 8161036.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 140000.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 140000.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 133000.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 65000.0
+  },
+  {
+   "any": 2021,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 68000.0
+  },
+  {
+   "any": 2021,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 32000.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 920147.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 920147.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 849287.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 70860.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 949348.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 949348.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 949348.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 19643809.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 7546264.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 964040.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 1891309.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 1880457.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1282726.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 265871.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1097940.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 163921.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 11585204.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 2954622.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 8007865.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 622717.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 512341.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 512341.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6323644.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5794701.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5467479.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 34573.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 292649.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 528943.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 545656.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 545656.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 774823.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 553470.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 221353.0
+  },
+  {
+   "any": 2022,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 8675070.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 8349570.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 8349570.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 140000.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 140000.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 153500.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 65000.0
+  },
+  {
+   "any": 2022,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 88500.0
+  },
+  {
+   "any": 2022,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 32000.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 904372.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 904372.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 822484.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 81888.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 980589.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 980589.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 980589.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 21784553.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 8310555.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 1190727.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 2115052.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 2022696.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1315809.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 293155.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1199564.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 173552.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 13016540.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 3288495.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 9148032.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 580013.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 457458.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 457458.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6490465.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 6043981.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5716759.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 34573.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 292649.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 446484.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 653351.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 653351.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 774823.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 553470.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 221353.0
+  },
+  {
+   "any": 2023,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 9069158.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 8785225.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 8785225.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 161933.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 65000.0
+  },
+  {
+   "any": 2023,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 96933.0
+  },
+  {
+   "any": 2023,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 32000.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 1157238.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 1157238.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 1070801.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 86437.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 970705.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 970705.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 970705.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 22812934.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 8826330.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 1295899.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 2419297.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 2076256.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1338306.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 289912.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1164496.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 242164.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 13642142.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 4044890.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 9000208.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 597044.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 344462.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 344462.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6060948.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5459109.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5156737.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 36494.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 265878.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 601839.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 518604.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 518604.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 721026.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 467375.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 253651.0
+  },
+  {
+   "any": 2024,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 9568037.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 9278710.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 9278710.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1601",
+   "concepto": "Prestacions socials",
+   "importe": 90000.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "160104",
+   "concepto": "Indem. personal laboral jubilacions anticipades",
+   "importe": 90000.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 165544.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 68611.0
+  },
+  {
+   "any": 2024,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 96933.0
+  },
+  {
+   "any": 2024,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 33783.0
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 1205442.49
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 1205442.49
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 1119005.16
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 86437.33
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 995937.5
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 995937.5
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 995937.5
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 22744915.94
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 8986228.71
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 1321031.62
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 2447869.62
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 2277895.93
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1234553.09
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 323424.6
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1239753.85
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 141700.0
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 13756111.68
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 3546499.47
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 9713364.21
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 496248.0
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 2575.55
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 2575.55
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 5871886.18
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5738819.51
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5463012.13
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 41675.0
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 234132.38
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 133066.67
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 318547.67
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 318547.67
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 1825868.0
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 558668.0
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 264700.0
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1503",
+   "concepto": "Complement de dedicació especial",
+   "importe": 1002500.0
+  },
+  {
+   "any": 2025,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 9809154.46
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 9569666.74
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 9569666.74
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 200102.56
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 68611.1
+  },
+  {
+   "any": 2025,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 131491.46
+  },
+  {
+   "any": 2025,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 39385.16
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "10",
+   "concepto": "Òrgans de govern i personal directiu",
+   "importe": 1167187.03
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1000",
+   "concepto": "Retr. bàs. i altres rem. membres òrgans de govern",
+   "importe": 1167187.03
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "100000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 1104653.34
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "100001",
+   "concepto": "Altres remuneracions",
+   "importe": 62533.69
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "11",
+   "concepto": "Personal eventual",
+   "importe": 1008005.34
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1100",
+   "concepto": "Retribucions bàs. i altres rem. personal eventual",
+   "importe": 1008005.34
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "110000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 1008005.34
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "12",
+   "concepto": "Personal funcionari",
+   "importe": 25420197.07
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1200",
+   "concepto": "Retribucions bàsiques",
+   "importe": 9178662.33
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120000",
+   "concepto": "Sous del grup A1",
+   "importe": 1256780.52
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120001",
+   "concepto": "Sous del grup A2",
+   "importe": 2493002.5
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120003",
+   "concepto": "Sous del grup C1",
+   "importe": 2324001.54
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120004",
+   "concepto": "Sous del grup C2",
+   "importe": 1275331.76
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120005",
+   "concepto": "Sous del grup E",
+   "importe": 327741.68
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120006",
+   "concepto": "Triennis",
+   "importe": 1288127.22
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120009",
+   "concepto": "Altres retribucions bàsiques",
+   "importe": 213677.11
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1201",
+   "concepto": "Retribucions complementàries",
+   "importe": 16240534.74
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120100",
+   "concepto": "Complement de destinació",
+   "importe": 3551987.36
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120101",
+   "concepto": "Complement específic",
+   "importe": 11916353.74
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120103",
+   "concepto": "Altres complements",
+   "importe": 772193.64
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1204",
+   "concepto": "Retribucions de funcionaris en pràctiques",
+   "importe": 1000.0
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "120404",
+   "concepto": "Sous del grup C2",
+   "importe": 1000.0
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "13",
+   "concepto": "Personal laboral",
+   "importe": 6065779.15
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1300",
+   "concepto": "Laboral fix",
+   "importe": 5837164.5
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "130000",
+   "concepto": "Retribucions bàsiques",
+   "importe": 5493332.53
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "130001",
+   "concepto": "Hores extraordinàries",
+   "importe": 74767.79
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "130002",
+   "concepto": "Altres remuneracions",
+   "importe": 269064.18
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1301",
+   "concepto": "Laboral temporal",
+   "importe": 228614.65
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "14",
+   "concepto": "Un altre personal",
+   "importe": 316234.33
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1403",
+   "concepto": "Un altre personal",
+   "importe": 316234.33
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "15",
+   "concepto": "Incentius al rendiment",
+   "importe": 1048829.78
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1500",
+   "concepto": "Productivitat",
+   "importe": 751980.67
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1501",
+   "concepto": "Gratificacions",
+   "importe": 296849.11
+  },
+  {
+   "any": 2026,
+   "nivel": 2,
+   "codigo": "16",
+   "concepto": "Quotes, prestac. i desp. socials a/c de l'ocupador",
+   "importe": 10707093.69
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1600",
+   "concepto": "Quotes socials",
+   "importe": 10516679.78
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "160000",
+   "concepto": "Seguretat Social",
+   "importe": 10516679.78
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1602",
+   "concepto": "Despeses socials del personal",
+   "importe": 150413.91
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "160200",
+   "concepto": "Formació i perfeccionament del personal",
+   "importe": 15413.91
+  },
+  {
+   "any": 2026,
+   "nivel": 4,
+   "codigo": "160205",
+   "concepto": "Assegurances",
+   "importe": 135000.0
+  },
+  {
+   "any": 2026,
+   "nivel": 3,
+   "codigo": "1604",
+   "concepto": "Complement familiar",
+   "importe": 40000.0
+  }
+ ],
+ "fecha_consulta": "2026-10-24",
+ "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/4g9s-gzp6.json?%24query=SELECT+any_exercici%2Cnivell%2Cestructura%2Cdescripcio%2Cimport+WHERE+codi_ens%3D%27816910007%27+AND+tipus_partida%3D%27D%27+AND+tipus_classif%3D%27E%27+AND+starts_with%28estructura%2C%271%27%29+AND+nivell+in%28%272%27%2C%273%27%2C%274%27%29+ORDER+BY+any_exercici%2Cestructura+LIMIT+5000"
+}

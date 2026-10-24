@@ -38,3 +38,7 @@
   url: https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC251852?nult=240
   fecha_consulta: '2026-10-24'
   sha256: 2b32708e004a6859dabd3fb092194cc0250c10bb3dd6568821d64124d96ca532
+- archivo: data/fuentes/app/personal.json
+  url: https://analisi.transparenciacatalunya.cat/resource/4g9s-gzp6.json?%24query=SELECT+any_exercici%2Cnivell%2Cestructura%2Cdescripcio%2Cimport+WHERE+codi_ens%3D%27816910007%27+AND+tipus_partida%3D%27D%27+AND+tipus_classif%3D%27E%27+AND+starts_with%28estructura%2C%271%27%29+AND+nivell+in%28%272%27%2C%273%27%2C%274%27%29+ORDER+BY+any_exercici%2Cestructura+LIMIT+5000
+  fecha_consulta: '2026-10-24'
+  sha256: a93ff8e5f5638b2980ea1ea12d5c7bd953873d04e223e9f1194fc50f10806800
