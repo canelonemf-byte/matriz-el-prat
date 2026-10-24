@@ -51,3 +51,18 @@ Licencia dual:
 - **Documentos** (`docs/`, contenido de los `*.md`, documentación de datos como los `*.yaml` de inventario y catálogo, y `borradores/`): **CC BY 4.0** — ver [`LICENSE-DOCS`](LICENSE-DOCS) y https://creativecommons.org/licenses/by/4.0/.
 
 Atribución sugerida: «Lázaro López Paz, El Prat de Llobregat, Barcelona, España — matriz_el_prat (CC BY 4.0)».
+
+## App de control ciudadano (`app/`)
+
+Panel en castellano para seguir el dinero del Ajuntament del Prat de Llobregat: de dónde viene y a dónde va (Sankey), presupuesto vs. ejecución, sobrantes, tendencias (euros constantes, CAGR, tendencia log-lineal con previsión al 95 %), deuda y PMP, contratos (anomalías IQR/z-score y señales de fraccionamiento), subvenciones y convenios (agregados), coste de servicios y KPIs, entes municipales, inversiones, impuestos, transparencia, alertas, IA con fuentes y glosario.
+
+```bash
+pip install -r requirements.txt
+python -m app.fetchers          # refresca data/fuentes/app/*.json y MANIFIESTO.yaml (URL, fecha, SHA-256)
+streamlit run app/main.py       # http://localhost:8501
+pytest -q
+```
+
+- Fuentes: Generalitat (analisi.transparenciacatalunya.cat: liquidaciones ytva-5kp3, presupuestos 4g9s-gzp6, coste efectivo 7e8k-3vki, entes 7fnj-etev, contratos hb6v-jcbf), INE (IPC), dadesobertes.seu-e.cat (deuda, PMP, subvenciones, convenios), Catastro.
+- IA: usa `GEMINI_API_KEY` o el LiteLLM de AGs-Core (`LITELLM_BASE_URL`); sin clave queda en modo «pendiente de clave» y responde solo con hechos citados.
+- Lo que no tiene datos abiertos aparece como **pendiente** con la forma de obtenerlo (p. ej. solicitud de acceso, Llei 19/2014). Sin datos personales: los adjudicatarios que pueden ser personas físicas no se nombran.

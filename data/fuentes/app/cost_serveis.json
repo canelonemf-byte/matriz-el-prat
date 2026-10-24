@@ -1,0 +1,1088 @@
+{
+ "dataset": "https://analisi.transparenciacatalunya.cat/d/7e8k-3vki",
+ "descripcion": "Coste efectivo de los servicios (Ministerio de Hacienda vía Generalitat)",
+ "filas": [
+  {
+   "any": 2016,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 5494563.07
+  },
+  {
+   "any": 2016,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Otro tipo de gestión (**)",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 323765.99
+  },
+  {
+   "any": 2016,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 104065.03
+  },
+  {
+   "any": 2016,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6037924.18
+  },
+  {
+   "any": 2016,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1159089.94
+  },
+  {
+   "any": 2016,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 5625370.04
+  },
+  {
+   "any": 2016,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 570980.76
+  },
+  {
+   "any": 2016,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1424605.74
+  },
+  {
+   "any": 2016,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 9396.07
+  },
+  {
+   "any": 2016,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3356164.39
+  },
+  {
+   "any": 2016,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 214289.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1532456.6
+  },
+  {
+   "any": 2016,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2016,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1123530.45
+  },
+  {
+   "any": 2017,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 563434.77
+  },
+  {
+   "any": 2017,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 107223.26
+  },
+  {
+   "any": 2017,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1615472.41
+  },
+  {
+   "any": 2017,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6523838.36
+  },
+  {
+   "any": 2017,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 4904773.65
+  },
+  {
+   "any": 2017,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 4887456.43
+  },
+  {
+   "any": 2017,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2679614.96
+  },
+  {
+   "any": 2017,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 255534.5
+  },
+  {
+   "any": 2017,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Otro tipo de gestión (**)",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2017,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1655035.88
+  },
+  {
+   "any": 2017,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 295826.3
+  },
+  {
+   "any": 2017,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1624872.98
+  },
+  {
+   "any": 2018,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6133473.74
+  },
+  {
+   "any": 2018,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Otro tipo de gestión (**)",
+   "coste": 1.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 7039967.64
+  },
+  {
+   "any": 2018,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 87682.98
+  },
+  {
+   "any": 2018,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2602429.48
+  },
+  {
+   "any": 2018,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1724857.07
+  },
+  {
+   "any": 2018,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 275722.23
+  },
+  {
+   "any": 2018,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 255534.5
+  },
+  {
+   "any": 2018,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 5593580.38
+  },
+  {
+   "any": 2018,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 549875.54
+  },
+  {
+   "any": 2018,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2018,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1235359.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1827207.06
+  },
+  {
+   "any": 2019,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 255534.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 118023.65
+  },
+  {
+   "any": 2019,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3191428.79
+  },
+  {
+   "any": 2019,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 7545858.87
+  },
+  {
+   "any": 2019,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 290381.49
+  },
+  {
+   "any": 2019,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6243881.43
+  },
+  {
+   "any": 2019,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1652546.87
+  },
+  {
+   "any": 2019,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1202130.85
+  },
+  {
+   "any": 2019,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 616378.93
+  },
+  {
+   "any": 2019,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Otro tipo de gestión (**)",
+   "coste": 0.0
+  },
+  {
+   "any": 2019,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6647013.01
+  },
+  {
+   "any": 2020,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2231123.44
+  },
+  {
+   "any": 2020,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 303451.49
+  },
+  {
+   "any": 2020,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Otro tipo de gestión (**)",
+   "coste": 1.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 10.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 10.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 595329.67
+  },
+  {
+   "any": 2020,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3067867.38
+  },
+  {
+   "any": 2020,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1222894.26
+  },
+  {
+   "any": 2020,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 170168.35
+  },
+  {
+   "any": 2020,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 255534.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1757174.28
+  },
+  {
+   "any": 2020,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 159798.5
+  },
+  {
+   "any": 2020,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6529176.03
+  },
+  {
+   "any": 2020,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 9846742.72
+  },
+  {
+   "any": 2020,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2020,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1256698.83
+  },
+  {
+   "any": 2021,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2134401.89
+  },
+  {
+   "any": 2021,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3081436.95
+  },
+  {
+   "any": 2021,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 340182.67
+  },
+  {
+   "any": 2021,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2033538.84
+  },
+  {
+   "any": 2021,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 235617.04
+  },
+  {
+   "any": 2021,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1223601.15
+  },
+  {
+   "any": 2021,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal + otra forma de gestión (*)",
+   "coste": 1.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 5551861.36
+  },
+  {
+   "any": 2021,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 10.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6599729.9
+  },
+  {
+   "any": 2021,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 162395.78
+  },
+  {
+   "any": 2021,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 280503.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 705406.95
+  },
+  {
+   "any": 2021,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 218762.43
+  },
+  {
+   "any": 2021,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2021,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 9321473.17
+  },
+  {
+   "any": 2022,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1647781.78
+  },
+  {
+   "any": 2022,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1411849.82
+  },
+  {
+   "any": 2022,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 891342.4
+  },
+  {
+   "any": 2022,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 109520.82
+  },
+  {
+   "any": 2022,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 701506.05
+  },
+  {
+   "any": 2022,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 5593420.42
+  },
+  {
+   "any": 2022,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6607526.93
+  },
+  {
+   "any": 2022,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1908732.69
+  },
+  {
+   "any": 2022,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2280456.14
+  },
+  {
+   "any": 2022,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3161422.83
+  },
+  {
+   "any": 2022,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 133352.17
+  },
+  {
+   "any": 2022,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal + otra forma de gestión (*)",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2022,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 184583.62
+  },
+  {
+   "any": 2022,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 209089.04
+  },
+  {
+   "any": 2022,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 502942.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3171000.58
+  },
+  {
+   "any": 2023,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 280781.87
+  },
+  {
+   "any": 2023,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1872353.93
+  },
+  {
+   "any": 2023,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por organismo autónomo de la entidad local",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 169532.63
+  },
+  {
+   "any": 2023,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2142332.57
+  },
+  {
+   "any": 2023,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 122801.32
+  },
+  {
+   "any": 2023,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 737148.55
+  },
+  {
+   "any": 2023,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 122801.32
+  },
+  {
+   "any": 2023,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 131399.43
+  },
+  {
+   "any": 2023,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 7522908.77
+  },
+  {
+   "any": 2023,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2210464.24
+  },
+  {
+   "any": 2023,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal + otra forma de gestión (*)",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2023,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1930344.98
+  },
+  {
+   "any": 2023,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 0.0
+  },
+  {
+   "any": 2024,
+   "servicio": "Instalaciones deportivas de uso público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 6514483.66
+  },
+  {
+   "any": 2024,
+   "servicio": "Transporte colectivo urbano de viajeros",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2024,
+   "servicio": "Abastecimiento domiciliario de agua potable",
+   "gestion": "Gestión directa por sociedad mercantil local",
+   "coste": 0.0
+  },
+  {
+   "any": 2024,
+   "servicio": "Cementerio",
+   "gestion": "Gestión indirecta mediante concesión, gestionando el concesionario el servicio a su riesgo y ventura",
+   "coste": 76327.58
+  },
+  {
+   "any": 2024,
+   "servicio": "Recogida de residuos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 3334787.95
+  },
+  {
+   "any": 2024,
+   "servicio": "Alumbrado público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1324790.2
+  },
+  {
+   "any": 2024,
+   "servicio": "Alcantarillado",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 948662.93
+  },
+  {
+   "any": 2024,
+   "servicio": "Acceso a los núcleos de población",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.01
+  },
+  {
+   "any": 2024,
+   "servicio": "Medio ambiente urbano",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 223389.85
+  },
+  {
+   "any": 2024,
+   "servicio": "Biblioteca pública",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2024,
+   "servicio": "Medio ambiente urbano: Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 240572.29
+  },
+  {
+   "any": 2024,
+   "servicio": "Pavimentación de las vías públicas",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 1896832.33
+  },
+  {
+   "any": 2024,
+   "servicio": "Prevención y extinción de incendios",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal + otra forma de gestión (*)",
+   "coste": 0.1
+  },
+  {
+   "any": 2024,
+   "servicio": "Medio ambiente urbano: Parques y jardines públicos",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 0.1
+  },
+  {
+   "any": 2024,
+   "servicio": "Tratamiento de residuos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  },
+  {
+   "any": 2024,
+   "servicio": "Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 10115803.45
+  },
+  {
+   "any": 2024,
+   "servicio": "Parque público",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 2654211.02
+  },
+  {
+   "any": 2024,
+   "servicio": "Protección civil",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 129905.03
+  },
+  {
+   "any": 2024,
+   "servicio": "Limpieza viaria",
+   "gestion": "Gestión directa por la entidad local",
+   "coste": 7170337.72
+  },
+  {
+   "any": 2024,
+   "servicio": "Medio ambiente urbano: Gestión de los residuos sólidos urbanos",
+   "gestion": "Gestión mancomunada/comarcal/por la Diputación/otro tipo de agrupación municipal",
+   "coste": 0.0
+  }
+ ],
+ "fecha_consulta": "2026-10-24",
+ "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/7e8k-3vki.json?%24query=SELECT+any%2Cdescripcio_servei%2Ctipus_gestio%2Ccost_efectiu+WHERE+codi_ens%3D%27816910007%27+ORDER+BY+any+LIMIT+5000"
+}

@@ -1,0 +1,3712 @@
+{
+ "dataset": "https://analisi.transparenciacatalunya.cat/d/ytva-5kp3",
+ "descripcion": "Liquidación de presupuestos (derechos/obligaciones reconocidas). IN ingresos, DE gastos por capítulo, CF por política, IT ingresos tributarios",
+ "filas": [
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 24125.0,
+   "eur_hab": 0.38
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 3798488.17,
+   "eur_hab": 59.82
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 6813212.46,
+   "eur_hab": 107.3
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 35216255.53,
+   "eur_hab": 554.6
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 27804689.06,
+   "eur_hab": 437.88
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1336413.56,
+   "eur_hab": 21.05
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 1975527.97,
+   "eur_hab": 31.11
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 15096883.28,
+   "eur_hab": 237.75
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 9239240.81,
+   "eur_hab": 145.5
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 10069412.92,
+   "eur_hab": 158.58
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 5287023.9,
+   "eur_hab": 83.26
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 24125.0,
+   "eur_hab": 0.38
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 117950.54,
+   "eur_hab": 1.86
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 11525223.66,
+   "eur_hab": 181.5
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 8655574.74,
+   "eur_hab": 136.31
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 32393614.12,
+   "eur_hab": 510.14
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 71353382.03,
+   "eur_hab": 1123.69
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 18895945.58,
+   "eur_hab": 297.58
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3378548.6,
+   "eur_hab": 53.21
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 7760345.93,
+   "eur_hab": 122.21
+  },
+  {
+   "any": 2011,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 13081944.87,
+   "eur_hab": 206.02
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 12539489.18,
+   "eur_hab": 197.48
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 359973.5,
+   "eur_hab": 5.67
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 4636614.61,
+   "eur_hab": 73.02
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 6916960.79,
+   "eur_hab": 108.93
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1336413.56,
+   "eur_hab": 21.05
+  },
+  {
+   "any": 2011,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 582426.92,
+   "eur_hab": 9.17
+  },
+  {
+   "any": 2011,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 895228.81,
+   "eur_hab": 14.1
+  },
+  {
+   "any": 2011,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 57363132.8,
+   "eur_hab": 903.37
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 7998192.44,
+   "eur_hab": 126.63
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 31574809.95,
+   "eur_hab": 499.9
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3294343.37,
+   "eur_hab": 52.16
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 1070302.34,
+   "eur_hab": 16.95
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 7308095.09,
+   "eur_hab": 115.7
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 4166094.94,
+   "eur_hab": 65.96
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 10720.0,
+   "eur_hab": 0.17
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 25221176.96,
+   "eur_hab": 399.31
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 17207243.05,
+   "eur_hab": 272.43
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 9900905.38,
+   "eur_hab": 156.75
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 37505827.29,
+   "eur_hab": 593.8
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 11497819.19,
+   "eur_hab": 182.04
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 18069899.82,
+   "eur_hab": 286.09
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 6683972.42,
+   "eur_hab": 105.82
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 2264664.72,
+   "eur_hab": 35.85
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 910638.04,
+   "eur_hab": 14.42
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 42786333.15,
+   "eur_hab": 677.41
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 996008.4,
+   "eur_hab": 15.77
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 11009620.0,
+   "eur_hab": 174.31
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 9406840.96,
+   "eur_hab": 148.93
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 690097.35,
+   "eur_hab": 10.93
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2012,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 55029313.66,
+   "eur_hab": 871.24
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 1665798.96,
+   "eur_hab": 26.37
+  },
+  {
+   "any": 2012,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 8091076.14,
+   "eur_hab": 128.1
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 110486.34,
+   "eur_hab": 1.75
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 910638.04,
+   "eur_hab": 14.42
+  },
+  {
+   "any": 2012,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7388311.5,
+   "eur_hab": 116.97
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 4850799.2,
+   "eur_hab": 76.8
+  },
+  {
+   "any": 2012,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 7920.35,
+   "eur_hab": 0.13
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 5353647.95,
+   "eur_hab": 84.42
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 31695404.5,
+   "eur_hab": 499.78
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7803976.39,
+   "eur_hab": 123.05
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 1425674.66,
+   "eur_hab": 22.48
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3227175.02,
+   "eur_hab": 50.89
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 9645603.25,
+   "eur_hab": 152.09
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 9883091.84,
+   "eur_hab": 155.84
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 27109453.97,
+   "eur_hab": 427.47
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 91900.2,
+   "eur_hab": 1.45
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 680028.07,
+   "eur_hab": 10.72
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 19578526.64,
+   "eur_hab": 308.72
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 54827.7,
+   "eur_hab": 0.86
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 6404804.84,
+   "eur_hab": 100.99
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 6834941.29,
+   "eur_hab": 107.77
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 1144248.27,
+   "eur_hab": 18.04
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7074756.09,
+   "eur_hab": 111.56
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 1538272.2,
+   "eur_hab": 24.26
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 986840.84,
+   "eur_hab": 15.56
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 27192878.3,
+   "eur_hab": 428.78
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 17672661.87,
+   "eur_hab": 278.67
+  },
+  {
+   "any": 2013,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 13046129.7,
+   "eur_hab": 205.71
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 2433535.11,
+   "eur_hab": 38.37
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 1242759.55,
+   "eur_hab": 19.6
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 430136.45,
+   "eur_hab": 6.78
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 5714467.63,
+   "eur_hab": 90.11
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 1143453.05,
+   "eur_hab": 18.03
+  },
+  {
+   "any": 2013,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 45105005.9,
+   "eur_hab": 711.22
+  },
+  {
+   "any": 2013,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 680028.07,
+   "eur_hab": 10.72
+  },
+  {
+   "any": 2013,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 58569692.42,
+   "eur_hab": 923.54
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 12710465.85,
+   "eur_hab": 202.18
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 1025601.08,
+   "eur_hab": 16.31
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 5281162.81,
+   "eur_hab": 84.01
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 12433273.44,
+   "eur_hab": 197.77
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 37119025.64,
+   "eur_hab": 590.45
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 32622118.91,
+   "eur_hab": 518.92
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 112030.25,
+   "eur_hab": 1.78
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 2029848.07,
+   "eur_hab": 32.29
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 10647652.63,
+   "eur_hab": 169.37
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 6574359.98,
+   "eur_hab": 104.58
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 1996900.52,
+   "eur_hab": 31.76
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3148733.79,
+   "eur_hab": 50.09
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 27523282.09,
+   "eur_hab": 437.81
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 57687849.99,
+   "eur_hab": 917.63
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 664005.6,
+   "eur_hab": 10.56
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 18829178.23,
+   "eur_hab": 299.51
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 9266025.74,
+   "eur_hab": 147.39
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 334641.33,
+   "eur_hab": 5.32
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 45419246.67,
+   "eur_hab": 722.48
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 467134.3,
+   "eur_hab": 7.43
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 164950.78,
+   "eur_hab": 2.62
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 696809.39,
+   "eur_hab": 11.08
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 696809.39,
+   "eur_hab": 11.08
+  },
+  {
+   "any": 2014,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 11326806.53,
+   "eur_hab": 180.17
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7122969.01,
+   "eur_hab": 113.3
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 10313011.3,
+   "eur_hab": 164.05
+  },
+  {
+   "any": 2014,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 19499953.96,
+   "eur_hab": 310.18
+  },
+  {
+   "any": 2014,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 1840770.78,
+   "eur_hab": 29.28
+  },
+  {
+   "any": 2014,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 6595425.9,
+   "eur_hab": 104.91
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 2531441.13,
+   "eur_hab": 40.17
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 20817110.44,
+   "eur_hab": 330.36
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 5735576.52,
+   "eur_hab": 91.02
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 113446.8,
+   "eur_hab": 1.8
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 8821859.4,
+   "eur_hab": 140.0
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 682494.14,
+   "eur_hab": 10.83
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 28641348.74,
+   "eur_hab": 454.52
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 33584499.31,
+   "eur_hab": 532.97
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 259491.64,
+   "eur_hab": 4.12
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 4158703.09,
+   "eur_hab": 66.0
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 627997.14,
+   "eur_hab": 9.97
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 50907.21,
+   "eur_hab": 0.81
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 4134797.72,
+   "eur_hab": 65.62
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 19540837.25,
+   "eur_hab": 310.1
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 192521.07,
+   "eur_hab": 3.06
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 11878976.28,
+   "eur_hab": 188.51
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3141248.71,
+   "eur_hab": 49.85
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 6549473.62,
+   "eur_hab": 103.94
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 9014380.47,
+   "eur_hab": 143.05
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 6710154.97,
+   "eur_hab": 106.49
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 9032255.75,
+   "eur_hab": 143.34
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 12917892.11,
+   "eur_hab": 205.0
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 66508834.66,
+   "eur_hab": 1055.46
+  },
+  {
+   "any": 2015,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 682494.14,
+   "eur_hab": 10.83
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 46422119.41,
+   "eur_hab": 736.7
+  },
+  {
+   "any": 2015,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 6708288.14,
+   "eur_hab": 106.46
+  },
+  {
+   "any": 2015,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 34770212.55,
+   "eur_hab": 551.79
+  },
+  {
+   "any": 2015,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 12810668.82,
+   "eur_hab": 203.3
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 253264.31,
+   "eur_hab": 3.99
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 43407429.53,
+   "eur_hab": 684.04
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 28205766.39,
+   "eur_hab": 444.49
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 3113963.77,
+   "eur_hab": 49.07
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 116814.61,
+   "eur_hab": 1.84
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3657266.51,
+   "eur_hab": 57.63
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 658480.77,
+   "eur_hab": 10.38
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 28850699.91,
+   "eur_hab": 454.65
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 101748.43,
+   "eur_hab": 1.6
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 3059782.95,
+   "eur_hab": 48.22
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 12337878.26,
+   "eur_hab": 194.43
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 59756837.28,
+   "eur_hab": 941.69
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 28692.94,
+   "eur_hab": 0.45
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 344507.9,
+   "eur_hab": 5.43
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7373759.71,
+   "eur_hab": 116.2
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 20523846.86,
+   "eur_hab": 323.43
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7424386.41,
+   "eur_hab": 117.0
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 19147569.59,
+   "eur_hab": 301.74
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 5836869.64,
+   "eur_hab": 91.98
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 20708217.06,
+   "eur_hab": 326.33
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 7287174.52,
+   "eur_hab": 114.84
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 149894.02,
+   "eur_hab": 2.36
+  },
+  {
+   "any": 2016,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 35224132.74,
+   "eur_hab": 555.09
+  },
+  {
+   "any": 2016,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3138778.4,
+   "eur_hab": 49.46
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 3113963.77,
+   "eur_hab": 49.07
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 10973156.09,
+   "eur_hab": 172.92
+  },
+  {
+   "any": 2016,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 18465691.03,
+   "eur_hab": 291.0
+  },
+  {
+   "any": 2016,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 3161531.38,
+   "eur_hab": 49.82
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 38100424.79,
+   "eur_hab": 596.28
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 2627826.31,
+   "eur_hab": 41.13
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 922243.77,
+   "eur_hab": 14.43
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1263220.89,
+   "eur_hab": 19.77
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7601544.49,
+   "eur_hab": 118.97
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 46160066.07,
+   "eur_hab": 722.41
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 29844579.61,
+   "eur_hab": 467.07
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 2867665.48,
+   "eur_hab": 44.88
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 1015691.11,
+   "eur_hab": 15.9
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 34668706.59,
+   "eur_hab": 542.57
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 10513706.52,
+   "eur_hab": 164.54
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 59806552.07,
+   "eur_hab": 935.98
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 21513617.64,
+   "eur_hab": 336.69
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1263220.89,
+   "eur_hab": 19.77
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 56740.42,
+   "eur_hab": 0.89
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 3416435.33,
+   "eur_hab": 53.47
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 14146927.02,
+   "eur_hab": 221.4
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 13302057.17,
+   "eur_hab": 208.18
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3177276.03,
+   "eur_hab": 49.72
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 3359694.91,
+   "eur_hab": 52.58
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 4115886.2,
+   "eur_hab": 64.41
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 119102.6,
+   "eur_hab": 1.86
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2017,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 8238863.21,
+   "eur_hab": 128.94
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 444771.2,
+   "eur_hab": 6.96
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 14996308.7,
+   "eur_hab": 234.7
+  },
+  {
+   "any": 2017,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 22910589.43,
+   "eur_hab": 358.56
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 854.95,
+   "eur_hab": 0.01
+  },
+  {
+   "any": 2017,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7797387.38,
+   "eur_hab": 122.03
+  },
+  {
+   "any": 2017,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 331701.16,
+   "eur_hab": 5.19
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 891704.68,
+   "eur_hab": 13.9
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 37679750.39,
+   "eur_hab": 587.53
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 30792387.62,
+   "eur_hab": 480.14
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 16433.71,
+   "eur_hab": 0.26
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 10766858.73,
+   "eur_hab": 167.89
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 36266362.2,
+   "eur_hab": 565.5
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 6008158.26,
+   "eur_hab": 93.68
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 111244.51,
+   "eur_hab": 1.73
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 47713804.46,
+   "eur_hab": 743.99
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 9158064.04,
+   "eur_hab": 142.8
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 434833.29,
+   "eur_hab": 6.78
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 6820663.39,
+   "eur_hab": 106.35
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1386487.36,
+   "eur_hab": 21.62
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 18433648.13,
+   "eur_hab": 287.43
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 21222489.78,
+   "eur_hab": 330.92
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3172534.84,
+   "eur_hab": 49.47
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 5224048.77,
+   "eur_hab": 81.46
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 33027663.63,
+   "eur_hab": 515.0
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 2931744.51,
+   "eur_hab": 45.71
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 521590.77,
+   "eur_hab": 8.13
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 6965991.43,
+   "eur_hab": 108.62
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 336478.35,
+   "eur_hab": 5.25
+  },
+  {
+   "any": 2018,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 64690719.4,
+   "eur_hab": 1008.71
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1386487.36,
+   "eur_hab": 21.62
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 14710468.23,
+   "eur_hab": 229.38
+  },
+  {
+   "any": 2018,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7796221.84,
+   "eur_hab": 121.57
+  },
+  {
+   "any": 2018,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 875270.97,
+   "eur_hab": 13.65
+  },
+  {
+   "any": 2018,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 13643089.39,
+   "eur_hab": 212.73
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 16357877.07,
+   "eur_hab": 253.22
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 44207613.97,
+   "eur_hab": 684.34
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 10014966.78,
+   "eur_hab": 155.03
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 10111101.62,
+   "eur_hab": 156.52
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 33116827.14,
+   "eur_hab": 512.65
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 48179035.48,
+   "eur_hab": 745.82
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7795011.8,
+   "eur_hab": 120.67
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 36252632.58,
+   "eur_hab": 561.19
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 152092.13,
+   "eur_hab": 2.35
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 139148.41,
+   "eur_hab": 2.15
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 2954732.26,
+   "eur_hab": 45.74
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 544314.97,
+   "eur_hab": 8.43
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 5006191.08,
+   "eur_hab": 77.5
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 4284768.76,
+   "eur_hab": 66.33
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 642299.73,
+   "eur_hab": 9.94
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 1098620.45,
+   "eur_hab": 17.01
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 15243290.81,
+   "eur_hab": 235.97
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 2561377.76,
+   "eur_hab": 39.65
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 41520957.21,
+   "eur_hab": 642.75
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3132346.54,
+   "eur_hab": 48.49
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 64112584.9,
+   "eur_hab": 992.47
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 22417083.1,
+   "eur_hab": 347.02
+  },
+  {
+   "any": 2019,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 164794.91,
+   "eur_hab": 2.55
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 3736458.99,
+   "eur_hab": 57.84
+  },
+  {
+   "any": 2019,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7701753.9,
+   "eur_hab": 119.22
+  },
+  {
+   "any": 2019,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 2561377.76,
+   "eur_hab": 39.65
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 12702.78,
+   "eur_hab": 0.2
+  },
+  {
+   "any": 2019,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 26858352.62,
+   "eur_hab": 415.77
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3286527.68,
+   "eur_hab": 50.26
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 51848318.19,
+   "eur_hab": 792.97
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7963516.53,
+   "eur_hab": 121.79
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 431931.63,
+   "eur_hab": 6.61
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 4039306.34,
+   "eur_hab": 61.78
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 5936054.58,
+   "eur_hab": 90.79
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 15850.65,
+   "eur_hab": 0.24
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 10276340.04,
+   "eur_hab": 157.17
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 864532.84,
+   "eur_hab": 13.22
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 60617.04,
+   "eur_hab": 0.93
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 17033253.88,
+   "eur_hab": 260.51
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 527361.74,
+   "eur_hab": 8.07
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 69932.26,
+   "eur_hab": 1.07
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 25517898.91,
+   "eur_hab": 390.27
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 3016134.43,
+   "eur_hab": 46.13
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 8555047.54,
+   "eur_hab": 130.84
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 7654937.9,
+   "eur_hab": 117.07
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 715947.97,
+   "eur_hab": 10.95
+  },
+  {
+   "any": 2020,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1421112.01,
+   "eur_hab": 21.73
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 41074429.29,
+   "eur_hab": 628.19
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 69932.26,
+   "eur_hab": 1.07
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 33437909.15,
+   "eur_hab": 511.4
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 17850881.06,
+   "eur_hab": 273.01
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2020,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2020,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 30535547.98,
+   "eur_hab": 467.01
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 66867275.49,
+   "eur_hab": 1022.67
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 22532380.05,
+   "eur_hab": 344.61
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 3081811.78,
+   "eur_hab": 47.13
+  },
+  {
+   "any": 2020,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1421112.01,
+   "eur_hab": 21.73
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 5857973.81,
+   "eur_hab": 89.39
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 8171024.82,
+   "eur_hab": 124.69
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 100677.97,
+   "eur_hab": 1.54
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 37037261.32,
+   "eur_hab": 565.18
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 2896056.2,
+   "eur_hab": 44.19
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 23568.69,
+   "eur_hab": 0.36
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 18464807.35,
+   "eur_hab": 281.77
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 339974.95,
+   "eur_hab": 5.19
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 1038020.57,
+   "eur_hab": 15.84
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 25925925.68,
+   "eur_hab": 395.62
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 2935735.94,
+   "eur_hab": 44.8
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 725047.42,
+   "eur_hab": 11.06
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 357894.8,
+   "eur_hab": 5.46
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 11157754.14,
+   "eur_hab": 170.26
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 65560052.92,
+   "eur_hab": 1000.43
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 620773.87,
+   "eur_hab": 9.47
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 17919.85,
+   "eur_hab": 0.27
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1975637.28,
+   "eur_hab": 30.15
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 34773739.5,
+   "eur_hab": 530.64
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 44522223.26,
+   "eur_hab": 679.4
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 898807.03,
+   "eur_hab": 13.72
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3333444.79,
+   "eur_hab": 50.87
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 7552679.56,
+   "eur_hab": 115.25
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1975637.28,
+   "eur_hab": 30.15
+  },
+  {
+   "any": 2021,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 16673484.43,
+   "eur_hab": 254.43
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 10058830.95,
+   "eur_hab": 153.49
+  },
+  {
+   "any": 2021,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2021,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 25521905.91,
+   "eur_hab": 389.46
+  },
+  {
+   "any": 2021,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 52175581.22,
+   "eur_hab": 796.18
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 7418801.16,
+   "eur_hab": 114.08
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 3281896.66,
+   "eur_hab": 50.47
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 46529663.02,
+   "eur_hab": 715.51
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 1143013.67,
+   "eur_hab": 17.58
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 17212862.15,
+   "eur_hab": 264.69
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 908889.32,
+   "eur_hab": 13.98
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 21684602.51,
+   "eur_hab": 333.46
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 2877885.63,
+   "eur_hab": 44.25
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 28749660.25,
+   "eur_hab": 442.1
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 55530464.64,
+   "eur_hab": 853.92
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 9283031.87,
+   "eur_hab": 142.75
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 68304080.93,
+   "eur_hab": 1050.35
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 258093.51,
+   "eur_hab": 3.97
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 13685825.05,
+   "eur_hab": 210.45
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 908889.32,
+   "eur_hab": 13.98
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 601761.03,
+   "eur_hab": 9.25
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 26631712.48,
+   "eur_hab": 409.53
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 275816.47,
+   "eur_hab": 4.24
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 258093.51,
+   "eur_hab": 3.97
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 204963.15,
+   "eur_hab": 3.15
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3199764.24,
+   "eur_hab": 49.2
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 23673.67,
+   "eur_hab": 0.36
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 10739130.13,
+   "eur_hab": 165.14
+  },
+  {
+   "any": 2022,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 1861495.01,
+   "eur_hab": 28.63
+  },
+  {
+   "any": 2022,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 36029296.6,
+   "eur_hab": 554.04
+  },
+  {
+   "any": 2022,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 8034235.65,
+   "eur_hab": 123.55
+  },
+  {
+   "any": 2022,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 37965562.5,
+   "eur_hab": 583.82
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 18915729.54,
+   "eur_hab": 288.72
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 249014.87,
+   "eur_hab": 3.8
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 53548883.5,
+   "eur_hab": 817.34
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3728959.96,
+   "eur_hab": 56.92
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 29633620.29,
+   "eur_hab": 452.31
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 50900317.54,
+   "eur_hab": 776.91
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 8016642.74,
+   "eur_hab": 122.36
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 64687002.27,
+   "eur_hab": 987.35
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1102793.51,
+   "eur_hab": 16.83
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 29580914.12,
+   "eur_hab": 451.51
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 447042.21,
+   "eur_hab": 6.82
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 998100.73,
+   "eur_hab": 15.23
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 11909053.67,
+   "eur_hab": 181.77
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 261798.68,
+   "eur_hab": 4.0
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 2151457.8,
+   "eur_hab": 32.84
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 28436.22,
+   "eur_hab": 0.43
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 8449690.98,
+   "eur_hab": 128.97
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 28436.22,
+   "eur_hab": 0.43
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1102793.51,
+   "eur_hab": 16.83
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 18710762.61,
+   "eur_hab": 285.59
+  },
+  {
+   "any": 2023,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 2872461.16,
+   "eur_hab": 43.84
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 22440107.61,
+   "eur_hab": 342.51
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 10649724.5,
+   "eur_hab": 162.55
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 1187618.82,
+   "eur_hab": 18.13
+  },
+  {
+   "any": 2023,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 46143020.92,
+   "eur_hab": 704.3
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 38721128.13,
+   "eur_hab": 591.02
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 969823.3,
+   "eur_hab": 14.8
+  },
+  {
+   "any": 2023,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 11197427.97,
+   "eur_hab": 170.91
+  },
+  {
+   "any": 2023,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 8999762.76,
+   "eur_hab": 135.98
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 57346122.16,
+   "eur_hab": 866.47
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 358068.87,
+   "eur_hab": 5.41
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 11306096.76,
+   "eur_hab": 170.83
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 8227419.97,
+   "eur_hab": 124.31
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 27728393.33,
+   "eur_hab": 418.96
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 1355069.9,
+   "eur_hab": 20.47
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 3615129.8,
+   "eur_hab": 54.62
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 526237.76,
+   "eur_hab": 7.95
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 38962569.53,
+   "eur_hab": 588.7
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 1355069.9,
+   "eur_hab": 20.47
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 24036951.64,
+   "eur_hab": 363.18
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 1900178.46,
+   "eur_hab": 28.71
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 8368629.58,
+   "eur_hab": 126.44
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 757387.36,
+   "eur_hab": 11.44
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 46222.28,
+   "eur_hab": 0.7
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 48862454.05,
+   "eur_hab": 738.28
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 11053180.12,
+   "eur_hab": 167.01
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 1585972.36,
+   "eur_hab": 23.96
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 6106130.36,
+   "eur_hab": 92.26
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 20872432.25,
+   "eur_hab": 315.37
+  },
+  {
+   "any": 2024,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 2793726.71,
+   "eur_hab": 42.21
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 3112708.65,
+   "eur_hab": 47.03
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 33776770.11,
+   "eur_hab": 510.35
+  },
+  {
+   "any": 2024,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 12214784.31,
+   "eur_hab": 184.56
+  },
+  {
+   "any": 2024,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 70267447.3,
+   "eur_hab": 1061.7
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 41956515.35,
+   "eur_hab": 633.94
+  },
+  {
+   "any": 2024,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 46222.28,
+   "eur_hab": 0.7
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "1",
+   "concepto": "Serveis públics bàsics",
+   "importe": 40077356.02,
+   "eur_hab": 604.14
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "6",
+   "concepto": "Inversions reals",
+   "importe": 25485899.88,
+   "eur_hab": 384.18
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "2900",
+   "concepto": "Impost sobre construccions, instal·lacions i obres",
+   "importe": 2115231.92,
+   "eur_hab": 31.89
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "3400",
+   "concepto": "Preus públics",
+   "importe": 376532.84,
+   "eur_hab": 5.68
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 6353050.88,
+   "eur_hab": 95.77
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "2",
+   "concepto": "Despeses corrents en béns i serveis",
+   "importe": 50977866.13,
+   "eur_hab": 768.46
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "3",
+   "concepto": "Producció de béns públics de caràcter preferent",
+   "importe": 27610509.34,
+   "eur_hab": 416.21
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "5",
+   "concepto": "Fons de contingència i altres imprevistos",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 37309639.68,
+   "eur_hab": 562.42
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "1300",
+   "concepto": "Impost sobre activitats econòmiques",
+   "importe": 8423738.33,
+   "eur_hab": 126.98
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "0",
+   "concepto": "Deute públic",
+   "importe": 19573.05,
+   "eur_hab": 0.3
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "4",
+   "concepto": "Transferències corrents",
+   "importe": 11067684.94,
+   "eur_hab": 166.84
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 13122.76,
+   "eur_hab": 0.2
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "9",
+   "concepto": "Actuacions de caràcter general",
+   "importe": 25795568.8,
+   "eur_hab": 388.85
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "8",
+   "concepto": "Actius financers",
+   "importe": 516999.16,
+   "eur_hab": 7.79
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "3",
+   "concepto": "Despeses financeres",
+   "importe": 19573.05,
+   "eur_hab": 0.3
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "2",
+   "concepto": "Actuacions de protecció i promoció social",
+   "importe": 30411845.09,
+   "eur_hab": 458.44
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "3",
+   "concepto": "Taxes, preus públics i altres ingressos",
+   "importe": 18249157.65,
+   "eur_hab": 275.09
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "9",
+   "concepto": "Passius financers",
+   "importe": 0.0,
+   "eur_hab": 0.0
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "7",
+   "concepto": "Transferències de capital",
+   "importe": 441983.81,
+   "eur_hab": 6.66
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "1106",
+   "concepto": "Impt. s/increment valor terrenys naturalesa urbana",
+   "importe": 2550495.9,
+   "eur_hab": 38.45
+  },
+  {
+   "any": 2025,
+   "doc": "CF",
+   "codigo": "4",
+   "concepto": "Actuacions de caràcter econòmic",
+   "importe": 5452835.58,
+   "eur_hab": 82.2
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "6",
+   "concepto": "Alienació d'inversions reals",
+   "importe": 12400.0,
+   "eur_hab": 0.19
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "5",
+   "concepto": "Ingressos patrimonials",
+   "importe": 1722329.32,
+   "eur_hab": 25.96
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "1105",
+   "concepto": "Impost sobre vehicles de tracció mecànica",
+   "importe": 2738084.89,
+   "eur_hab": 41.27
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "1",
+   "concepto": "Impostos directes",
+   "importe": 76321562.44,
+   "eur_hab": 1150.5
+  },
+  {
+   "any": 2025,
+   "doc": "DE",
+   "codigo": "1",
+   "concepto": "Despeses de personal",
+   "importe": 41361557.31,
+   "eur_hab": 623.5
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "1102",
+   "concepto": "Impost sobre béns immobles",
+   "importe": 62609243.32,
+   "eur_hab": 943.79
+  },
+  {
+   "any": 2025,
+   "doc": "IN",
+   "codigo": "2",
+   "concepto": "Impostos indirectes",
+   "importe": 2115231.92,
+   "eur_hab": 31.89
+  },
+  {
+   "any": 2025,
+   "doc": "IT",
+   "codigo": "3000",
+   "concepto": "Taxes",
+   "importe": 14476365.49,
+   "eur_hab": 218.22
+  }
+ ],
+ "fecha_consulta": "2026-10-24",
+ "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/ytva-5kp3.json?%24query=SELECT+any%2Ccodi_document%2Ccodi_estructura%2Cdesc_estructura%2Cimport%2Ceuros_habitant+WHERE+codi_ens%3D%270816910007%27+ORDER+BY+any+LIMIT+5000"
+}

@@ -1,0 +1,88 @@
+{
+ "dataset": "https://www.ine.es/consul/serie.do?s=IPC251852",
+ "descripcion": "IPC nacional, índice general (base 2021=100). Media anual de los meses disponibles",
+ "anual": {
+  "2006": {
+   "media": 80.76475,
+   "meses": 12
+  },
+  "2007": {
+   "media": 83.0155,
+   "meses": 12
+  },
+  "2008": {
+   "media": 86.39866666666667,
+   "meses": 12
+  },
+  "2009": {
+   "media": 86.14999999999999,
+   "meses": 12
+  },
+  "2010": {
+   "media": 87.70058333333333,
+   "meses": 12
+  },
+  "2011": {
+   "media": 90.50358333333332,
+   "meses": 12
+  },
+  "2012": {
+   "media": 92.71741666666667,
+   "meses": 12
+  },
+  "2013": {
+   "media": 94.02341666666666,
+   "meses": 12
+  },
+  "2014": {
+   "media": 93.88133333333333,
+   "meses": 12
+  },
+  "2015": {
+   "media": 93.41158333333334,
+   "meses": 12
+  },
+  "2016": {
+   "media": 93.22233333333334,
+   "meses": 12
+  },
+  "2017": {
+   "media": 95.04583333333333,
+   "meses": 12
+  },
+  "2018": {
+   "media": 96.63783333333333,
+   "meses": 12
+  },
+  "2019": {
+   "media": 97.31383333333333,
+   "meses": 12
+  },
+  "2020": {
+   "media": 96.99975,
+   "meses": 12
+  },
+  "2021": {
+   "media": 100.00008333333334,
+   "meses": 12
+  },
+  "2022": {
+   "media": 108.39066666666668,
+   "meses": 12
+  },
+  "2023": {
+   "media": 112.21941666666667,
+   "meses": 12
+  },
+  "2024": {
+   "media": 115.33258333333333,
+   "meses": 12
+  },
+  "2025": {
+   "media": 118.41550000000001,
+   "meses": 12
+  }
+ },
+ "fecha_consulta": "2026-10-24",
+ "url_consulta": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC251852?nult=240"
+}

@@ -1,0 +1,2589 @@
+{
+ "dataset": "https://analisi.transparenciacatalunya.cat/d/hb6v-jcbf",
+ "descripcion": "Registro público de contratos de Catalunya (incluye menores). Importes de adjudicación",
+ "nota_rgpd": "Solo se nombran adjudicatarios persona jurídica; personas físicas/no identificables se agregan sin nombre",
+ "agregado": [
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 32,
+   "importe": 69826.46
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2019,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 84218.06
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 27,
+   "importe": 565175.29
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 18,
+   "importe": 92568.68
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 118,
+   "importe": 98829.76
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 992,
+   "importe": 727853.44
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 120688.96
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 48,
+   "importe": 81472.3
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 20608.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 192386.4
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 248,
+   "importe": 505519.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "1. OBRES",
+   "n": 6,
+   "importe": 230105.91
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 278,
+   "importe": 405497.7
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 78,
+   "importe": 324442.6
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 23400.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 78,
+   "importe": 159036.38
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 14,
+   "importe": 236489.12
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 9,
+   "importe": 232569.06
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 2,
+   "importe": 378870.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 1146,
+   "importe": 4627406.77
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 35,
+   "importe": 512690.72
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Concurs de projectes",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 680000.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 886,
+   "importe": 1020464.12
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 2,
+   "importe": 63697.24
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 1,
+   "importe": 565898.84
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 40120.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 46,
+   "importe": 31673.12
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 115305.82
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 17,
+   "importe": 648000.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 17,
+   "importe": 434984.19
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 168,
+   "importe": 521732.78
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 451,
+   "importe": 1654340.34
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 16,
+   "importe": 550179.6
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 69,
+   "importe": 3152577.03
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "1. OBRES",
+   "n": 2,
+   "importe": 4754910.54
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 4,
+   "importe": 21543794.02
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 93,
+   "importe": 88847.44
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 289,
+   "importe": 521619.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 13,
+   "importe": 355893.71
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 100,
+   "importe": 11389348.84
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "1. OBRES",
+   "n": 7,
+   "importe": 93060.12
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 218,
+   "importe": 250699.64
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 2,
+   "importe": 460653.24
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 2,
+   "importe": 91817.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2018,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 78240.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 15,
+   "importe": 384072.69
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 76,
+   "importe": 429285.07
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 47519.96
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 116800.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 15,
+   "importe": 310097.68
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 143615.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 5,
+   "importe": 102000.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 1635305.53
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 2,
+   "importe": 70000.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "10. PRIVAT D'ADMINISTRACIO PUBLICA",
+   "n": 1,
+   "importe": 0.1
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 3,
+   "importe": 609441.65
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 96,
+   "importe": 44934.72
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 13560.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 19,
+   "importe": 15209618.58
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 5463728.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "1. OBRES",
+   "n": 3,
+   "importe": 746830.29
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 140600.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 200740.06
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "2. GESTIÓ DE SERVEI PÚBLIC",
+   "n": 1,
+   "importe": 355597.55
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 4,
+   "importe": 46495.97
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 1,
+   "importe": 438442.3
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 13,
+   "importe": 130531.28
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 40,
+   "importe": 23377.4
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2017,
+   "procedimiento": "Obert",
+   "tipo": "2. GESTIÓ DE SERVEI PÚBLIC",
+   "n": 1,
+   "importe": 711195.1
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 20,
+   "importe": 3743706.27
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 30,
+   "importe": 195512.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 372,
+   "importe": 1242922.71
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 487,
+   "importe": 545413.07
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 80,
+   "importe": 141770.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 92,
+   "importe": 12950641.38
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 38870.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2018,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 3,
+   "importe": 170000.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 272815.54
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 973,
+   "importe": 3664787.62
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 66,
+   "importe": 270602.22
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 5,
+   "importe": 2159674.67
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 70,
+   "importe": 85715.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2017,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 8,
+   "importe": 78000.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 13600.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 60173.88
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 11,
+   "importe": 397392.87
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 83,
+   "importe": 24532422.18
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 31,
+   "importe": 512842.9
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 30,
+   "importe": 42658.42
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "6. ADMINISTRATIU ESPECIAL",
+   "n": 1,
+   "importe": 18500.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 7,
+   "importe": 548196.89
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 83522.65
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 74,
+   "importe": 1890111.51
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 111,
+   "importe": 96267.99
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 2,
+   "importe": 16800.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 3,
+   "importe": 546204.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 15,
+   "importe": 1648158.29
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 78,
+   "importe": 1641194.25
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 2,
+   "importe": 4640.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "2. GESTIÓ DE SERVEI PÚBLIC",
+   "n": 1,
+   "importe": 0.0
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 62,
+   "importe": 105721.76
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 22,
+   "importe": 789064.86
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 1310755.8
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "1. OBRES",
+   "n": 7,
+   "importe": 117218.64
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 7,
+   "importe": 277945.22
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 13600.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 14,
+   "importe": 367337.31
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 722,
+   "importe": 775230.16
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 54605.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2019,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 4,
+   "importe": 486050.66
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 2,
+   "importe": 78216.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 11,
+   "importe": 14080731.52
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1097,
+   "importe": 1069092.66
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 15,
+   "importe": 471416.78
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 16,
+   "importe": 405758.24
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 8,
+   "importe": 21629.24
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 32566.84
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1034,
+   "importe": 1069396.74
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 5,
+   "importe": 1458114.1
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 20060.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 10800.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2020,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 4,
+   "importe": 486050.66
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 31,
+   "importe": 1476738.9
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 1077,
+   "importe": 862405.07
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 280,
+   "importe": 337238.14
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 4,
+   "importe": 49748.77
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 7,
+   "importe": 1475075.86
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 9,
+   "importe": 211566.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 44,
+   "importe": 844208.88
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 11,
+   "importe": 1933112.01
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 1,
+   "importe": 0.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2022,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 438,
+   "importe": 767856.44
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 76,
+   "importe": 2825524.02
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 21,
+   "importe": 601088.61
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 766,
+   "importe": 691830.19
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 190,
+   "importe": 176126.07
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 126360.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 105,
+   "importe": 20748643.84
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 252,
+   "importe": 364206.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 6000.0
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 2,
+   "importe": 20611.92
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 3888.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 4,
+   "importe": 486050.66
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2017,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 299280.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 5,
+   "importe": 889077.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 12000.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 13,
+   "importe": 161177.89
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 25,
+   "importe": 10068434.18
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 72,
+   "importe": 110881.04
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 5,
+   "importe": 72850.0
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 12712.5
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 129,
+   "importe": 40222027.12
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 9,
+   "importe": 822839.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 7,
+   "importe": 218160.82
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 28735.23
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 8,
+   "importe": 360013.6
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "1. OBRES",
+   "n": 6,
+   "importe": 1000627.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 37,
+   "importe": 983159.87
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "1. OBRES",
+   "n": 1,
+   "importe": 293698.79
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 282,
+   "importe": 976083.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 98,
+   "importe": 852448.87
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2017,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 2000276.6
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 6,
+   "importe": 54294.34
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 59,
+   "importe": 2411319.1
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "1. OBRES",
+   "n": 13,
+   "importe": 165120.81
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2019,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 88914.77
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 26,
+   "importe": 5260574.71
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 753,
+   "importe": 3409876.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 22,
+   "importe": 343575.71
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 193,
+   "importe": 537019.74
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 18564.4
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2025,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 4,
+   "importe": 595095.06
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 4,
+   "importe": 573328.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 334,
+   "importe": 1956585.41
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "2. GESTIÓ DE SERVEI PÚBLIC",
+   "n": 1,
+   "importe": 0.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 3,
+   "importe": 102121.6
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 8,
+   "importe": 2354590.2
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2026,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 16009.05
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 2,
+   "importe": 167035.84
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 30,
+   "importe": 728635.48
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 106911.84
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 40000.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 34460.0
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2024,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 30,
+   "importe": 54167.76
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2021,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 2,
+   "importe": 169144.16
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 68760.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2021,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 22,
+   "importe": 488156.7
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 6,
+   "importe": 116198.28
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 18564.4
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2024,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 3,
+   "importe": 190910.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2019,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 39822.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "1. OBRES",
+   "n": 18,
+   "importe": 188809.36
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "any": 2022,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 23400.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2024,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 4,
+   "importe": 14136.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 16,
+   "importe": 348558.57
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2018,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 34,
+   "importe": 24958850.1
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "1. OBRES",
+   "n": 65,
+   "importe": 1699634.48
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2023,
+   "procedimiento": "Negociat sense publicitat",
+   "tipo": "1. OBRES",
+   "n": 3,
+   "importe": 211895.86
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "1. OBRES",
+   "n": 43,
+   "importe": 21232370.86
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 2,
+   "importe": 38695.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2019,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 1,
+   "importe": 40000.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2025,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 7,
+   "importe": 3496251.52
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2023,
+   "procedimiento": "Basat en acord marc",
+   "tipo": "5. SERVEIS",
+   "n": 1,
+   "importe": 1460.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 154,
+   "importe": 89585.72
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 9,
+   "importe": 76995.9
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2022,
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "n": 7,
+   "importe": 205996.46
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2020,
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "n": 47,
+   "importe": 5807395.64
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "any": 2023,
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "n": 310,
+   "importe": 501274.64
+  }
+ ],
+ "top_adjudicatarios_desde_2022": [
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "VIALSER EDIFICACION Y OBRA CIVIL, S.L.U.",
+   "n": 5,
+   "importe": 24629057.64
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ZIGA-ZAGA, SL",
+   "n": 34,
+   "importe": 23550508.37
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Servicios Especiales de Limpieza, SA (SELSA)",
+   "n": 7,
+   "importe": 20386314.9
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSTRUCCIONES TOMAS GRACIA, SA",
+   "n": 7,
+   "importe": 14561224.8
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE EDIFICI GAITER",
+   "n": 2,
+   "importe": 11846419.82
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "COFELY ESPAÑA SA UNIPERSONAL",
+   "n": 5,
+   "importe": 10379443.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ENDESA ENERGíA, SA Unipersonal",
+   "n": 10,
+   "importe": 10298091.46
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TRANSIT PROJECTES, SL",
+   "n": 18,
+   "importe": 7456376.63
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EXCAVACIONES Y CONSTRUCCIONES BENJUMEA, SA",
+   "n": 4,
+   "importe": 7398458.96
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SERVEI D'ENSENYAMENT I ASSESSORAMENT ESPORTIU, SA",
+   "n": 7,
+   "importe": 5375623.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "VISUALSONORA SCCL",
+   "n": 4,
+   "importe": 5282939.27
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ARTÍFEX INFRAESTRUCTURAS, SLU",
+   "n": 5,
+   "importe": 4210922.18
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TASCA, SERVEIS D'ANIMACIÓ SL",
+   "n": 12,
+   "importe": 3911452.02
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SO I ART PRAT SL",
+   "n": 51,
+   "importe": 3018214.49
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "IBERDROLA CLIENTES, SAU",
+   "n": 6,
+   "importe": 2766288.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "PreZero España S.A",
+   "n": 4,
+   "importe": 2575639.81
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ROGASA CONSTRUCCIONES Y CONTRATAS, S.A.U",
+   "n": 2,
+   "importe": 2483123.72
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "BARNA PORTERS SEGURETAT, S.L.-BARNA PORTERS, S.L",
+   "n": 2,
+   "importe": 1838812.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Elecnor Servicios y Proyectos, S.A.U.",
+   "n": 12,
+   "importe": 1830597.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ACTIVITATS D'ESPORTS, GESTIÓ I SALUT, SL",
+   "n": 5,
+   "importe": 1727457.05
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "EGOIN, S.A.",
+   "n": 1,
+   "importe": 1669646.92
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "INTEGRACIONES DIGITALES GOLD, S.L.",
+   "n": 44,
+   "importe": 1566928.1
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SOCIEDAD ESPAÑOLA DE CONSTRUCCIONES ELECTRICAS, S.A.",
+   "n": 10,
+   "importe": 1295661.19
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSTRUCCIONES Y SERVICIOS FAUS, SA",
+   "n": 4,
+   "importe": 1266019.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ESCOLA INNOVA SALOU SL",
+   "n": 3,
+   "importe": 1253792.52
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "QSL SERVEIS CULTURALS, SL",
+   "n": 6,
+   "importe": 1184673.67
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CIC3 OBRES I SERVEIS, S.L.",
+   "n": 1,
+   "importe": 1137998.49
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "PRO-ACTIVA SERVEIS AQUÀTICS, SOCIEDAD LIMITADA",
+   "n": 4,
+   "importe": 1130376.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ESPORT 3 serveis alternatius SL",
+   "n": 5,
+   "importe": 1126437.6
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "GESTIÓ D'OBRES I SERVEIS SOSTENIBLES, SL",
+   "n": 3,
+   "importe": 1064107.23
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSTRUCCIONES FERTRES, SL",
+   "n": 4,
+   "importe": 1024543.28
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSTRUCCIONES Y REHABILITACIONES VICENÇ, SL",
+   "n": 23,
+   "importe": 984095.63
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "AGILSER SERVEIS I MANTENIMENTS, SL",
+   "n": 3,
+   "importe": 884104.47
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "OBRES I SERVEIS ROIG, SA",
+   "n": 1,
+   "importe": 883171.17
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "COMSA SERVICE FACILITY MANAGEMENT, S.A.U.",
+   "n": 3,
+   "importe": 865804.97
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "INSTAL·LACIONS I MUNTATGES LARA, SLU",
+   "n": 21,
+   "importe": 784193.14
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SNOW TRAVEL, SA",
+   "n": 4,
+   "importe": 777071.02
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ASSOCIACIÓ PER A LA RECERCA I ACCIÓ SOCIAL",
+   "n": 4,
+   "importe": 764524.59
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "HPC IBERICA, S.A.",
+   "n": 4,
+   "importe": 763378.16
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ELECTRA CALDENSE ENERGIA S.A.",
+   "n": 3,
+   "importe": 719324.55
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "COLL-LECLERC ARQUITECTOS, SLP",
+   "n": 3,
+   "importe": 709700.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SORIGUE, SA",
+   "n": 4,
+   "importe": 702133.51
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CAIXABANK EQUIPMENT FINANCE, SAU",
+   "n": 1,
+   "importe": 700800.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "OBRES I PROJECTES CATALUNYA,SL",
+   "n": 1,
+   "importe": 683775.11
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "FUNDACIÓ CATALANA DE L'ESPLAI",
+   "n": 20,
+   "importe": 669730.01
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TARRAFRAN 2015 SL",
+   "n": 31,
+   "importe": 665725.54
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ALUMBRADOS VIARIOS, SA",
+   "n": 6,
+   "importe": 596887.31
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "IARSA OBRES I PROMOCIONS, SL",
+   "n": 10,
+   "importe": 596097.68
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "IBERLAND, INMUEBLES Y REFORMAS, SL",
+   "n": 1,
+   "importe": 595820.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SALTOKI BARBERA S.L.",
+   "n": 4,
+   "importe": 593767.41
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "CONSTRUCTORA Y REHABILITADORA SECLA, SA",
+   "n": 1,
+   "importe": 565898.84
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SERVEIS I PROJECTES BEGUES, SL",
+   "n": 4,
+   "importe": 560991.7
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "IBERDROLA CLIENTES, SAU",
+   "n": 3,
+   "importe": 527498.68
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "COPISA CONSTRUCTORA PIRENAICA, SA Unipersonal",
+   "n": 1,
+   "importe": 514438.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONTINENTAL PARKING, S.L.",
+   "n": 2,
+   "importe": 508431.95
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "GASTRONOMIA DE PROXIMITAT, S.L.",
+   "n": 21,
+   "importe": 505070.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "AERONAVAL DE CONSTRUCCIONES E INSTALACIONES, SA",
+   "n": 2,
+   "importe": 500150.91
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "ASETIC, S.L.",
+   "n": 2,
+   "importe": 492844.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Etecnic Movilidad Elèctrica SRL",
+   "n": 15,
+   "importe": 485186.12
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "PROGESS PROJECTES I GESTIÓ DE SERVEIS SOCIALS, S.L.",
+   "n": 14,
+   "importe": 479466.89
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "eCityclic Solutions, SL.",
+   "n": 1,
+   "importe": 477500.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "SEMPRE A PUNT, SL",
+   "n": 2,
+   "importe": 473826.4
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TRATAMIENTO, ACONDICIONAMIENTO DE LADERAS Y OBRAS, SA",
+   "n": 11,
+   "importe": 470359.91
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "FUNDACIÓ INTERMEDIA",
+   "n": 4,
+   "importe": 461634.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CULLERE I SALA SL",
+   "n": 1,
+   "importe": 453686.19
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "ENDESA ENERGíA, SA Unipersonal",
+   "n": 8,
+   "importe": 453281.63
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SPECIALIST COMPUTER CENTRES , S.L.",
+   "n": 3,
+   "importe": 450371.21
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "IZER, INGENIERIA Y ECONOMIA, SL, Sociedad Unipersonal",
+   "n": 2,
+   "importe": 447214.41
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "PRAT ACTIU SL",
+   "n": 26,
+   "importe": 442032.15
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ILLA COOPERATIVA DE SERVEIS SCCL",
+   "n": 6,
+   "importe": 440308.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "INGENIERIA DE RECURSOS ENERGÉTICOS SL",
+   "n": 1,
+   "importe": 438442.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "METALISTERIA ROLDAN, SL",
+   "n": 17,
+   "importe": 429686.36
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONNECTA EDUCACIÓ SCCL",
+   "n": 1,
+   "importe": 421879.71
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE TELEFONICA DE ESPAÑA SAU-TELEFONICA MOVILES ES",
+   "n": 2,
+   "importe": 416258.58
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "FR PUBLIFIRES, SL",
+   "n": 20,
+   "importe": 399778.19
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SIEF-2, SL",
+   "n": 5,
+   "importe": 398185.22
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "COBRA SERVICIOS AUXILIARES, S.A.",
+   "n": 13,
+   "importe": 391160.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "Catalana d'Infraestructures i Serveis Associats, SL",
+   "n": 2,
+   "importe": 385645.06
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "PEAK SPAIN SL",
+   "n": 6,
+   "importe": 372475.2
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ASSOCIACIÓ ESPORT 3",
+   "n": 2,
+   "importe": 367582.5
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "MADERAS DEL ALTO URGEL, S.A.",
+   "n": 7,
+   "importe": 360000.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "OCCIDENT GCO, S.A. SEGUROS Y REASEGUROS, SA",
+   "n": 3,
+   "importe": 359379.91
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "RED ESPAÑOLA DE SERVICIOS, S.A. (RESSA)",
+   "n": 4,
+   "importe": 355951.0
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "FLOWBIRD ESPAÑA SL",
+   "n": 5,
+   "importe": 349214.18
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "METALCO, S.A.",
+   "n": 27,
+   "importe": 338727.74
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE ESTACIONAMIENTOS Y SERVICIOS SAU I UBERCROS SE",
+   "n": 1,
+   "importe": 335224.41
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SURT.FUNDACIÓ DE DONES.FUNDACIÓ PRIVADA",
+   "n": 3,
+   "importe": 333721.2
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CENTRO CANINO SIRCAN, SL",
+   "n": 5,
+   "importe": 329624.52
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "D'ALEPH INICIATIVAS Y ORGANIZACIÓN, S.A.",
+   "n": 8,
+   "importe": 316848.91
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SOLUCIONES AVANZADAS EN INFORMÁTICA APLICADA, SL",
+   "n": 3,
+   "importe": 315162.0
+  },
+  {
+   "organo": "El Prat Comunicació, SL",
+   "adjudicatario": "PRODUCCIONES MIC, S.L",
+   "n": 5,
+   "importe": 314465.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Seguros Catalana Occidente SA de Seguros y Reaseguros, Sociedad Unipersonal",
+   "n": 3,
+   "importe": 310335.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TK ELEVADORES ESPAÑA, S.L. Unipersonal",
+   "n": 4,
+   "importe": 303137.33
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE CONSORCI LOTES 3,6,12 Y 18 BARCELONA",
+   "n": 1,
+   "importe": 293698.79
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Pointfire, SL",
+   "n": 4,
+   "importe": 284445.22
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSTRUCCIONES EN MADERA BADIA SL",
+   "n": 4,
+   "importe": 280000.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE CAL MONES LOT 1",
+   "n": 1,
+   "importe": 276022.63
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EXPERT LINE, SL",
+   "n": 14,
+   "importe": 274731.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SOM MOBILITAT SCCL",
+   "n": 4,
+   "importe": 273888.3
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "YIRA Y FERRER, S.L.",
+   "n": 10,
+   "importe": 272578.72
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "INGENIERIA DE SISTEMAS ALBERT SASTRE, SL",
+   "n": 24,
+   "importe": 263150.24
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "ESTAYC, SL",
+   "n": 19,
+   "importe": 258392.99
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "2003, SA",
+   "n": 10,
+   "importe": 256961.6
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "SEGESTOP SLU",
+   "n": 56,
+   "importe": 253842.13
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "UTE INTERMEDIA OCUPACIÓ",
+   "n": 1,
+   "importe": 252053.67
+  },
+  {
+   "organo": "Prat Espais, SLU",
+   "adjudicatario": "ENDESA ENERGíA, SA Unipersonal",
+   "n": 82,
+   "importe": 251167.04
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "MANTENIMENTO Y OPERACIÓN DE INFRAESTRUCTURAS, SL",
+   "n": 2,
+   "importe": 248154.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EXTERNA IMATGE I COMUNICACIÓ, SL UNIPERSONAL",
+   "n": 7,
+   "importe": 246917.26
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "HIMANAR SL",
+   "n": 34,
+   "importe": 244869.58
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SOCIEDAD ESTATAL CORREOS Y TELÉGRAFOS, S.A.",
+   "n": 3,
+   "importe": 243280.28
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Assesorament i Serveis Escolars SL",
+   "n": 3,
+   "importe": 239976.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SEIDOR SOLUTIONS SL",
+   "n": 13,
+   "importe": 237214.06
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TOT CARRER SL",
+   "n": 6,
+   "importe": 236000.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "INDUSTRIAS SALUDES SAU",
+   "n": 4,
+   "importe": 234999.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "NEON ALARCON, SL",
+   "n": 29,
+   "importe": 226017.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Ximénez Catalunya S.L.",
+   "n": 10,
+   "importe": 219156.94
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "MAC UNIFORMES SL",
+   "n": 14,
+   "importe": 217832.8
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "MINERA DEL SANTO ÁNGEL, SL",
+   "n": 17,
+   "importe": 215680.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "AMBITEC SERVICIOS AMBIENTALES, SA, Sociedad Unipersonal",
+   "n": 1,
+   "importe": 214500.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SERVICE POINT FACILITIES MANAGEMENT IBERICA, SA",
+   "n": 35,
+   "importe": 212046.26
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "CONSULTORIA TECNICA NEXUS GEOGRAFICS, SL",
+   "n": 2,
+   "importe": 212000.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "CONSTRUCCIONES FERTRES, SL",
+   "n": 2,
+   "importe": 209450.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ADTENDE SL",
+   "n": 6,
+   "importe": 205784.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "ELSTER MEDICION S.A.U.",
+   "n": 6,
+   "importe": 198934.49
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Remolcs Cortés, SL",
+   "n": 2,
+   "importe": 198198.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "IVEMON AMBULÀNCIES EGARA, SL, Societat Unipersonal",
+   "n": 2,
+   "importe": 189013.9
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "IB2 SEGURETAT CATALUNYA, S.L.",
+   "n": 4,
+   "importe": 186230.66
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "ONIX ASSESSORS S.L",
+   "n": 86,
+   "importe": 186172.46
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "MORILLO ENERGY RENT, SAU",
+   "n": 5,
+   "importe": 185495.0
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "SECOM 4 CONSTRUCCIONES Y PROYECTOS, SL",
+   "n": 39,
+   "importe": 185119.76
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EXTERNA IMATGE I COMUNICACIO, SL",
+   "n": 2,
+   "importe": 184805.2
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "adjudicatario": "RAVAGO CHEMICALS SPAIN, SA",
+   "n": 4,
+   "importe": 183828.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SUBMINISTRAMENTS ELÈCTRICS EL PRAT, SL",
+   "n": 7,
+   "importe": 183431.65
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EI SAOPRAT SL",
+   "n": 36,
+   "importe": 181825.76
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "PLETA AUDITORES, S.L.P.",
+   "n": 12,
+   "importe": 171678.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "DRECERA SCCL",
+   "n": 3,
+   "importe": 170878.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "SM SISTEMAS MEDIOAMBIENTALES, Sociedad Limitada",
+   "n": 4,
+   "importe": 170180.48
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "EDL CREATIVE WATER, SL",
+   "n": 1,
+   "importe": 167026.6
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "L'ESPECTACLERIA, SL",
+   "n": 7,
+   "importe": 164488.4
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Casanovas, Graus, Pérez, Arquitectes, SCP",
+   "n": 5,
+   "importe": 164337.37
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "INFRAESTRUCTURES COSER, S.L.",
+   "n": 10,
+   "importe": 164024.38
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "FCP ASSOCITAS SCCL",
+   "n": 6,
+   "importe": 163567.57
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "IMREPOL, SL",
+   "n": 2,
+   "importe": 161966.46
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ANTI-PLAGUES DE CATALUNYA, SL",
+   "n": 3,
+   "importe": 160904.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "ABAST SYSTEMS &  SOLUTIONS, SL",
+   "n": 10,
+   "importe": 158491.7
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "REPARTO CORRESPONDENCIA URBANO SL",
+   "n": 3,
+   "importe": 158300.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "FUNDACIO PRIV ADA CENTRE D'HIGIENE MENTAL ORIENTA",
+   "n": 2,
+   "importe": 156480.0
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "TALHER SA",
+   "n": 10,
+   "importe": 155426.2
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "Asidek SL",
+   "n": 5,
+   "importe": 153726.98
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "adjudicatario": "INSTALACIONES MOLANO  S L",
+   "n": 4,
+   "importe": 153475.0
+  }
+ ],
+ "no_nombrados_desde_2022": {
+  "Ajuntament del Prat de Llobregat": {
+   "n": 354,
+   "importe": 5104177.629999999
+  },
+  "Prat Espais, SLU": {
+   "n": 227,
+   "importe": 729623.6799999999
+  },
+  "Aigües del Prat, S.A.": {
+   "n": 597,
+   "importe": 616470.2599999999
+  }
+ },
+ "fecha_consulta": "2026-10-24",
+ "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/hb6v-jcbf.json?%24query=SELECT+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte%2Ccount%28%2A%29+as+n%2Csum%28import_adjudicacio%29+as+importe+WHERE+organisme_contractant+in%28%27Ajuntament+del+Prat+de+Llobregat%27%2C%27Prat+Espais%2C+SLU%27%2C%27Aig%C3%BCes+del+Prat%2C+S.A.%27%2C%27El+Prat+Comunicaci%C3%B3%2C+SL%27%29+GROUP+BY+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte+LIMIT+50000"
+}
