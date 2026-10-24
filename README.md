@@ -23,7 +23,7 @@ y su **impacto estimado solo con datos reales** (si no hay datos: PENDIENTE). La
 | eco_prat | sub_4_1_gestor_tasa_residuos_pxg, sub_4_2_protector_delta_la_ricarda, sub_4_3_monitor_energia_y_agua | filtro sobre BOE/DOGC/BOPB; resto pendiente |
 | audit_prat | sub_5_1_auditor_gestiona_pleno, sub_5_2_inspector_placsp_contratos, sub_5_3_gestor_portal_transparencia | PLACSP ATOM, dades obertes El Prat |
 
-Lo que falta está en `datos_pendientes.yaml`.
+Lo que falta está en `datos_pendientes.yaml`. El catálogo de mejoras (6 propuestas, valores originales + verificación verificado/no_verificado/incorrecto con fuente) está en `catalogo_mejoras.yaml`; los originales en `data/`.
 
 ## Uso
 ```bash

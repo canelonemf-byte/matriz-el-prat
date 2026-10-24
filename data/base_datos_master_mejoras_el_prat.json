@@ -1,0 +1,76 @@
+{
+  "registro_maestro_mejoras_el_prat": {
+    "municipio": "El Prat de Llobregat, Barcelona, España",
+    "autor": "Lázaro López Paz",
+    "version": "1.0.0",
+    "ultima_actualizacion": "2026-10-24",
+    "estado_general": "activo_y_en_expansion_continua",
+    "archivos_asociados": {
+      "matriz_json": "proyecto_matriz_el_prat.json",
+      "hoja_calculo_excel": "Registro_Maestro_Mejoras_El_Prat",
+      "informe_pdf": "Informe Audit Propuestas Pleno ElPrat.pdf"
+    },
+    "catalogo_mejoras": [
+      {
+        "id": "PRAT-FIS-001",
+        "area": "Hacienda Pública y Presupuestos",
+        "titulo": "Rebaja IBI Urbano Residencial del 0,62% al 0,48%",
+        "fundamento_legal": "Art. 72 del TRLRHL",
+        "impacto_presupuestario_eur": -2700000,
+        "beneficiarios_kpi": "Ahorro directo de 280 € a 540 €/año para ~28.000 familias",
+        "estado": "Propuesta Oficial Pleno",
+        "fecha_registro": "2026-10-24"
+      },
+      {
+        "id": "PRAT-FIS-002",
+        "area": "Hacienda Pública y Presupuestos",
+        "titulo": "Recargo IBI BICS al 1,30% para AENA y Puerto de Barcelona",
+        "fundamento_legal": "Art. 72.1 del TRLRHL",
+        "impacto_presupuestario_eur": 6100000,
+        "beneficiarios_kpi": "Compensación de ingresos tributarios no residenciales",
+        "estado": "Propuesta Oficial Pleno",
+        "fecha_registro": "2026-10-24"
+      },
+      {
+        "id": "PRAT-ECO-001",
+        "area": "Sostenibilidad y Transición Ecológica",
+        "titulo": "Bonificación del 40% Tasa de Residuos por Pago por Generación (PxG)",
+        "fundamento_legal": "Art. 11.3 de la Ley 7/2022 de Residuos",
+        "impacto_presupuestario_eur": -1200000,
+        "beneficiarios_kpi": "Devolución de ahorro de cánones a familias recicladoras",
+        "estado": "Propuesta Oficial Pleno",
+        "fecha_registro": "2026-10-24"
+      },
+      {
+        "id": "PRAT-URB-001",
+        "area": "Movilidad e Industria (Mas Blau)",
+        "titulo": "Tarjeta de Movilidad Laboral Mas Blau (Exención 100% de pago)",
+        "fundamento_legal": "Art. 25.2.g de la LBRL",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Gratuidad de estacionamiento para trabajadores locales",
+        "estado": "Propuesta Oficial Pleno",
+        "fecha_registro": "2026-10-24"
+      },
+      {
+        "id": "PRAT-VIV-001",
+        "area": "Vivienda Pública (Prat Espais)",
+        "titulo": "Plan 1.500 VPO Alquiler Asequible en Eixample Sud y ARE",
+        "fundamento_legal": "Patrimonio Municipal de Suelo y Vivienda (PMSV)",
+        "impacto_presupuestario_eur": -54000000,
+        "beneficiarios_kpi": "Alquileres protegidos topados al 20% del salario medio",
+        "estado": "En diseño técnico",
+        "fecha_registro": "2026-10-24"
+      },
+      {
+        "id": "PRAT-LEG-001",
+        "area": "Gobernanza y Transparencia",
+        "titulo": "Bloqueo tecnológico en Gestiona por falta de expediente previo",
+        "fundamento_legal": "Art. 77 LBRL y Art. 84 ROF",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Garantía de 48h/10 días de acceso a la documentación plenaria",
+        "estado": "Moción Plenaria",
+        "fecha_registro": "2026-10-24"
+      }
+    ]
+  }
+}

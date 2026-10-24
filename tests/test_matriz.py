@@ -61,3 +61,11 @@ def test_prioridad_beneficio():
     assert all("beneficio" in a and "beneficiarios" in a for a in an)
     assert an[-1]["id"] == "PRAT-FIS-002"  # ya vigente: sin beneficio nuevo
     assert "Beneficio para la ciudadanía" in D.mocion("t", "e", ["a"])
+
+
+def test_catalogo_verificado():
+    c = A.catalogo()
+    ids = {m["id"] for m in c["catalogo"]}
+    assert ids == {"PRAT-FIS-001", "PRAT-FIS-002", "PRAT-ECO-001", "PRAT-URB-001", "PRAT-VIV-001", "PRAT-LEG-001"}
+    for m in c["catalogo"]:
+        assert m["agente"] in A.AGENTES and m["original"] and all(v["estado"] in ("verificado", "no_verificado", "incorrecto") for v in m["verificacion"])

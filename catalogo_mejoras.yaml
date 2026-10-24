@@ -1,0 +1,77 @@
+# Catálogo de mejoras de matriz_el_prat. Los valores "original" son de Lázaro López Paz y NO se modifican.
+# Al lado va la verificación contra fuentes oficiales (comprobado el 2026-10-24).
+# estados: verificado | no_verificado | incorrecto
+fuentes:
+  json_original: data/base_datos_master_mejoras_el_prat.json     # = Drive base_datos_master_mejoras_el_prat.json
+  hoja_drive: "Drive: Registro_Maestro_Mejoras_El_Prat (hoja de Google, 6 filas, mismos valores que el JSON salvo el signo de PRAT-VIV-001)"
+  excel: data/Registro_Maestro_Mejoras_El_Prat.xlsx   # escenario prudente, simulador IBI y plan; otro contenido distinto
+  matriz_json: "Drive: proyecto_matriz_el_prat.json (idéntico a la arquitectura ya implantada)"
+  informe_pdf: "Informe Audit Propuestas Pleno ElPrat.pdf: NO encontrado en Drive"
+  of1_2026: {url: "https://bop.diba.cat/anuncio/ver-pdf/3878031", cve: "202510200458", boletin: "BOPB 23-12-2025"}
+  trlrhl_art72: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214#a72 (versión vigente desde 2026-10-08)"
+  ley_7_2022_art11: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809#a1-3"
+  lbrl_art25_77: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
+discrepancias_excel_json:
+  - "JSON/hoja: tipo actual 0,62 % → 0,48 % e impacto -2,7 M€. Excel: simulador con tipos HIPOTÉTICOS 0,60 % → 0,52 % e impacto 0 ('no presupuestar aún')."
+  - "JSON/hoja: BICE +6,1 M€. Excel: no recoge BICE; excluye 'aportación adicional Aena' hasta acuerdo firmado."
+  - "JSON/hoja: residuos -1,2 M€. Excel: ahorro neto residuos 0 hasta auditoría."
+  - "PRAT-VIV-001: JSON -54.000.000 €; hoja de Drive +54.000.000 €."
+  - "El Excel añade partidas que no están en el JSON: bonificaciones IBI, eficiencia de gasto, recargo vivienda vacía, grúa, transporte social y un plan de 8 actuaciones (se integran como plan_y_controles, sin duplicar)."
+catalogo:
+  - id: PRAT-FIS-001
+    agente: fiscal_prat
+    subagentes: [sub_2_3_optimizador_ibi_y_tasas]
+    original: {titulo: "Rebaja IBI Urbano Residencial del 0,62% al 0,48%", fundamento_legal: "Art. 72 del TRLRHL", impacto_presupuestario_eur: -2700000, beneficiarios_kpi: "Ahorro directo de 280 € a 540 €/año para ~28.000 familias", estado: "Propuesta Oficial Pleno"}
+    beneficio_ciudadano: {beneficio: "IBI más bajo en la vivienda", beneficiarios: "propietarios de vivienda (y, por repercusión, inquilinos)", prioridad: 2}
+    verificacion:
+      - {dato: "tipo actual 0,62 %", estado: verificado, nota: "el tipo general vigente es 0,6199 % (OF1 2026 art. 7.1.a); 0,62 es su redondeo", fuente: of1_2026}
+      - {dato: "0,48 % legal", estado: verificado, nota: "art. 72.1 TRLRHL: mínimo urbano 0,4 %, máximo 1,10 %", fuente: trlrhl_art72}
+      - {dato: "rebaja solo 'residencial'", estado: incorrecto, nota: "art. 72.4: los tipos diferenciados solo caben para usos NO residenciales; para bajar la vivienda hay que bajar el tipo general (afecta a todo inmueble urbano sin tipo diferenciado) o usar bonificaciones del art. 74", fuente: trlrhl_art72}
+      - {dato: "-2,7 M€", estado: no_verificado, nota: "exige una base liquidable afectada de ~1.930 M€ (2,7 M€ / 0,1399 %); falta padrón IBI o estadística catastral", fuente: ""}
+      - {dato: "280-540 €/año para ~28.000 familias", estado: incorrecto, nota: "incoherente con -2,7 M€: 28.000 × 280-540 € = 7,8-15,1 M€; con 2,7 M€ salen ~96 €/familia. Un ahorro de 280-540 € con Δ0,1399 % requiere base liquidable de 200.000-386.000 € por vivienda", fuente: ""}
+  - id: PRAT-FIS-002
+    agente: fiscal_prat
+    subagentes: [sub_2_2_calculador_bics_aena_puerto]
+    original: {titulo: "Recargo IBI BICS al 1,30% para AENA y Puerto de Barcelona", fundamento_legal: "Art. 72.1 del TRLRHL", impacto_presupuestario_eur: 6100000, beneficiarios_kpi: "Compensación de ingresos tributarios no residenciales", estado: "Propuesta Oficial Pleno"}
+    beneficio_ciudadano: {beneficio: "ninguno nuevo: el tipo ya está aplicado", beneficiarios: "toda la ciudadanía", prioridad: 9}
+    verificacion:
+      - {dato: "1,30 % es el máximo legal", estado: verificado, nota: "art. 72.2 TRLRHL: tipo BICE diferenciado entre 0,4 % y 1,3 %", fuente: trlrhl_art72}
+      - {dato: "fundamento art. 72.1", estado: incorrecto, nota: "los BICE se regulan en el art. 72.2, no en el 72.1", fuente: trlrhl_art72}
+      - {dato: "subir los BICE a 1,30 %", estado: incorrecto, nota: "El Prat YA aplica 1,30 % a los BICE en 2026 (OF1 art. 7.1.d); no es un 'recargo' nuevo y no se puede subir más", fuente: of1_2026}
+      - {dato: "+6,1 M€", estado: incorrecto, nota: "no hay ingreso adicional posible por esta vía con el tipo ya en el máximo", fuente: of1_2026}
+  - id: PRAT-ECO-001
+    agente: eco_prat
+    subagentes: [sub_4_1_gestor_tasa_residuos_pxg]
+    original: {titulo: "Bonificación del 40% Tasa de Residuos por Pago por Generación (PxG)", fundamento_legal: "Art. 11.3 de la Ley 7/2022 de Residuos", impacto_presupuestario_eur: -1200000, beneficiarios_kpi: "Devolución de ahorro de cánones a familias recicladoras", estado: "Propuesta Oficial Pleno"}
+    beneficio_ciudadano: {beneficio: "tasa de residuos más justa: paga menos quien recicla", beneficiarios: "hogares que separan residuos", prioridad: 1}
+    verificacion:
+      - {dato: "art. 11.3 Ley 7/2022", estado: verificado, nota: "obliga a una tasa específica, diferenciada y NO deficitaria que permita el pago por generación; las reducciones por separar o compostar están en el art. 11.4.b-c", fuente: ley_7_2022_art11}
+      - {dato: "40 %", estado: no_verificado, nota: "la ley no fija porcentajes; el 40 % debe justificarse con costes y compensarse para que la tasa no sea deficitaria", fuente: ley_7_2022_art11}
+      - {dato: "-1,2 M€", estado: no_verificado, nota: "falta la OF 26 2026, el coste del servicio y la recaudación; el Excel lo deja en 0", fuente: ""}
+  - id: PRAT-URB-001
+    agente: urba_prat
+    subagentes: [sub_3_2_controlador_movilidad_mas_blau]
+    original: {titulo: "Tarjeta de Movilidad Laboral Mas Blau (Exención 100% de pago)", fundamento_legal: "Art. 25.2.g de la LBRL", impacto_presupuestario_eur: 0, beneficiarios_kpi: "Gratuidad de estacionamiento para trabajadores locales", estado: "Propuesta Oficial Pleno"}
+    beneficio_ciudadano: {beneficio: "aparcamiento más barato para ir a trabajar", beneficiarios: "trabajadores de Mas Blau", prioridad: 4}
+    verificacion:
+      - {dato: "art. 25.2.g LBRL", estado: verificado, nota: "competencia municipal en 'tráfico, estacionamiento de vehículos y movilidad'", fuente: lbrl_art25_77}
+      - {dato: "exención 100 %", estado: incorrecto, nota: "art. 9.1 TRLRHL: no caben beneficios fiscales en tributos locales no previstos en ley; alternativa: tarifa social (art. 24.4) o piloto, como propone el Excel", fuente: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214#a9"}
+      - {dato: "impacto 0 €", estado: incorrecto, nota: "una exención reduce ingresos de la tasa (OF 23); el Excel lo marca 'pendiente de estudio'", fuente: ""}
+  - id: PRAT-VIV-001
+    agente: urba_prat
+    subagentes: [sub_3_1_gestor_vpo_prat_espais]
+    original: {titulo: "Plan 1.500 VPO Alquiler Asequible en Eixample Sud y ARE", fundamento_legal: "Patrimonio Municipal de Suelo y Vivienda (PMSV)", impacto_presupuestario_eur: -54000000, beneficiarios_kpi: "Alquileres protegidos topados al 20% del salario medio", estado: "En diseño técnico"}
+    beneficio_ciudadano: {beneficio: "más vivienda de alquiler asequible", beneficiarios: "jóvenes y familias en lista de espera", prioridad: 1}
+    verificacion:
+      - {dato: "-54 M€", estado: no_verificado, nota: "signo distinto en el JSON (-) y en la hoja de Drive (+); equivale a 36.000 €/vivienda, sin desglose de suelo ni financiación", fuente: ""}
+      - {dato: "alquiler topado al 20 % del salario medio", estado: no_verificado, nota: "falta la fuente del salario medio y la norma del régimen de protección aplicable", fuente: ""}
+  - id: PRAT-LEG-001
+    agente: audit_prat
+    subagentes: [sub_5_1_auditor_gestiona_pleno]
+    original: {titulo: "Bloqueo tecnológico en Gestiona por falta de expediente previo", fundamento_legal: "Art. 77 LBRL y Art. 84 ROF", impacto_presupuestario_eur: 0, beneficiarios_kpi: "Garantía de 48h/10 días de acceso a la documentación plenaria", estado: "Moción Plenaria"}
+    beneficio_ciudadano: {beneficio: "más transparencia y control del gobierno municipal", beneficiarios: "concejales y ciudadanía", prioridad: 3}
+    verificacion:
+      - {dato: "art. 77 LBRL", estado: verificado, nota: "derecho de los concejales a obtener información; la solicitud se resuelve motivadamente en 5 días naturales", fuente: lbrl_art25_77}
+      - {dato: "art. 84 ROF", estado: no_verificado, nota: "el ROF (RD 2568/1986) no está en la API consolidada del BOE y la página no respondió; según su texto conocido, la documentación del orden del día debe estar a disposición desde la convocatoria. Comprobar en https://www.boe.es/buscar/doc.php?id=BOE-A-1986-23581", fuente: ""}
+      - {dato: "48 h / 10 días", estado: no_verificado, nota: "la LBRL dice 5 días naturales; los plazos de 48 h (art. 46.2.b LBRL: convocatoria con 2 días hábiles) y 10 días no constan para esto", fuente: lbrl_art25_77}
+plan_y_controles_excel: "ver hoja 'Plan y controles' de data/Registro_Maestro_Mejoras_El_Prat.xlsx (8 actuaciones con indicador ciudadano)"

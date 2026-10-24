@@ -154,5 +154,14 @@ def ciclo(store: Store | None = None) -> dict:
         subs = [s(store).ejecutar() for s in SUBAGENTES if s.agente == ag]
         res["agentes"][ag] = {"nombre": nombre, "subagentes": subs}
     res["analisis"] = analizar_propuestas()
+    res["catalogo_mejoras"] = catalogo()["catalogo"]
     res["almacen"] = store.counts()
     return res
+
+
+def catalogo() -> dict:
+    """Catálogo de mejoras con valores originales del autor + verificación (catalogo_mejoras.yaml)."""
+    p = next(x for x in (ROOT / "catalogo_mejoras.yaml", Path(__file__).with_name("catalogo_mejoras.yaml")) if x.exists())
+    d = yaml.safe_load(p.read_text(encoding="utf-8"))
+    d["catalogo"].sort(key=lambda m: m["beneficio_ciudadano"]["prioridad"])
+    return d
