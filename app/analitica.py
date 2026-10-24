@@ -248,4 +248,12 @@ def hechos_para_ia() -> list[dict]:
             h.append({"hecho": f"{u} {r['doc']} {r.nombre}: {r.importe:,.0f} €", "fuente": "https://analisi.transparenciacatalunya.cat/d/ytva-5kp3"})
     for a in alertas()[:15]:
         h.append({"hecho": "Alerta: " + a["texto"], "fuente": a["fuente"]})
+    pe = personal()
+    if not pe.empty:
+        g = personal_grupos(pe); a = int(g.index.max())
+        h.append({"hecho": f"Presupuesto inicial {a}, capítulo 1 (personal): total {g.loc[a].sum():,.0f} €; " +
+                           "; ".join(f"{k} {v:,.0f} €" for k, v in g.loc[a].items() if v), "fuente": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6"})
+        f = formacion(pe)
+        h.append({"hecho": "Formación del personal (concepto 160200), presupuesto inicial: " + "; ".join(f"{int(k)} {v:,.0f} €" for k, v in f.tail(3).items()),
+                  "fuente": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6"})
     return h

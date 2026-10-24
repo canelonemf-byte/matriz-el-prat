@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 .venv/
 __pycache__/
+
+# secretos
+.env
+*.env
+.secrets/
+*.key
+secrets*

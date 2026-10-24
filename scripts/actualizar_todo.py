@@ -8,7 +8,7 @@ Uso: python scripts/actualizar_todo.py [--sin-descarga] [--sin-tests]
 Autoría: Lázaro López Paz (El Prat de Llobregat) con asistencia de IA. MIT.
 """
 from __future__ import annotations
-import datetime as dt, json, pathlib, subprocess, sys
+import datetime as dt, json, pathlib, re, subprocess, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
@@ -77,18 +77,35 @@ def redactar(ini: list[dict], m: dict, cambios: list) -> str:
     txt = [f"# Iniciativas ciudadanas — {hoy} (BORRADOR)", "",
            "Generado automáticamente a partir de datos oficiales descargados. No se ha presentado nada ante el Ajuntament: "
            "cualquier presentación la decide y la hace Lázaro López Paz. Autoría: Lázaro López Paz, El Prat de Llobregat, con asistencia de IA. CC BY 4.0.", ""]
-    modo = ia.estado()
+    modo = ia.estado(); ia_txt = None
     if modo != "pendiente_de_clave":
-        r = ia.preguntar("Resume en 5 líneas, en castellano sencillo, la situación económica del Ayuntamiento y los cambios de esta semana: "
-                         + json.dumps(cambios[:20], ensure_ascii=False))
-        txt += ["## Resumen (IA, solo con cifras de las fuentes)", r["respuesta"], ""]
+        datos = json.dumps({"metricas": m, "cambios": cambios[:30], "hechos": ia.hechos_para_ia(), "propuestas_por_reglas": ini}, ensure_ascii=False, default=str)
+        pet = ("Con SOLO estos DATOS (JSON con fuentes), escribe en castellano sencillo, en Markdown:\n"
+               "## Resumen para vecinos\n(5-7 líneas: ingresos, gastos, sobrante, personal, contratos a revisar, cambios de la semana)\n"
+               "## Iniciativas propuestas por la IA\nDe 1 a 3 iniciativas legales y viables. Para cada una (### título): Dato (cifra exacta copiada de los datos + URL de fuente), "
+               "Propuesta, Base legal (norma real y artículo), Impacto estimado (solo si se calcula con los datos; si no, 'no calculable: falta X'), Quién se beneficia.\n"
+               "No inventes cifras ni normas. Todo es BORRADOR que decide el usuario; nada se presenta al Ajuntament.\n\nDATOS:\n" + datos)
+        try:
+            ia_txt, malos = ia.con_validacion(ia.chat(ia.SISTEMA, pet, modo), datos)
+            txt += [f"_IA: {modo} · modelo {ia.modelo(modo)} · cifras no verificadas: {len(malos)}_", "", ia_txt, "",
+                    "---", "## Iniciativas por reglas (deterministas, referencia)", ""]
+        except Exception as e:  # noqa: BLE001
+            txt += ["## Resumen", f"IA no disponible ({type(e).__name__}); iniciativas generadas por reglas.", ""]
     else:
-        txt += ["## Resumen", "IA generativa pendiente de clave (GEMINI_API_KEY / LiteLLM). Iniciativas generadas por reglas.", ""]
+        txt += ["## Resumen", "IA generativa pendiente de clave (GROK_API_KEY / LiteLLM / GEMINI_API_KEY). Iniciativas generadas por reglas.", ""]
     txt += ["## Cambios desde la última ejecución", *(f"- `{c['campo']}`: {c['antes']} → {c['ahora']}" for c in cambios), "" if cambios else "- Sin cambios", ""]
     for i, x in enumerate(ini, 1):
-        txt += [f"## {i}. {x['titulo']}", f"- **Dato:** {x['dato']}", f"- **Propuesta:** {x['propuesta']}", f"- **Base legal:** {x['base_legal']}",
+        txt += [f"### R{i}. {x['titulo']}", f"- **Dato:** {x['dato']}", f"- **Propuesta:** {x['propuesta']}", f"- **Base legal:** {x['base_legal']}",
                 f"- **Impacto estimado:** {x['impacto']}", f"- **Fuente:** {x['fuente']}", "- **Estado:** propuesta (pendiente de decisión del usuario)", ""]
     return "\n".join(txt)
+
+
+def iniciativas_ia(md: str) -> list[dict]:
+    sec = md.split("## Iniciativas propuestas por la IA", 1)
+    if len(sec) < 2:
+        return []
+    return [{"titulo": t.strip(), "fuente": "IA (ver informe)", "impacto": "ver informe", "origen": "IA (" + ia.modelo(ia.estado()) + ")"}
+            for t in re.findall(r"^###\s+(.+)$", sec[1].split("\n---", 1)[0], re.M)][:3]
 
 
 def registrar(ini: list[dict]):
@@ -96,7 +113,7 @@ def registrar(ini: list[dict]):
     hoy = dt.date.today().isoformat()
     for x in ini:
         if x["titulo"] not in s:
-            s += f"| IA-{hoy}-{abs(hash(x['titulo'])) % 1000:03d} | {x['titulo']} | IA (reglas) | propuesta | {x['fuente']} | {x['impacto']} | {hoy} |\n"
+            s += f"| IA-{hoy}-{abs(hash(x['titulo'])) % 1000:03d} | {x['titulo']} | {x.get('origen', 'IA (reglas)')} | propuesta | {x['fuente']} | {x['impacto']} | {hoy} |\n"
     reg.write_text(s, encoding="utf-8")
 
 
@@ -117,8 +134,9 @@ def main(argv):
     an = A.anomalias_contratos(det)
     (REP / f"anomalias_{hoy}.json").write_text(an[["organo", "any", "expediente", "objeto", "adjudicatario", "importe", "motivo"]].head(100).to_json(orient="records", force_ascii=False, indent=1))
     ini = iniciativas_reglas(m)
-    (REP / f"iniciativas_{hoy}.md").write_text(redactar(ini, m, cambios), encoding="utf-8")
-    registrar(ini)
+    md = redactar(ini, m, cambios)
+    (REP / f"iniciativas_{hoy}.md").write_text(md, encoding="utf-8")
+    registrar(ini + iniciativas_ia(md))
     res.update({"metricas": m, "cambios": len(cambios), "iniciativas": [x["titulo"] for x in ini]})
     print(json.dumps(res, ensure_ascii=False, indent=1, default=str))
     return 0 if "failed" not in str(res.get("tests", "")) else 1

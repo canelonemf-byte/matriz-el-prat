@@ -332,12 +332,14 @@ elif pag == PAGINAS[15]:
     st.title("Pregunta a la IA sobre el dinero del Ayuntamiento")
     modo = ia.estado()
     if modo == "pendiente_de_clave":
-        st.warning("IA generativa **pendiente de clave** (GEMINI_API_KEY o LiteLLM de AGs-Core). Mientras, se responde buscando en los datos oficiales cargados.")
+        st.warning("IA generativa **pendiente de clave** (GROK_API_KEY, LiteLLM de AGs-Core o GEMINI_API_KEY). Mientras, se responde buscando en los datos oficiales cargados.")
     else:
-        st.success(f"IA activa vía {modo}. Solo puede usar cifras de las fuentes cargadas y debe citarlas.")
+        st.success(f"IA activa vía {modo} ({ia.modelo(modo)}). Solo puede usar cifras de las fuentes cargadas y debe citarlas.")
     q = st.text_input("Tu pregunta", "¿Cuánto se gastó en servicios sociales el último año?")
     if st.button("Preguntar") and q:
         r = ia.preguntar(q); st.markdown(r["respuesta"])
+        if r.get("modo") in ("xai", "gemini", "litellm") and not r["no_verificadas"]:
+            st.caption("✅ Todas las cifras de la respuesta están en los datos de origen.")
         with st.expander("Hechos y fuentes que puede usar la IA"):
             st.dataframe(pd.DataFrame(r["hechos"]), hide_index=True)
 
