@@ -1,0 +1,833 @@
+{
+ "endeutament": [
+  {
+   "any": 2010,
+   "deute_viu_eur": 36818000.0,
+   "cens": 63499
+  },
+  {
+   "any": 2011,
+   "deute_viu_eur": 40911134.7,
+   "cens": 63162
+  },
+  {
+   "any": 2012,
+   "deute_viu_eur": 33859655.36,
+   "cens": 63419
+  },
+  {
+   "any": 2013,
+   "deute_viu_eur": 31608032.85,
+   "cens": 62866
+  },
+  {
+   "any": 2014,
+   "deute_viu_eur": 19218014.69,
+   "cens": 63014
+  },
+  {
+   "any": 2015,
+   "deute_viu_eur": 7555000.0,
+   "cens": 63457
+  },
+  {
+   "any": 2016,
+   "deute_viu_eur": 5127622.69,
+   "cens": 63897
+  },
+  {
+   "any": 2017,
+   "deute_viu_eur": 1164678.55,
+   "cens": 64132
+  },
+  {
+   "any": 2018,
+   "deute_viu_eur": 1936674.8,
+   "cens": 64132
+  },
+  {
+   "any": 2019,
+   "deute_viu_eur": 1421106.0,
+   "cens": 64599
+  },
+  {
+   "any": 2020,
+   "deute_viu_eur": 321978.0,
+   "cens": 65385
+  },
+  {
+   "any": 2021,
+   "deute_viu_eur": 409618.0,
+   "cens": 65532
+  },
+  {
+   "any": 2022,
+   "deute_viu_eur": 1194336.0,
+   "cens": 65030
+  },
+  {
+   "any": 2023,
+   "deute_viu_eur": 1278454.0,
+   "cens": 65516
+  },
+  {
+   "any": 2024,
+   "deute_viu_eur": 731912.0,
+   "cens": 66184
+  },
+  {
+   "any": 2025,
+   "deute_viu_eur": 480671.0,
+   "cens": 66251
+  }
+ ],
+ "pmp": [
+  {
+   "periode": "2018-06-30",
+   "pmp_dies": 13
+  },
+  {
+   "periode": "2018-09-30",
+   "pmp_dies": 63
+  },
+  {
+   "periode": "2018-12-31",
+   "pmp_dies": 13
+  },
+  {
+   "periode": "2019-03-31",
+   "pmp_dies": 52
+  },
+  {
+   "periode": "2019-06-01",
+   "pmp_dies": 19
+  },
+  {
+   "periode": "2019-09-01",
+   "pmp_dies": 12
+  },
+  {
+   "periode": "2019-12-31",
+   "pmp_dies": 42
+  },
+  {
+   "periode": "2020-03-01",
+   "pmp_dies": 31
+  },
+  {
+   "periode": "2020-06-01",
+   "pmp_dies": 43
+  },
+  {
+   "periode": "2020-09-01",
+   "pmp_dies": 16
+  },
+  {
+   "periode": "2020-12-01",
+   "pmp_dies": 10
+  },
+  {
+   "periode": "2021-03-01",
+   "pmp_dies": 26
+  },
+  {
+   "periode": "2021-06-01",
+   "pmp_dies": 22
+  },
+  {
+   "periode": "2021-09-01",
+   "pmp_dies": 20
+  },
+  {
+   "periode": "2021-12-01",
+   "pmp_dies": 15
+  },
+  {
+   "periode": "2022-03-01",
+   "pmp_dies": 25
+  },
+  {
+   "periode": "2022-06-01",
+   "pmp_dies": 23
+  },
+  {
+   "periode": "2022-09-01",
+   "pmp_dies": 25
+  },
+  {
+   "periode": "2022-12-01",
+   "pmp_dies": 18
+  },
+  {
+   "periode": "2023-03-01",
+   "pmp_dies": 20
+  },
+  {
+   "periode": "2023-06-01",
+   "pmp_dies": 14
+  },
+  {
+   "periode": "2023-09-01",
+   "pmp_dies": 15
+  },
+  {
+   "periode": "2023-12-01",
+   "pmp_dies": 14
+  },
+  {
+   "periode": "2024-06-01",
+   "pmp_dies": 48
+  },
+  {
+   "periode": "2024-09-01",
+   "pmp_dies": 36
+  },
+  {
+   "periode": "2024-12-01",
+   "pmp_dies": 28
+  },
+  {
+   "periode": "2025-03-01",
+   "pmp_dies": 28
+  },
+  {
+   "periode": "2025-06-01",
+   "pmp_dies": 28
+  },
+  {
+   "periode": "2025-09-01",
+   "pmp_dies": 27
+  },
+  {
+   "periode": "2025-12-01",
+   "pmp_dies": 27
+  },
+  {
+   "periode": "2026-03-01",
+   "pmp_dies": 27
+  },
+  {
+   "periode": "2026-06-01",
+   "pmp_dies": 21
+  }
+ ],
+ "tipus_impositius": [
+  {
+   "_id": 137701,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost de béns immobles: Urbana",
+   "IMPORT": 0.63,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 1,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137702,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Any de la darrere revisió cadastral",
+   "IMPORT": 1997.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 2,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137703,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost d'activitats econòmiques: Coeficient màxim",
+   "IMPORT": 3.8,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 6,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137704,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost d'activitats econòmiques: Coeficient mínim",
+   "IMPORT": 2.9,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 7,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137705,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de menys de 8 cavalls fiscals",
+   "IMPORT": 25.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 9,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137706,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 8 a 11,99 cavalls fiscals",
+   "IMPORT": 68.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 10,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137707,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 12 a 15,99 cavalls fiscals",
+   "IMPORT": 143.5,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 11,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137708,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 16 a 19,99 cavalls fiscals",
+   "IMPORT": 179.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 12,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137709,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 20 cavalls fiscals o més",
+   "IMPORT": 224.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 13,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137710,
+   "ANY": 2025,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost sobre construccions, instal?lacions i obres",
+   "IMPORT": 4.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 47,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137711,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost de béns immobles: Urbana",
+   "IMPORT": 0.63,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 1,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137712,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Any de la darrere revisió cadastral",
+   "IMPORT": 1997.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 2,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137713,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost d'activitats econòmiques: Coeficient màxim",
+   "IMPORT": 3.8,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 6,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137714,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost d'activitats econòmiques: Coeficient mínim",
+   "IMPORT": 2.9,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 7,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137715,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de menys de 8 cavalls fiscals",
+   "IMPORT": 25.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 9,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137716,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 8 a 11,99 cavalls fiscals",
+   "IMPORT": 68.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 10,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137717,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 12 a 15,99 cavalls fiscals",
+   "IMPORT": 143.5,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 11,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137718,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 16 a 19,99 cavalls fiscals",
+   "IMPORT": 179.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 12,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137719,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "IVTM turismes de 20 cavalls fiscals o més",
+   "IMPORT": 224.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 13,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  },
+  {
+   "_id": 137720,
+   "ANY": 2024,
+   "NOM_DOCUMENT": "TIPUS IMPOSITIUS",
+   "DESC_ESTRUCTURA": "Impost sobre construccions, instal?lacions i obres",
+   "IMPORT": 4.0,
+   "CODI_DOCUMENT": "TI",
+   "CODI_ESTRUCTURA": 47,
+   "CODI_ENS": 816910007,
+   "NOM_ENS": "Ajuntament del Prat de Llobregat"
+  }
+ ],
+ "subvencions_per_any": {
+  "2026": {
+   "n": 541,
+   "import_eur": 1751371.51
+  },
+  "2025": {
+   "n": 776,
+   "import_eur": 3685299.1
+  },
+  "2024": {
+   "n": 250,
+   "import_eur": 3913945.29
+  },
+  "2023": {
+   "n": 324,
+   "import_eur": 4278398.01
+  },
+  "2022": {
+   "n": 376,
+   "import_eur": 4266896.92
+  }
+ },
+ "convenis_per_any": {
+  "2026": 2,
+  "2025": 19,
+  "2024": 14,
+  "2023": 22,
+  "2022": 20,
+  "2021": 35,
+  "2020": 12,
+  "2019": 14,
+  "2018": 7,
+  "2017": 6,
+  "2016": 9,
+  "2015": 3,
+  "2014": 2,
+  "2010": 1,
+  "2003": 1,
+  "2001": 1,
+  "1997": 1
+ },
+ "actes_ple": [
+  "2010-09-15",
+  "2010-10-06",
+  "2010-11-03",
+  "2010-12-15",
+  "2010-12-20",
+  "2011-01-19",
+  "2011-02-09",
+  "2011-03-02",
+  "2011-04-06",
+  "2011-04-26",
+  "2011-05-04",
+  "2011-06-08",
+  "2011-06-11",
+  "2011-06-30",
+  "2011-07-14",
+  "2011-09-14",
+  "2011-10-05",
+  "2011-10-24",
+  "2011-11-02",
+  "2011-12-21",
+  "2012-01-18",
+  "2012-02-08",
+  "2012-03-07",
+  "2012-04-11",
+  "2012-05-09",
+  "2012-06-06",
+  "2012-07-04",
+  "2012-09-12",
+  "2012-10-03",
+  "2012-10-29",
+  "2012-11-07",
+  "2012-12-19",
+  "2013-01-16",
+  "2013-02-06",
+  "2013-03-06",
+  "2013-04-10",
+  "2013-05-08",
+  "2013-06-05",
+  "2013-07-03",
+  "2013-09-18",
+  "2013-10-09",
+  "2013-11-06",
+  "2013-12-18",
+  "2014-01-15",
+  "2014-02-05",
+  "2014-03-05",
+  "2014-04-02",
+  "2014-04-28",
+  "2014-05-07",
+  "2014-06-04",
+  "2014-07-02",
+  "2014-09-17",
+  "2014-10-08",
+  "2014-11-05",
+  "2014-12-17",
+  "2015-01-14",
+  "2015-02-04",
+  "2015-03-04",
+  "2015-04-08",
+  "2015-04-27",
+  "2015-05-06",
+  "2015-06-10",
+  "2015-06-10",
+  "2015-06-13",
+  "2015-07-01",
+  "2015-09-01",
+  "2015-09-16",
+  "2015-10-07",
+  "2015-11-04",
+  "2015-11-23",
+  "2015-12-16",
+  "2016-01-13",
+  "2016-02-03",
+  "2016-03-02",
+  "2016-04-06",
+  "2016-05-04",
+  "2016-05-30",
+  "2016-06-01",
+  "2016-07-06",
+  "2016-09-14",
+  "2016-10-05",
+  "2016-11-02",
+  "2016-12-14",
+  "2017-01-11",
+  "2017-02-01",
+  "2017-03-08",
+  "2017-04-05",
+  "2017-05-03",
+  "2017-06-07",
+  "2017-06-11",
+  "2017-07-05",
+  "2017-09-13",
+  "2017-10-04",
+  "2017-11-08",
+  "2017-11-22",
+  "2017-11-24",
+  "2017-12-13",
+  "2018-01-10",
+  "2018-02-07",
+  "2018-03-07",
+  "2018-04-11",
+  "2018-04-30",
+  "2018-05-09",
+  "2018-06-06",
+  "2018-07-11",
+  "2018-09-12",
+  "2018-10-05",
+  "2018-11-07",
+  "2018-12-12",
+  "2019-01-09",
+  "2019-02-06",
+  "2019-02-06",
+  "2019-03-13",
+  "2019-04-01",
+  "2019-04-03",
+  "2019-05-08",
+  "2019-05-13",
+  "2019-06-12",
+  "2019-06-15",
+  "2019-07-03",
+  "2019-07-24",
+  "2019-09-12",
+  "2019-10-02",
+  "2019-11-06",
+  "2019-12-11",
+  "2020-01-15",
+  "2020-02-05",
+  "2020-03-04",
+  "2020-04-08",
+  "2020-04-08",
+  "2020-05-06",
+  "2020-06-03",
+  "2020-07-08",
+  "2020-09-09",
+  "2020-10-07",
+  "2020-10-19",
+  "2020-11-04",
+  "2020-12-16",
+  "2021-01-13",
+  "2021-02-03",
+  "2021-03-03",
+  "2021-04-07",
+  "2021-05-05",
+  "2021-06-02",
+  "2021-07-07",
+  "2021-07-19",
+  "2021-09-08",
+  "2021-10-06",
+  "2021-11-03",
+  "2021-12-01",
+  "2021-12-22",
+  "2022-01-12",
+  "2022-02-02",
+  "2022-03-09",
+  "2022-04-06",
+  "2022-04-28",
+  "2022-05-04",
+  "2022-05-25",
+  "2022-06-01",
+  "2022-07-06",
+  "2022-07-25",
+  "2022-09-07",
+  "2022-10-05",
+  "2022-11-09",
+  "2022-12-14",
+  "2023-01-18",
+  "2023-02-01",
+  "2023-03-01",
+  "2023-04-05",
+  "2023-04-17",
+  "2023-05-10",
+  "2023-06-14",
+  "2023-06-17",
+  "2023-06-28",
+  "2023-07-06",
+  "2023-07-23",
+  "2023-07-23",
+  "2023-07-23",
+  "2023-07-27",
+  "2023-09-28",
+  "2023-10-19",
+  "2023-11-27",
+  "2023-11-30",
+  "2023-12-21",
+  "2023-12-28",
+  "2024-01-25",
+  "2024-02-29",
+  "2024-03-27",
+  "2024-03-27",
+  "2024-04-25",
+  "2024-05-30",
+  "2024-06-27",
+  "2024-07-25",
+  "2024-09-25",
+  "2024-10-24",
+  "2024-10-24",
+  "2024-11-28",
+  "2024-12-19",
+  "2024-12-23",
+  "2025-01-16",
+  "2025-01-16",
+  "2025-01-30",
+  "2025-02-26",
+  "2025-04-24",
+  "2025-05-26",
+  "2025-05-29",
+  "2025-06-26",
+  "2025-07-24",
+  "2025-09-22",
+  "2025-09-24",
+  "2025-09-24",
+  "2025-10-23",
+  "2025-11-27",
+  "2025-12-01",
+  "2025-12-18",
+  "2025-12-24",
+  "2026-01-29",
+  "2026-02-26",
+  "2026-02-26",
+  "2026-03-23",
+  "2026-03-26",
+  "2026-04-29",
+  "2026-05-11",
+  "2026-05-28",
+  "2026-06-25",
+  "2026-06-29",
+  "2026-09-23"
+ ],
+ "calendari_padrons": [
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2026",
+   "data": "2026-10-07",
+   "url": "https://cido.diba.cat/normativa_local/20719497"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2025",
+   "data": "2025-10-07",
+   "url": "https://cido.diba.cat/normativa_local/18709912"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2024",
+   "data": "2024-11-13",
+   "url": "https://cido.diba.cat/normativa_local/16514019"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2023",
+   "data": "2023-07-28",
+   "url": "https://cido.diba.cat/normativa_local/14364399"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2022",
+   "data": "2022-08-01",
+   "url": "https://cido.diba.cat/normativa_local/12573737"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2021",
+   "data": "2021-08-04",
+   "url": "https://cido.diba.cat/normativa_local/11036266"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2020",
+   "data": "2020-10-06",
+   "url": "https://cido.diba.cat/normativa_local/9506111"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2019",
+   "data": "2019-08-01",
+   "url": "https://cido.diba.cat/normativa_local/8321719"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2018",
+   "data": "2018-08-02",
+   "url": "https://cido.diba.cat/normativa_local/7443853"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2017",
+   "data": "2017-08-04",
+   "url": "https://cido.diba.cat/normativa_local/6701793"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2016",
+   "data": "2016-08-08",
+   "url": "https://cido.diba.cat/normativa_local/6226465"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2015",
+   "data": "2015-08-10",
+   "url": "https://cido.diba.cat/normativa_local/1668944"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2014",
+   "data": "2014-08-07",
+   "url": "https://cido.diba.cat/normativa_local/445198"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2013",
+   "data": "2013-08-05",
+   "url": "https://cido.diba.cat/normativa_local/420916"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2012",
+   "data": "2012-08-03",
+   "url": "https://cido.diba.cat/normativa_local/394731"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2011",
+   "data": "2011-08-02",
+   "url": "https://cido.diba.cat/normativa_local/376366"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2010",
+   "data": "2010-08-09",
+   "url": "https://cido.diba.cat/normativa_local/352435"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2009",
+   "data": "2009-08-05",
+   "url": "https://cido.diba.cat/normativa_local/327501"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2008",
+   "data": "2008-08-09",
+   "url": "https://cido.diba.cat/normativa_local/298656"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2007",
+   "data": "2007-08-01",
+   "url": "https://cido.diba.cat/normativa_local/248277"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2006",
+   "data": "2006-07-20",
+   "url": "https://cido.diba.cat/normativa_local/189510"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2005",
+   "data": "2005-05-26",
+   "url": "https://cido.diba.cat/normativa_local/39772"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2004",
+   "data": "2004-05-24",
+   "url": "https://cido.diba.cat/normativa_local/97970"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2003",
+   "data": "2002-12-27",
+   "url": "https://cido.diba.cat/normativa_local/53753"
+  },
+  {
+   "resum": "Calendari i padrons fiscals per a l'any 2002",
+   "data": "2001-12-31",
+   "url": "https://cido.diba.cat/normativa_local/15258"
+  }
+ ]
+}

@@ -4,7 +4,7 @@ import datetime as dt, json, re
 from pathlib import Path
 import yaml
 
-from . import OBJETIVO, calculos as C, documentos as D, fuentes as F
+from . import OBJETIVO, calculos as C, documentos as D, fuentes as F, transparencia as T
 from .store import Store
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -82,7 +82,7 @@ SUBAGENTES = [
     _sub("sub_1_1_monitor_boe_dogc", "legal_prat", "boe_sumario+dogc_normativa", "fiscal", lambda: _boe_ultimos() + F.dogc_normativa()),
     _sub("sub_1_2_rastreador_bopb", "legal_prat", "bopb_rss", "fiscal", F.bopb_rss),
     _sub("sub_1_3_gestor_rom_secretaria", "legal_prat", "rom_el_prat", "rom"),
-    _sub("sub_2_1_inspector_ejecucion_presupuestaria", "fiscal_prat", "conprel_hacienda", "fiscal"),
+    _sub("sub_2_1_inspector_ejecucion_presupuestaria", "fiscal_prat", "catastro_estadisticas+seu_ckan", "fiscal", lambda: F.datos_fiscales_registros()),
     _sub("sub_2_2_calculador_bics_aena_puerto", "fiscal_prat", "of1_ibi_2026", "aena"),
     _sub("sub_2_3_optimizador_ibi_y_tasas", "fiscal_prat", "of1_ibi_2026", "fiscal"),
     _sub("sub_3_1_gestor_vpo_prat_espais", "urba_prat", "prat_espais", "vivienda"),
@@ -93,7 +93,8 @@ SUBAGENTES = [
     _sub("sub_4_3_monitor_energia_y_agua", "eco_prat", "consumos_municipales", "energia_agua"),
     _sub("sub_5_1_auditor_gestiona_pleno", "audit_prat", "actes_ple", "rom"),
     _sub("sub_5_2_inspector_placsp_contratos", "audit_prat", "placsp_atom", "", F.placsp_atom),
-    _sub("sub_5_3_gestor_portal_transparencia", "audit_prat", "elprat_dades_obertes", "", F.elprat_dades_obertes),
+    _sub("sub_5_3_gestor_portal_transparencia", "audit_prat", "elprat_dades_obertes+portal_transparencia", "",
+         lambda: F.elprat_dades_obertes() + T.como_registros(T.auditar())),
 ]
 # sub_2_2, sub_2_3 y sub_4_2 no tienen fuente propia: trabajan sobre lo que ingieren los demás.
 for _n in ("sub_2_2_calculador_bics_aena_puerto", "sub_2_3_optimizador_ibi_y_tasas", "sub_4_2_protector_delta_la_ricarda"):

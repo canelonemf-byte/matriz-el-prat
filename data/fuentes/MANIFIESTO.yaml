@@ -1,0 +1,12 @@
+- archivo: data/fuentes/portal_transparencia.json
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia
+  fecha_consulta: '2026-10-24'
+  sha256: 1bd0005da8cbffeadb275d010988f86c5e91814fb059c0eb135efd3e35d5160d
+- archivo: data/fuentes/aoc_dades_obertes_agregado.json
+  url: https://dadesobertes.seu-e.cat/api/3/action/datastore_search
+  fecha_consulta: '2026-10-24'
+  sha256: 5dc25bd849f2fc511ebbbd1e374118ea75158ba681bcbca8ed3d0a280cac688a
+- archivo: data/fuentes/catastro_estadisticas.json
+  url: https://www.catastro.hacienda.gob.es/es-ES/estadisticas.html
+  fecha_consulta: '2026-10-24'
+  sha256: 19145e1c0f201b396bbfe93d9c52f848088da62ed60a460c8fa7584008d33c9e

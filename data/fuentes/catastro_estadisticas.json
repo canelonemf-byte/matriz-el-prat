@@ -1,0 +1,65 @@
+{
+ "ibi": {
+  "anyo": 2025,
+  "urbana": {
+   "Recibos": 39422.0,
+   "Base imponible": 3429161.0,
+   "Base liquidable": 3429161.0,
+   "Cuota íntegra": 22036672.0,
+   "Cuota líquida": 21842645.0
+  },
+  "bice": {
+   "Recibos": 168.0,
+   "Base imponible": 2886336.0,
+   "Base liquidable": 2886336.0,
+   "Cuota íntegra": 37522370.0,
+   "Cuota líquida": 37522370.0
+  },
+  "fuente": "https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2025/ibi/&file=U04008.px&type=pcaxis&L=0"
+ },
+ "usos": {
+  "anyo": 2026,
+  "inmuebles": {
+   "Almacén, Est.": 9627.0,
+   "Comercial": 3089.0,
+   "Cultural": 44.0,
+   "Ocio, Hostelería": 39.0,
+   "Industrial": 395.0,
+   "Deportivo": 18.0,
+   "Suelo": 461.0,
+   "Oficinas": 195.0,
+   "Edif. Singular": 13.0,
+   "Religioso": 3.0,
+   "Espectáculos": 5.0,
+   "Residencial": 26351.0,
+   "Sanidad, Benef.": 20.0,
+   "Total": 40260.0
+  },
+  "valor_catastral_miles": {
+   "Almacén, Est.": 149380.42,
+   "Comercial": 339476.97,
+   "Cultural": 87373.25,
+   "Ocio, Hostelería": 90100.6,
+   "Industrial": 793244.43,
+   "Deportivo": 68452.75,
+   "Suelo": 82466.89,
+   "Oficinas": 292246.15,
+   "Edif. Singular": 32787.15,
+   "Religioso": null,
+   "Espectáculos": 5974.45,
+   "Residencial": 1479340.03,
+   "Sanidad, Benef.": 23972.65,
+   "Total": 3444815.74
+  },
+  "variables": {
+   "Año de la última valoración": 1997.0,
+   "Parcelas urbanas": 4088.0,
+   "Superficie parcelas urbanas": 664.37,
+   "Bienes inmuebles": 40260.0,
+   "Valor catastral construccion": 2096817.04,
+   "Valor catastral suelo": 1351171.82,
+   "Valor catastral total": 3447988.87
+  },
+  "fuente": "https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2026/catastro/urbano/&file=URBO4208.px&type=pcaxis&L=0"
+ }
+}

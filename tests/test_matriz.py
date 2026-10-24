@@ -74,3 +74,31 @@ def test_catalogo_verificado():
 def test_mocion_gemini_corregida():
     m = D.mocion_reformas_5_puntos()
     assert m.startswith("# BORRADOR") and "art. 72.2" in m and "46.2.b" in m and "72.1 del TRLRHL permite" not in m
+
+
+def test_impacto_rebaja_ibi_datos_catastro():
+    from matriz_el_prat import calculos as C
+    r = C.impacto_rebaja_ibi(0.48)
+    assert 2_000_000 < r["perdida_recaudacion_residencial_eur"] < r["perdida_recaudacion_cota_superior_eur"] < 5_000_000
+    assert 70 < r["ahorro_medio_por_vivienda_eur"] < 90
+    import pytest
+    with pytest.raises(ValueError):
+        C.impacto_rebaja_ibi(0.3)
+
+
+def test_evaluar_pagina_transparencia():
+    import datetime as dt
+    from matriz_el_prat import transparencia as T
+    x = ("<title>Compte general - Aj</title><div>Freqüencia actualització requerida:</div><div>En disposar de noves dades</div>"
+         "<p>Intro</p><p>Compte 2021</p><a href='https://x.cat/c.pdf'>pdf</a><span>Actualització: 11/10/2022</span>"
+         "<div>Indicadors de transparència</div>")
+    r = T.evaluar(T.BASE + "/a/b/compte-general", x, hoy=dt.date(2026, 10, 24))
+    assert r["estado"] == "desactualizado" and r["actualizacion"] == "2022-10-11"
+
+
+def test_inventario_existe_y_sin_datos_personales():
+    import yaml, pathlib
+    root = pathlib.Path(__file__).resolve().parents[1]
+    inv = yaml.safe_load((root / "inventario_obligaciones.yaml").read_text(encoding="utf-8"))
+    assert inv["checklist"] and all(i["estado"] in {"publicado", "desactualizado", "no_encontrado", "no_verificado"} for i in inv["checklist"])
+    assert "BENEFICIARI" not in (root / "data/fuentes/aoc_dades_obertes_agregado.json").read_text(encoding="utf-8")

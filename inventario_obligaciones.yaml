@@ -1,0 +1,1700 @@
+fecha_auditoria: '2026-10-24'
+ente: Ajuntament del Prat de Llobregat (CODI_ENS 816910007)
+metodo: Portal de Transparència AOC (112 ítems, base legal declarada por el propio portal) + fuentes oficiales externas
+nota_rgpd: Solo URL, fecha, hash y agregados. No se guardan datos de personas físicas (p. ej. beneficiarios).
+resumen_checklist:
+  publicado: 30
+  no_encontrado: 13
+  desactualizado: 10
+  no_verificado: 4
+resumen_portal:
+  desactualizado: 37
+  publicado: 50
+  no_encontrado: 46
+checklist:
+- id: carrecs-electes
+  obligacion: Cargos electos
+  base_legal: Llei 19/2014 art. 9.1.b; Ley 19/2013 art. 6.1
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/carrecs-electes
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: cartipas-organitzacio-politica
+  obligacion: Cartipàs / organización política
+  base_legal: Llei 19/2014 art. 9.1
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/cartipas-organitzacio-politica
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: organigrama-de-l-ens
+  obligacion: Organigrama
+  base_legal: Llei 19/2014 art. 9.1.c; Ley 19/2013 art. 6.1
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organigrama-de-l-ens
+  fecha: '2024-01-02'
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: saber quién es responsable de cada servicio
+- id: alts-carrecs-personal-directiu-i-carrecs-eventuals
+  obligacion: Retribuciones y declaraciones de altos cargos
+  base_legal: Llei 19/2014 arts. 9 y 11.1.b-c; Ley 19/2013 art. 8.1.f-g
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/alts-carrecs-personal-directiu-i-carrecs-eventuals
+  fecha: '2025-07-01'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: retribucions-indemnitzacions-i-dietes-dels-empleats-publics
+  obligacion: Retribuciones de empleados públicos
+  base_legal: Llei 19/2014 art. 11.1.b
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/retribucions-indemnitzacions-i-dietes-dels-empleats-publics
+  fecha: '2023-08-02'
+  nota: 'última actualización 2023-08-02; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  beneficio_ciudadano_si_se_corrige: control del gasto de personal
+- id: relacio-de-llocs-de-treball-rlt
+  obligacion: RLT
+  base_legal: Llei 19/2014 art. 9.1.d
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/relacio-de-llocs-de-treball-rlt
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: estatuts
+  obligacion: ROM y estatutos de entes (enlace CIDO)
+  base_legal: Llei 19/2014 art. 10.1.a; Ley 19/2013 art. 7
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/estatuts
+  fecha: '2024-07-31'
+  nota: 'última actualización 2024-07-31; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: ordenances-fiscals
+  obligacion: Ordenanzas fiscales vigentes (portal)
+  base_legal: Llei 19/2014 art. 10.1.a; Ley 19/2013 art. 7.c
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/ordenances-fiscals
+  fecha: '2026-10-24'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: conocer impuestos y bonificaciones a las que se tiene derecho
+- id: of1_ibi_2026
+  obligacion: OF 1 IBI 2026 (texto)
+  base_legal: TRLRHL art. 17.4
+  estado: publicado
+  url: https://bop.diba.cat/anuncio/ver-pdf/3878031
+  fecha: '2025-12-23'
+  nota: BOPB CVE 202510200458
+  beneficio_ciudadano_si_se_corrige: ''
+- id: of_2027_aprobacion_inicial
+  obligacion: Ordenanzas fiscales 2027 (aprobación inicial Ple 22-10-2026)
+  base_legal: TRLRHL art. 17.1-2 (30 días de exposición)
+  estado: no_encontrado
+  url: https://www.lavanguardia.com/elllobregat/sociedad/20261023/11666278/prat-congela-ibi-viviendas-comercios-2027-sube-70-grandes-propiedades.html
+  fecha: '2026-10-23'
+  nota: solo prensa; el edicto BOPB y el texto se vigilan a diario (sub_1_2). Abre plazo de reclamaciones
+  beneficio_ciudadano_si_se_corrige: permite presentar reclamaciones en plazo
+- id: of23_aparcamiento
+  obligacion: OF 23 tasa estacionamiento (Zona Taronja Mas Blau)
+  base_legal: TRLRHL art. 17.4
+  estado: no_encontrado
+  url: https://cido.diba.cat/
+  fecha: null
+  nota: texto consolidado no localizado; tarifa 8 €/mes solo verificada en prensa
+  beneficio_ciudadano_si_se_corrige: trabajadores conocen la tarifa y sus derechos
+- id: of_tasa_residuos
+  obligacion: OF tasa de residuos (descuento 40 % vigente según el Ajuntament)
+  base_legal: Ley 7/2022 art. 11.3; TRLRHL art. 17.4
+  estado: no_encontrado
+  url: https://cido.diba.cat/
+  fecha: null
+  nota: texto no localizado automáticamente
+  beneficio_ciudadano_si_se_corrige: hogares conocen las bonificaciones
+- id: tipus-impositius
+  obligacion: Tipos impositivos
+  base_legal: Llei 19/2014 art. 11
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/tipus-impositius
+  fecha: '2025'
+  nota: 'el dataset llega a 2025: IBI urbana 0,63; en 2026 rige 0,6199 (OF1)'
+  beneficio_ciudadano_si_se_corrige: evitar confusión sobre lo que se paga
+- id: calendari-i-padrons-fiscals
+  obligacion: Calendario y padrones fiscales
+  base_legal: TRLRHL art. 102.3 LGT
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/calendari-i-padrons-fiscals
+  fecha: '2026-10-07'
+  nota: edicto anual en CIDO/BOPB
+  beneficio_ciudadano_si_se_corrige: ''
+- id: pressupost
+  obligacion: Presupuestos 2019-2026
+  base_legal: Llei 19/2014 art. 11.1.a; Ley 19/2013 art. 8.1.d
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/pressupost
+  fecha: '2025-12-30'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: bases-d-execucio-del-pressupost-188
+  obligacion: Bases de ejecución del presupuesto
+  base_legal: Llei 19/2014 art. 11.1.a
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/bases-d-execucio-del-pressupost-188
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: conocer las reglas de gasto
+- id: modificacio-de-pressupostos
+  obligacion: Modificaciones presupuestarias
+  base_legal: Llei 19/2014 art. 11.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/modificacio-de-pressupostos
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: liquidacio-del-pressupost
+  obligacion: Liquidación del presupuesto
+  base_legal: Llei 19/2014 art. 11.1.c; Ley 19/2013 art. 8.1.e
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/liquidacio-del-pressupost
+  fecha: '2025-07-22'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: compte-general
+  obligacion: Cuenta general
+  base_legal: Llei 19/2014 art. 11.1.c; Ley 19/2013 art. 8.1.e; TRLRHL art. 212
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/compte-general
+  fecha: '2022-10-11'
+  nota: 'última actualización 2022-10-11; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  beneficio_ciudadano_si_se_corrige: conocer la situación patrimonial real
+- id: execucio-pressupostaria-trimestral
+  obligacion: Ejecución presupuestaria trimestral
+  base_legal: Llei 19/2014 art. 11.1.a; Ley 19/2013 art. 8.1.d
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/execucio-pressupostaria-trimestral
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: seguir el gasto durante el año
+- id: conprel_hacienda
+  obligacion: Ejecución y liquidación en Hacienda (CONPREL)
+  base_legal: LO 2/2012; Orden HAP/2105/2012
+  estado: no_verificado
+  url: https://serviciostelematicosext.hacienda.gob.es/SGFAL/CONPREL
+  fecha: null
+  nota: aplicación web sin API
+  beneficio_ciudadano_si_se_corrige: ''
+- id: endeutament
+  obligacion: Endeudamiento
+  base_legal: Llei 19/2014 art. 11.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/endeutament
+  fecha: '2025'
+  nota: 'deuda viva 2025: 480,671 €'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: periode-mitja-de-pagament-a-proveidors
+  obligacion: Periodo medio de pago
+  base_legal: Ley 19/2013 art. 8.1.d; RD 635/2014
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/periode-mitja-de-pagament-a-proveidors
+  fecha: '2026-06-01'
+  nota: PMP 21 días (máx. legal 30)
+  beneficio_ciudadano_si_se_corrige: ''
+- id: auditories-de-comptes
+  obligacion: Auditorías / control financiero
+  base_legal: Llei 19/2014 art. 11.1.c; Ley 19/2013 art. 8.1.e
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/auditories-de-comptes
+  fecha: '2023-07-24'
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: saber si el dinero se usa bien
+- id: pla-anual-de-control-financer
+  obligacion: Plan anual de control financiero
+  base_legal: RD 424/2017
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/pla-anual-de-control-financer
+  fecha: '2025-07-22'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: inventari-general-del-patrimoni
+  obligacion: Inventario de patrimonio
+  base_legal: Llei 19/2014 art. 11.1.d
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/inventari-general-del-patrimoni
+  fecha: '2023-07-27'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte anualment'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: relacio-de-contractes-adjudicats-historics
+  obligacion: Contratos adjudicados
+  base_legal: Llei 19/2014 art. 13; Ley 19/2013 art. 8.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-adjudicats-historics
+  fecha: '2026-10-18'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: relacio-de-contractes-menors-historic
+  obligacion: Contratos menores
+  base_legal: Llei 19/2014 art. 13.1; Ley 19/2013 art. 8.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic
+  fecha: null
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: modificacions-de-contractes
+  obligacion: Modificaciones de contratos
+  base_legal: Llei 19/2014 art. 13.1.d; Ley 19/2013 art. 8.1.a
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/modificacions-de-contractes
+  fecha: '2023-07-27'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  beneficio_ciudadano_si_se_corrige: control de sobrecostes
+- id: placsp
+  obligacion: Perfil contratante (PLACSP)
+  base_legal: LCSP art. 63
+  estado: publicado
+  url: https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom
+  fecha: '2026-10-24'
+  nota: ingesta diaria (sub_5_2)
+  beneficio_ciudadano_si_se_corrige: ''
+- id: registre_contractes_gencat
+  obligacion: Plataforma de contractació pública de Catalunya
+  base_legal: LCSP art. 63; Llei 19/2014 art. 13
+  estado: publicado
+  url: https://contractaciopublica.cat/ca/perfils-contractant/detall/4727047?categoria=0
+  fecha: '2026-10-24'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: convenis-de-col-laboracio
+  obligacion: Convenios
+  base_legal: Llei 19/2014 art. 14; Ley 19/2013 art. 8.1.b
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convenis-de-col-laboracio
+  fecha: '2026'
+  nota: 'convenios por año: {''2023'': 22, ''2024'': 14, ''2025'': 19, ''2026'': 2}'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: informacio-de-l-execucio-dels-convenis
+  obligacion: Ejecución de convenios
+  base_legal: Llei 19/2014 art. 14.2
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/informacio-de-l-execucio-dels-convenis
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: ''
+- id: subvencions-atorgades
+  obligacion: Subvenciones concedidas
+  base_legal: Llei 19/2014 art. 15; Ley 19/2013 art. 8.1.c
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/subvencions-atorgades
+  fecha: '2026'
+  nota: 'dataset AOC/BDNS: {''n'': 541, ''import_eur'': 1751371.51} en 2026; la fecha de la página es antigua'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: convocatories-de-subvencions-i-ajuts
+  obligacion: Convocatorias de subvenciones
+  base_legal: Llei 19/2014 art. 15.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: actes-de-ple
+  obligacion: Actas del Pleno
+  base_legal: Llei 19/2014 art. 10.1; LBRL art. 70.1
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/actes-de-ple
+  fecha: '2026-09-23'
+  nota: 227 actas en dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: videos_ple
+  obligacion: Vídeos de plenos
+  base_legal: LBRL art. 70.1 (publicidad sesiones)
+  estado: publicado
+  url: https://www.elprat.cat/ajuntament/ple-municipal
+  fecha: '2026-10-24'
+  nota: página accesible; no se auditan los vídeos uno a uno
+  beneficio_ciudadano_si_se_corrige: ''
+- id: convocatories-de-sessions-del-ple
+  obligacion: Convocatorias del Pleno
+  base_legal: LBRL art. 46.2.b; Llei 19/2014 art. 10
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/convocatories-de-sessions-del-ple
+  fecha: '2025-04-01'
+  nota: 'última actualización 2025-04-01; frecuencia declarada: En disposar de noves dades, o per defecte trimestralment'
+  beneficio_ciudadano_si_se_corrige: saber cuándo y qué se vota
+- id: mociones_aprobadas
+  obligacion: Mociones aprobadas (listado)
+  base_legal: Llei 19/2014 art. 10.1
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia
+  fecha: null
+  nota: no existe listado propio; solo dentro de las actas
+  beneficio_ciudadano_si_se_corrige: seguir el cumplimiento de mociones
+- id: acords-de-junta-de-govern
+  obligacion: Acuerdos de Junta de Govern
+  base_legal: Llei 19/2014 art. 10.1.f
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/acords-de-junta-de-govern
+  fecha: '2026-03-18'
+  nota: 'última actualización 2026-03-18; frecuencia declarada: En disposar de noves dades, o per defecte mensualment'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
+  obligacion: Resoluciones de acceso a la información
+  base_legal: Llei 19/2014 art. 10.1.f
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: ver qué información se pide y se deniega
+- id: memories-i-documents-dels-projectes-normatius-en-curs
+  obligacion: Proyectos normativos en curso
+  base_legal: Llei 19/2014 art. 10.1.c-d; Ley 19/2013 art. 7.b-d
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/memories-i-documents-dels-projectes-normatius-en-curs
+  fecha: '2023-07-27'
+  nota: 'última actualización 2023-07-27; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  beneficio_ciudadano_si_se_corrige: participar antes de aprobar normas
+- id: pla-anual-normatiu
+  obligacion: Plan anual normativo
+  base_legal: Ley 39/2015 art. 132
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/pla-anual-normatiu
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: ''
+- id: planejament-urbanistic
+  obligacion: POUM / planeamiento
+  base_legal: Llei 19/2014 art. 10.1.g
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/planejament-urbanistic
+  fecha: '2026-10-20'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: convenis-urbanistics
+  obligacion: Convenios urbanísticos
+  base_legal: TRLU art. 105
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convenis-urbanistics
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: ''
+- id: organismes-dependents-o-vinculats
+  obligacion: Entes dependientes (Prat Espais, Aigües del Prat, etc.)
+  base_legal: Llei 19/2014 art. 9.1.a
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organismes-dependents-o-vinculats
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: prat_espais_cuentas_vpo
+  obligacion: 'Prat Espais SLU: cuentas anuales y adjudicación VPO'
+  base_legal: Llei 19/2014 arts. 3.1.b y 11
+  estado: no_verificado
+  url: https://www.pratespais.com/ca/informacio-juridica
+  fecha: null
+  nota: web accesible; cuentas y listas de adjudicación no localizadas automáticamente
+  beneficio_ciudadano_si_se_corrige: transparencia en la vivienda asequible
+- id: pla-de-mesures-antifrau
+  obligacion: Plan antifraude
+  base_legal: Orden HFP/1030/2021
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/pla-de-mesures-antifrau
+  fecha: '2026-10-24'
+  nota: contenido cargado desde dataset AOC
+  beneficio_ciudadano_si_se_corrige: ''
+- id: registre-de-grups-d-interes
+  obligacion: Registro de grupos de interés
+  base_legal: Llei 19/2014 art. 45
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/registre-de-grups-d-interes
+  fecha: '2025-07-02'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+- id: agenda-institucional-dels-alts-carrecs
+  obligacion: Agenda de altos cargos
+  base_legal: Llei 19/2014 art. 55 (código conducta)
+  estado: no_encontrado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/agenda-institucional-dels-alts-carrecs
+  fecha: null
+  nota: la página solo muestra el texto introductorio; confirmar en navegador antes de reclamar
+  beneficio_ciudadano_si_se_corrige: ''
+- id: tauler-d-edictes-i-anuncis
+  obligacion: Tablón de edictos
+  base_legal: Ley 39/2015 art. 45
+  estado: desactualizado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis
+  fecha: '2016-04-11'
+  nota: 'última actualización 2016-04-11; frecuencia declarada: En disposar de noves dades, o per defecte setmanalment'
+  beneficio_ciudadano_si_se_corrige: ''
+- id: bopb_edictos
+  obligacion: Edictos BOPB
+  base_legal: ''
+  estado: publicado
+  url: https://bop.diba.cat/dades-obertes/butlleti-del-dia/administracio-local/feed
+  fecha: '2026-10-24'
+  nota: ingesta diaria (sub_1_2)
+  beneficio_ciudadano_si_se_corrige: ''
+- id: catastro_ibi
+  obligacion: Estadística IBI (Catastro)
+  base_legal: ''
+  estado: publicado
+  url: https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2025/ibi/&file=U04008.px&type=pcaxis&L=0
+  fecha: '2025'
+  nota: recibos, base y cuota agregados
+  beneficio_ciudadano_si_se_corrige: ''
+- id: idescat
+  obligacion: IDESCAT El Prat en xifres
+  base_legal: ''
+  estado: publicado
+  url: https://www.idescat.cat/emex/?id=081691
+  fecha: '2026-10-24'
+  nota: población 66.251 (2025)
+  beneficio_ciudadano_si_se_corrige: ''
+- id: sindicatura
+  obligacion: Informes Sindicatura de Comptes / rendición cuenta general
+  base_legal: Llei 18/2010
+  estado: no_verificado
+  url: http://expedients.sindicatura.cat/VerEnteLiferayCG.php?Codigo=081691000&l=ca_ES
+  fecha: null
+  nota: servidor no accesible desde el box
+  beneficio_ciudadano_si_se_corrige: ''
+- id: antifrau
+  obligacion: Oficina Antifrau de Catalunya
+  base_legal: Llei 14/2008
+  estado: no_verificado
+  url: https://www.antifrau.cat/
+  fecha: null
+  nota: servidor no accesible desde el box
+  beneficio_ciudadano_si_se_corrige: ''
+- id: dades_obertes_aoc
+  obligacion: Dades obertes (AOC)
+  base_legal: Llei 19/2014 art. 17
+  estado: publicado
+  url: https://seu-e.cat/ca/web/elpratdellobregat/dades-obertes
+  fecha: '2026-10-24'
+  nota: ''
+  beneficio_ciudadano_si_se_corrige: ''
+portal_completo:
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.acords-d-organs-de-govern
+  titulo: Acords d&#039;òrgans de govern
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/acords-d-organs-de-govern
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 7. Apartat a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2026-03-18'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.acords-de-junta-de-govern
+  titulo: Acords de Junta de Govern
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/acords-de-junta-de-govern
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 7. Apartat a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2026-03-18'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.actes-administratius-amb-incidencia-al-domini-public-i-als-serveis-publics
+  titulo: Actes administratius amb incidència al domini públic i als serveis públics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/actes-administratius-amb-incidencia-al-domini-public-i-als-serveis-publics
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.actes-de-ple
+  titulo: Actes de Ple
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/actes-de-ple
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.actes-objecte-de-revisio-en-via-administrativa
+  titulo: Actes objecte de revisió en via administrativa
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/actes-objecte-de-revisio-en-via-administrativa
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.convocatories-de-sessions-del-ple
+  titulo: Convocatòries de sessions del Ple
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/convocatories-de-sessions-del-ple
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2025-04-01'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.dictamens-de-la-comissio-juridica-assessora-i-altres-organs-consultius
+  titulo: Dictàmens de la Comissió Jurídica Assessora i altres òrgans consultius
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/dictamens-de-la-comissio-juridica-assessora-i-altres-organs-consultius
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.noticies-i-opinions-sobre-les-actuacions-de-govern-i-de-l-oposicio
+  titulo: Notícies i opinions sobre les actuacions de govern i de l&#039;oposició
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/noticies-i-opinions-sobre-les-actuacions-de-govern-i-de-l-oposicio
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2023-08-02'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.opinions-i-propostes-dels-grups-municipals
+  titulo: Opinions i propostes dels grups municipals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/opinions-i-propostes-dels-grups-municipals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.resolucions-administratives-judicials-i-rellevants
+  titulo: Resolucions administratives i judicials rellevants
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/resolucions-administratives-judicials-i-rellevants
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2024-12-17'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
+  titulo: Resolucions de les sol·licituds d&#039;accés a la informació pública
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/resolucions-de-les-sol-licituds-d-acces-a-la-informacio-publica
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 14. Apartat 3.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: accio-de-govern-i-normativa.accio-de-govern-i-grups-politics.tauler-d-edictes-i-anuncis
+  titulo: Tauler d&#039;edictes i anuncis
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt c.
+    ley_19_2013: Article 7. Apartat e.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2016-04-11'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.gestio-documental-i-arxiu.calendari-de-conservacio-i-regim-d-acces-documental
+  titulo: Calendari de conservació i règim d&#039;accés documental
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/gestio-documental-i-arxiu/calendari-de-conservacio-i-regim-d-acces-documental
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: publicado
+- id: accio-de-govern-i-normativa.gestio-documental-i-arxiu.instruments-de-descripcio-documental
+  titulo: Instruments de descripció documental
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/gestio-documental-i-arxiu/instruments-de-descripcio-documental
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: publicado
+- id: accio-de-govern-i-normativa.gestio-documental-i-arxiu.quadre-de-classificacio-documental
+  titulo: Quadre de classificació documental
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/gestio-documental-i-arxiu/quadre-de-classificacio-documental
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: accio-de-govern-i-normativa.gestio-documental-i-arxiu.registre-d-eliminacio-de-documents
+  titulo: Registre d&#039;eliminació de documents
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/gestio-documental-i-arxiu/registre-d-eliminacio-de-documents
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-09-16'
+  estado: publicado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.calendari-i-padrons-fiscals
+  titulo: Calendari i padrons fiscals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/calendari-i-padrons-fiscals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.directives-instruccions-circulars-i-respostes-a-consultes-sobre-les-normes
+  titulo: Directives, instruccions, circulars i respostes a consultes sobre les normes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/directives-instruccions-circulars-i-respostes-a-consultes-sobre-les-normes
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt b.
+    ley_19_2013: Article 7. Apartat a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.estatuts
+  titulo: Estatuts
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/estatuts
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2024-07-31'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.memories-i-documents-dels-projectes-normatius-en-curs
+  titulo: Memòries i documents dels projectes normatius en curs
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/memories-i-documents-dels-projectes-normatius-en-curs
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt d.
+    ley_19_2013: Article 7. Apartat d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.ordenances-fiscals
+  titulo: Ordenances fiscals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/ordenances-fiscals
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 7. Apartat c.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.ordenances-reguladores-i-reglaments
+  titulo: Ordenances reguladores i reglaments
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/ordenances-reguladores-i-reglaments
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 7. Apartat c.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.pla-anual-normatiu
+  titulo: Pla anual normatiu
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/pla-anual-normatiu
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.plans-i-programes-sobre-les-politiques-publiques
+  titulo: Plans i programes destacats sobre les polítiques públiques
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/plans-i-programes-sobre-les-politiques-publiques
+  base_legal:
+    llei_19_2014: Article 12. Apartat 1.
+    ley_19_2013: Article 6. Apartat 2.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2026-10-22'
+  estado: publicado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.plecs-de-clausules-generals
+  titulo: Plecs de clàusules generals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/plecs-de-clausules-generals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.normativa-plans-i-programes.tipus-impositius
+  titulo: Tipus impositius
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/normativa-plans-i-programes/tipus-impositius
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-09-16'
+  estado: publicado
+- id: accio-de-govern-i-normativa.urbanisme.estudis-d-impacte-ambiental-i-paisatgistic
+  titulo: Estudis d&#039;impacte ambiental i paisatgístic
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/estudis-d-impacte-ambiental-i-paisatgistic
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 7. Apartat e.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: accio-de-govern-i-normativa.urbanisme.informacio-geografica-d-urbanisme
+  titulo: Informació geogràfica d&#039;urbanisme
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/informacio-geografica-d-urbanisme
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: publicado
+- id: accio-de-govern-i-normativa.urbanisme.normativa-d-urbanisme
+  titulo: Normativa d&#039;urbanisme
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/normativa-d-urbanisme
+  base_legal:
+    llei_19_2014: Article 10. Apartat 1. Punt a.
+    ley_19_2013: Article 7. Apartat c.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: publicado
+- id: accio-de-govern-i-normativa.urbanisme.planejament-urbanistic
+  titulo: Planejament urbanístic
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/planejament-urbanistic
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2026-10-20'
+  estado: publicado
+- id: accio-de-govern-i-normativa.urbanisme.plans-territorials-d-urbanisme
+  titulo: Plans territorials d&#039;urbanisme
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/accio-de-govern-i-normativa/urbanisme/plans-territorials-d-urbanisme
+  base_legal:
+    llei_19_2014: Article 12. Apartat 4.
+    ley_19_2013: Article 7.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.ajuts-atorgats
+  titulo: Ajuts atorgats
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/ajuts-atorgats
+  base_legal:
+    llei_19_2014: Article 15. Apartat 1. Punt c.
+    ley_19_2013: Article 8. Apartat 1. Punt c.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2022-07-13'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.assignacio-economica-grups-municipals-193
+  titulo: Assignació econòmica grups municipals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/assignacio-economica-grups-municipals-193
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: indicador.frequencia-actualitzacio-requerida.$altres.frequencia_actualitzacio.getData()
+  actualizacion: null
+  estado: publicado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.convenis-de-col-laboracio
+  titulo: Convenis de col·laboració
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convenis-de-col-laboracio
+  base_legal:
+    llei_19_2014: Article 14. Apartat 2. Punt a, b.
+    ley_19_2013: Article 8. Apartat 1. Punt b.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: publicado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.convenis-urbanistics
+  titulo: Convenis urbanístics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convenis-urbanistics
+  base_legal:
+    llei_19_2014: Article 14.
+    ley_19_2013: Article 8. Apartat 1. Punt b.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.convocatories-de-subvencions-i-ajuts
+  titulo: Convocatòries de subvencions i ajuts
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.informacio-de-l-execucio-dels-convenis
+  titulo: Informació de l&#039;execució dels convenis
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/informacio-de-l-execucio-dels-convenis
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.convenis-i-subvencions.subvencions-atorgades
+  titulo: Subvencions atorgades
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/subvencions-atorgades
+  base_legal:
+    llei_19_2014: Article 15. Apartat 1. Punt c.
+    ley_19_2013: Article 8. Apartat 1. Punt c.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2022-06-10'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.consultes-mes-frequents-sobre-contractacio
+  titulo: Consultes més freqüents sobre contractació
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/consultes-mes-frequents-sobre-contractacio
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt h.
+    ley_19_2013: Article 7. Apartat a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.criteris-interpretatius-de-contractacio
+  titulo: Criteris interpretatius de contractació
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/criteris-interpretatius-de-contractacio
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt g.
+    ley_19_2013: Article 7. Apartat a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.informe-de-contractes-adjudicats-segons-el-procediment
+  titulo: Informe de contractes adjudicats segons el procediment
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/informe-de-contractes-adjudicats-segons-el-procediment
+  base_legal:
+    llei_19_2014: Article 13. Apartat 3.
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.organs-de-contractacio
+  titulo: Òrgans de contractació
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/organs-de-contractacio
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.personal-adscrit-pels-concessionaris-i-retribucions
+  titulo: Personal adscrit pels concessionaris i retribucions
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/personal-adscrit-pels-concessionaris-i-retribucions
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.registre-d-empreses-classificades
+  titulo: Registre d&#039;empreses classificades
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/registre-d-empreses-classificades
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.registre-de-licitadors
+  titulo: Registre de licitadors
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/registre-de-licitadors
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.informacio-de-la-contractacio-publica.resolucions-de-recursos-actes-de-desistiment-renuncia-i-resolucio-de-contractes
+  titulo: Resolucions de recursos, actes de desistiment, renúncia i resolució de contractes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/informacio-de-la-contractacio-publica/resolucions-de-recursos-actes-de-desistiment-renuncia-i-resolucio-de-contractes
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt i.
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2021-06-29'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.contractes-programats
+  titulo: Contractes programats
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/contractes-programats
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: null
+  estado: no_encontrado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.licitacions-en-tramit-perfil-de-contractant
+  titulo: Licitacions en tràmit (perfil de contractant)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/licitacions-en-tramit-perfil-de-contractant
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2026-10-18'
+  estado: publicado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.modificacions-de-contractes
+  titulo: Modificacions de contractes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/modificacions-de-contractes
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt e.
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.registre-de-factures
+  titulo: Registre de factures
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/registre-de-factures
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2026-09-17'
+  estado: publicado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.relacio-de-contractes-adjudicats-historics
+  titulo: Relació de contractes adjudicats (històrics)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-adjudicats-historics
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt d.
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2026-10-18'
+  estado: publicado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.relacio-de-contractes-menors-historic
+  titulo: Relació de contractes menors (històric)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic
+  base_legal:
+    llei_19_2014: Article 13. Apartat 1. Punt d.
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: publicado
+- id: contractes-convenis-i-subvencions.relacio-de-contractes.relacio-de-proveidors-adjudicataris-i-o-contractistes
+  titulo: Relació de proveïdors, adjudicataris i/o contractistes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-proveidors-adjudicataris-i-o-contractistes
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.gestio-economica.auditories-de-comptes
+  titulo: Auditories de comptes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/auditories-de-comptes
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt c.
+    ley_19_2013: Article 8. Apartat 1. Punt e.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-24'
+  estado: no_encontrado
+- id: gestio-economica.gestio-economica.cost-efectiu-dels-serveis
+  titulo: Cost efectiu dels serveis
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/cost-efectiu-dels-serveis
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 8. Apartat 1. Punt a.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-09-16'
+  estado: publicado
+- id: gestio-economica.gestio-economica.endeutament
+  titulo: Endeutament
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/endeutament
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt a.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2026-09-16'
+  estado: publicado
+- id: gestio-economica.gestio-economica.indicadors-de-gestio-economica
+  titulo: Indicadors de gestió econòmica
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/indicadors-de-gestio-economica
+  base_legal:
+    llei_19_2014: Article 8. Apartat 1. Punt b.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: gestio-economica.gestio-economica.periode-mitja-de-pagament-a-proveidors
+  titulo: Període Mitjà de Pagament a Proveïdors (PMP)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/periode-mitja-de-pagament-a-proveidors
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt a.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: '2026-10-23'
+  estado: publicado
+- id: gestio-economica.gestio-economica.pla-anual-de-control-financer
+  titulo: Pla anual de control financer
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/gestio-economica/pla-anual-de-control-financer
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 6. Apartat 2.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-22'
+  estado: publicado
+- id: gestio-economica.patrimoni.informacio-relativa-a-la-gestio-del-patrimoni
+  titulo: Informació relativa a la gestió del patrimoni
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/informacio-relativa-a-la-gestio-del-patrimoni
+  base_legal:
+    llei_19_2014: Article 11. Apartat 2. Punt b.
+    ley_19_2013: Article 8. Apartat 3.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.patrimoni.inventari-de-bens-mobles-de-valor-historic-i-artistic
+  titulo: Inventari de béns mobles de valor històric i artístic
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/inventari-de-bens-mobles-de-valor-historic-i-artistic
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.patrimoni.inventari-de-vehicles-oficials
+  titulo: Inventari de vehicles oficials
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/inventari-de-vehicles-oficials
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.patrimoni.inventari-general-del-patrimoni
+  titulo: Inventari general del patrimoni
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/patrimoni/inventari-general-del-patrimoni
+  base_legal:
+    llei_19_2014: Article 11. Apartat 2. Punt a.
+    ley_19_2013: Article 8. Apartat 3.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: gestio-economica.pressupost.bases-d-execucio-del-pressupost-188
+  titulo: Bases d&#039;execució del pressupost
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/bases-d-execucio-del-pressupost-188
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: ''
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.pressupost.compliment-dels-objectius-d-estabilitat-pressupostaria
+  titulo: Compliment dels objectius d’estabilitat pressupostària
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/compliment-dels-objectius-d-estabilitat-pressupostaria
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt a.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-09-16'
+  estado: publicado
+- id: gestio-economica.pressupost.compte-general
+  titulo: Compte general
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/compte-general
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt c.
+    ley_19_2013: Article 8. Apartat 1. Punt e.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2022-10-11'
+  estado: desactualizado
+- id: gestio-economica.pressupost.execucio-pressupostaria-trimestral
+  titulo: Execució pressupostària trimestral
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/execucio-pressupostaria-trimestral
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt a.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.pressupost.informacio-de-les-campanyes-institucionals
+  titulo: Informació de les campanyes institucionals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/informacio-de-les-campanyes-institucionals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: gestio-economica.pressupost.liquidacio-del-pressupost
+  titulo: Liquidació del pressupost
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/liquidacio-del-pressupost
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-22'
+  estado: publicado
+- id: gestio-economica.pressupost.modificacio-de-pressupostos
+  titulo: Modificació de pressupostos
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/modificacio-de-pressupostos
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: gestio-economica.pressupost.pressupost
+  titulo: Pressupost
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/gestio-economica/pressupost/pressupost
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt a.
+    ley_19_2013: Article 8. Apartat 1. Punt d.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-12-30'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.codi-de-conducta-dels-alts-carrecs-i-de-bon-govern
+  titulo: Codi de conducta dels alts càrrecs i de bon govern
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/codi-de-conducta-dels-alts-carrecs-i-de-bon-govern
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-09'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.codi-de-conducta-dels-grups-d-interes
+  titulo: Codi de conducta dels grups d&#039;interès
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/codi-de-conducta-dels-grups-d-interes
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-02'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.declaracio-institucional-impuls-politica-integritat-i-lluita-contra-frau
+  titulo: Declaració institucional d’impuls de la política d’integritat i de lluita contra el frau
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/declaracio-institucional-impuls-politica-integritat-i-lluita-contra-frau
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment.
+  actualizacion: '2025-07-02'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.pla-de-mesures-antifrau
+  titulo: Pla de mesures antifrau
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/pla-de-mesures-antifrau
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: La freqüència d’actualització serà en disposar del document aprovat i modificacions/novetats que es puguin produir.
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.bon-govern-i-integritat-publica.registre-de-grups-d-interes
+  titulo: Registre de grups d&#039;interès
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/bon-govern-i-integritat-publica/registre-de-grups-d-interes
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2025-07-02'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.empleats-publics.absentisme-194
+  titulo: Absentisme
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/absentisme-194
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: indicador.frequencia-actualitzacio-requerida.$altres.frequencia_actualitzacio.getData()
+  actualizacion: '2022-10-17'
+  estado: desactualizado
+- id: informacio-institucional-i-organitzativa.empleats-publics.alliberats-sindicals
+  titulo: Alliberats/ades sindicals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/alliberats-sindicals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.empleats-publics.convenis-acords-pactes-de-caracter-funcionarial-laboral-o-sindical
+  titulo: Convenis, acords, pactes de caràcter funcionarial, laboral o sindical
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/convenis-acords-pactes-de-caracter-funcionarial-laboral-o-sindical
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-23'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.empleats-publics.convocatories-de-personal
+  titulo: Convocatòries de personal
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/convocatories-de-personal
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: ''
+  actualizacion: '2026-10-24'
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.empleats-publics.llistes-de-personal-per-cada-proces-de-formacio-i-o-promocio
+  titulo: Llistes de personal per cada procés de formació i/o promoció
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/llistes-de-personal-per-cada-proces-de-formacio-i-o-promocio
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2024-09-23'
+  estado: desactualizado
+- id: informacio-institucional-i-organitzativa.empleats-publics.plantilla-empleats-publics
+  titulo: Plantilla d&#039;empleats públics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/plantilla-empleats-publics
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: ''
+  actualizacion: '2026-10-24'
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.empleats-publics.relacio-de-contractes-temporals-i-d-interinatge
+  titulo: Relació de contractes temporals i d&#039;interinatge
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/relacio-de-contractes-temporals-i-d-interinatge
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2016-09-23'
+  estado: desactualizado
+- id: informacio-institucional-i-organitzativa.empleats-publics.relacio-de-llocs-de-treball-rlt
+  titulo: Relació de llocs de treball (RLT)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/relacio-de-llocs-de-treball-rlt
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.empleats-publics.resolucions-sobre-el-regim-dincompatibilitats-dels-empleats-publics
+  titulo: Resolucions sobre el règim d&#039;incompatibilitats dels empleats públics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/resolucions-sobre-el-regim-dincompatibilitats-dels-empleats-publics
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt m.
+    ley_19_2013: Article 8. Apartat 1. Punt g.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.empleats-publics.resultats-de-les-convocatories-de-personal
+  titulo: Resultats de les convocatòries de personal
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/resultats-de-les-convocatories-de-personal
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.empleats-publics.retribucions-indemnitzacions-i-dietes-dels-empleats-publics
+  titulo: Retribucions, indemnitzacions i dietes dels empleats públics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/retribucions-indemnitzacions-i-dietes-dels-empleats-publics
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-08-02'
+  estado: desactualizado
+- id: informacio-institucional-i-organitzativa.empleats-publics.tecnics-de-l-ens
+  titulo: Tècnics/es de l&#039;ens
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/empleats-publics/tecnics-de-l-ens
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.agenda-d-activitats
+  titulo: Agenda d&#039;activitats
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/agenda-d-activitats
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: '7'
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.agenda-institucional-dels-alts-carrecs
+  titulo: Agenda institucional dels alts càrrecs
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/agenda-institucional-dels-alts-carrecs
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.competencies-i-funcions
+  titulo: Competències i funcions
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/competencies-i-funcions
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a, c.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-03-10'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.dades-estadistiques
+  titulo: Dades estadístiques
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/dades-estadistiques
+  base_legal:
+    llei_19_2014: Article 8. Apartat 1. Punt j.
+    ley_19_2013: Article 8. Apartat 1. Punt i.
+  frecuencia_declarada: En disposar de noves dades, o per defecte trimestralment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.dades-generals-de-l-ens
+  titulo: Dades generals de l&#039;ens
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/dades-generals-de-l-ens
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.informacio-del-terme-municipal
+  titulo: Informació del terme municipal
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/informacio-del-terme-municipal
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.informacio-historica-sobre-el-municipi
+  titulo: Informació històrica sobre el municipi
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/informacio-historica-sobre-el-municipi
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.organigrama-de-l-ens
+  titulo: Organigrama de l&#039;ens
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organigrama-de-l-ens
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a, b.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2024-01-02'
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.organismes-dels-que-forma-part
+  titulo: Organismes dels que forma part
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organismes-dels-que-forma-part
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-22'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.organismes-dependents-o-vinculats
+  titulo: Organismes dependents o vinculats
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/organismes-dependents-o-vinculats
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a, b.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.informacio-institucional.registre-de-funcionaris-habilitats
+  titulo: Registre de funcionaris habilitats
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/informacio-institucional/registre-de-funcionaris-habilitats
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-23'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.alts-carrecs-personal-directiu-i-carrecs-eventuals
+  titulo: Alts càrrecs, personal directiu i càrrecs eventuals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/alts-carrecs-personal-directiu-i-carrecs-eventuals
+  base_legal:
+    llei_19_2014: Article 9, 11. Apartat 1. Punt b, c.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-01'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.carrecs-electes
+  titulo: Càrrecs electes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/carrecs-electes
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt b.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.cartipas-organitzacio-politica
+  titulo: 'Cartipàs: organització política'
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/cartipas-organitzacio-politica
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a, b.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.grups-politics-municipals
+  titulo: Grups polítics/municipals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/grups-politics-municipals
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt a.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2026-10-24'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.organs-de-govern-i-funcions
+  titulo: Òrgans de govern i funcions
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/organs-de-govern-i-funcions
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt c.
+    ley_19_2013: Article 6. Apartat 1.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.resolucions-relatives-a-les-declaracions-d-activitats-patrimonials-i-d-interessos-dels-alts-carrecs-i-del-personal-directiu
+  titulo: Resolucions relatives a les declaracions d&#039;activitats, patrimonials i d&#039;interessos dels alts càrrecs i del personal directiu
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/resolucions-relatives-a-les-declaracions-d-activitats-patrimonials-i-d-interessos-dels-alts-carrecs-i-del-personal-directiu
+  base_legal:
+    llei_19_2014: Article 11. Apartat 1. Punt d.
+    ley_19_2013: Article 8. Apartat 1. Punt g.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.organitzacio-politica-i-retribucions.resolucions-sobre-el-regim-d-incompatibilitats-dels-alts-carrecs-i-personal-directiu
+  titulo: Resolucions sobre el règim d&#039;incompatibilitats dels alts càrrecs i personal directiu
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/resolucions-sobre-el-regim-d-incompatibilitats-dels-alts-carrecs-i-personal-directiu
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt m.
+    ley_19_2013: Article 8. Apartat 1. Punt g.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: informacio-institucional-i-organitzativa.proteccio-de-dades-personals.delegat-da-de-proteccio-de-dades
+  titulo: Delegat/da de Protecció de Dades
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/proteccio-de-dades-personals/delegat-da-de-proteccio-de-dades
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-01'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.proteccio-de-dades-personals.exercici-dels-drets-relatius-a-la-proteccio-de-dades-personals
+  titulo: Exercici dels drets relatius a la protecció de dades personals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/proteccio-de-dades-personals/exercici-dels-drets-relatius-a-la-proteccio-de-dades-personals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-07-01'
+  estado: publicado
+- id: informacio-institucional-i-organitzativa.proteccio-de-dades-personals.registre-de-les-activitats-de-tractament-de-dades-personals
+  titulo: Registre de les activitats de tractament de dades personals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/proteccio-de-dades-personals/registre-de-les-activitats-de-tractament-de-dades-personals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: Article 6 bis.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: serveis-i-tramits.estat-dels-serveis.avaluacions-de-les-politiques-publiques
+  titulo: Avaluacions de les polítiques públiques
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/avaluacions-de-les-politiques-publiques
+  base_legal:
+    llei_19_2014: Article 9. Apartat 1. Punt j.
+    ley_19_2013: Article 6. Apartat 2.
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.estat-dels-serveis.avaluacions-de-qualitat-dels-serveis-publics
+  titulo: Avaluacions de qualitat dels serveis públics
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/avaluacions-de-qualitat-dels-serveis-publics
+  base_legal:
+    llei_19_2014: Article 12. Apartat 1.
+    ley_19_2013: Article 6. Apartat 2.
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2025-02-14'
+  estado: desactualizado
+- id: serveis-i-tramits.estat-dels-serveis.incidencies-de-serveis
+  titulo: Incidències de serveis
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/incidencies-de-serveis
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.estat-dels-serveis.incidencies-de-transit
+  titulo: Incidències de trànsit
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/incidencies-de-transit
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2023-08-01'
+  estado: desactualizado
+- id: serveis-i-tramits.estat-dels-serveis.indicadors-de-transparencia
+  titulo: Indicadors de transparència
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/indicadors-de-transparencia
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte mensualment
+  actualizacion: '2023-07-25'
+  estado: no_encontrado
+- id: serveis-i-tramits.estat-dels-serveis.informacio-de-contaminacio-de-l-aire
+  titulo: Informació de la contaminació de l&#039;aire
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/informacio-de-contaminacio-de-l-aire
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: '2026-10-19'
+  estado: publicado
+- id: serveis-i-tramits.estat-dels-serveis.informacio-de-la-contaminacio-acustica
+  titulo: Informació de la contaminació acústica
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/estat-dels-serveis/informacio-de-la-contaminacio-acustica
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte setmanalment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.serveis.atencio-ciutadana
+  titulo: Atenció ciutadana
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/serveis/atencio-ciutadana
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.serveis.calendari-dies-inhabils
+  titulo: Calendari dies inhàbils
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/serveis/calendari-dies-inhabils
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: publicado
+- id: serveis-i-tramits.serveis.cataleg-i-cartes-de-serveis
+  titulo: Catàleg i cartes de serveis
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/serveis/cataleg-i-cartes-de-serveis
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: serveis-i-tramits.serveis.equipaments-municipals
+  titulo: Equipaments municipals
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/serveis/equipaments-municipals
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.serveis.oac-360-assistencia-per-tramits-en-linia-196
+  titulo: OAC 360
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/serveis/oac-360-assistencia-per-tramits-en-linia-196
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: indicador.frequencia-actualitzacio-requerida.$altres.frequencia_actualitzacio.getData()
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.cataleg-de-dades-i-documents-interoperables
+  titulo: Catàleg de dades i documents interoperables
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/cataleg-de-dades-i-documents-interoperables
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-27'
+  estado: desactualizado
+- id: serveis-i-tramits.tramits.cataleg-de-tramits-i-procediments
+  titulo: Catàleg de tràmits i procediments
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/cataleg-de-tramits-i-procediments
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.estat-dels-meus-tramits-carpeta-del-ciutada
+  titulo: El meu espai personal
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/estat-dels-meus-tramits-carpeta-del-ciutada
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.factures-electroniques
+  titulo: Factures electròniques
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/factures-electroniques
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.finestreta-unica-empresarial-fue
+  titulo: Finestreta Única Empresarial (FUE)
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/finestreta-unica-empresarial-fue
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2023-07-24'
+  estado: desactualizado
+- id: serveis-i-tramits.tramits.gestio-tributaria
+  titulo: Gestió tributària
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/gestio-tributaria
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.gestor-de-representacions
+  titulo: Gestor de representacions
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/gestor-de-representacions
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: en disposar de noves dades o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.instancia-generica
+  titulo: Instància genèrica
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/instancia-generica
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.notificacions-electroniques
+  titulo: Notificacions electròniques
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/notificacions-electroniques
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.obligacio-a-relacionar-se-electronicament-amb-l-ajuntament-182
+  titulo: Obligació a relacionar
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/obligacio-a-relacionar-se-electronicament-amb-l-ajuntament-182
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: indicador.frequencia-actualitzacio-requerida.$altres.frequencia_actualitzacio.getData()
+  actualizacion: '2020-02-17'
+  estado: desactualizado
+- id: serveis-i-tramits.tramits.sol-licitud-d-acces-a-la-informacio-publica
+  titulo: Sol·licitud d&#039;accés a la informació pública
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/sol-licitud-d-acces-a-la-informacio-publica
+  base_legal:
+    llei_19_2014: Article 18 al 44.
+    ley_19_2013: Article 17.
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: null
+  estado: no_encontrado
+- id: serveis-i-tramits.tramits.suggeriments-queixes-i-propostes
+  titulo: Suggeriments, queixes i propostes
+  url: https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/serveis-i-tramits/tramits/suggeriments-queixes-i-propostes
+  base_legal:
+    llei_19_2014: null
+    ley_19_2013: null
+  frecuencia_declarada: En disposar de noves dades, o per defecte anualment
+  actualizacion: '2025-04-02'
+  estado: desactualizado
+kpi:
+  impacto_rebaja_ibi_0_48:
+    tipo_actual: 0.6199
+    tipo_nuevo: 0.48
+    perdida_recaudacion_residencial_eur: 2069597
+    perdida_recaudacion_cota_superior_eur: 4819297
+    valor_catastral_medio_vivienda_eur: 56140
+    cuota_media_vivienda_actual_eur: 348.01
+    ahorro_medio_por_vivienda_eur: 78.54
+    viviendas_beneficiadas: 26351
+    peso_sobre_cuota_bice_2025_pct: 5.5
+    fuentes:
+    - https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2026/catastro/urbano/&file=URBO4208.px&type=pcaxis&L=0
+    - https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2025/ibi/&file=U04008.px&type=pcaxis&L=0
+  padron:
+    fuente_ibi_2025: https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2025/ibi/&file=U04008.px&type=pcaxis&L=0
+    fuente_usos_2026: https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2026/catastro/urbano/&file=URBO4208.px&type=pcaxis&L=0
+    urbana_2025:
+      recibos: 39422
+      base_liquidable_eur: 3429161000
+      cuota_liquida_eur: 21842645
+    bice_2025:
+      recibos: 168
+      base_liquidable_eur: 2886336000
+      cuota_liquida_eur: 37522370
+    residencial_2026:
+      inmuebles: 26351
+      valor_catastral_eur: 1479340030
+    urbano_total_2026:
+      inmuebles: 40260
+      valor_catastral_eur: 3444815740
+    ultima_valoracion_catastral: 1997

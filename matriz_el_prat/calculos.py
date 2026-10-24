@@ -94,3 +94,39 @@ def riesgo_beneficio_fiscal_tasa(descripcion: str) -> dict:
             "motivo": "una exención total en una tasa no prevista en norma con rango de ley vulnera el art. 9.1 TRLRHL; "
                       "alternativa: tarifa reducida por capacidad económica (art. 24.4) o un precio público/abono distinto",
             "fundamento": ["TRLRHL art. 9.1", "TRLRHL art. 24.4"]}
+
+
+# Datos agregados reales (Catastro, Dirección General del Catastro; consultados 2026-10-24)
+PADRON_IBI = {
+    "fuente_ibi_2025": "https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2025/ibi/&file=U04008.px&type=pcaxis&L=0",
+    "fuente_usos_2026": "https://www.catastro.hacienda.gob.es/jaxi/tabla.do?path=/est2026/catastro/urbano/&file=URBO4208.px&type=pcaxis&L=0",
+    "urbana_2025": {"recibos": 39422, "base_liquidable_eur": 3_429_161_000, "cuota_liquida_eur": 21_842_645},
+    "bice_2025": {"recibos": 168, "base_liquidable_eur": 2_886_336_000, "cuota_liquida_eur": 37_522_370},
+    "residencial_2026": {"inmuebles": 26351, "valor_catastral_eur": 1_479_340_030},
+    "urbano_total_2026": {"inmuebles": 40260, "valor_catastral_eur": 3_444_815_740},
+    "ultima_valoracion_catastral": 1997,
+}
+
+
+def impacto_rebaja_ibi(tipo_nuevo: float, tipo_actual: float | None = None) -> dict:
+    """Impacto de bajar el tipo general urbano. Base liquidable = valor catastral (ponencia de 1997, sin reducción art. 67).
+
+    - residencial: los 26.351 inmuebles de uso residencial (Catastro 2026).
+    - cota_superior: toda la base urbana si todo tributara al tipo general (los inmuebles con tipo diferenciado
+      no cambiarían, por eso el impacto real queda entre ambos valores).
+    No descuenta bonificaciones (cuota líquida 2025 = 99,1 % de la íntegra)."""
+    actual = tipo_actual if tipo_actual is not None else TIPOS_PRAT_2026["urbana_general"]
+    if not LIMITES_TRLRHL["urbana"][0] <= tipo_nuevo <= LIMITES_TRLRHL["urbana"][1]:
+        raise ValueError("tipo fuera de los límites del art. 72.1 TRLRHL")
+    dif = (actual - tipo_nuevo) / 100
+    r = PADRON_IBI["residencial_2026"]; t = PADRON_IBI["urbano_total_2026"]
+    vc_medio = r["valor_catastral_eur"] / r["inmuebles"]
+    return {"tipo_actual": actual, "tipo_nuevo": tipo_nuevo,
+            "perdida_recaudacion_residencial_eur": round(r["valor_catastral_eur"] * dif),
+            "perdida_recaudacion_cota_superior_eur": round(t["valor_catastral_eur"] * dif),
+            "valor_catastral_medio_vivienda_eur": round(vc_medio),
+            "cuota_media_vivienda_actual_eur": round(vc_medio * actual / 100, 2),
+            "ahorro_medio_por_vivienda_eur": round(vc_medio * dif, 2),
+            "viviendas_beneficiadas": r["inmuebles"],
+            "peso_sobre_cuota_bice_2025_pct": round(r["valor_catastral_eur"] * dif / PADRON_IBI["bice_2025"]["cuota_liquida_eur"] * 100, 1),
+            "fuentes": [PADRON_IBI["fuente_usos_2026"], PADRON_IBI["fuente_ibi_2025"]]}

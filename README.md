@@ -35,3 +35,9 @@ pytest -q
 
 ## Protección de datos
 No se recogen datos personales; NIF/DNI/NIE y correos se enmascaran antes de guardar (RGPD (UE) 2016/679, LO 3/2018).
+
+## Inventario de obligaciones de transparencia
+`inventario_obligaciones.yaml` audita la publicidad activa (Ley 19/2013 arts. 6-8; Llei 19/2014 arts. 8-15) del
+Ajuntament: estado `publicado` / `desactualizado` / `no_encontrado` / `no_verificado` con URL y fecha.
+Datos agregados y manifiesto (URL + sha256) en `data/fuentes/`. Carencias priorizadas por beneficio ciudadano en
+`docs/HALLAZGOS_TRANSPARENCIA.md`. Se regenera con `python scripts/generar_inventario.py`.
