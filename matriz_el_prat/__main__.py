@@ -25,6 +25,7 @@ def borradores(dest="borradores"):
         "Acceso a información pública: base liquidable agregada del IBI por clase y uso (sin datos personales)",
         ["Para evaluar propuestas de modificación de la OF1 es necesario conocer la base liquidable total agregada."],
         "Que se facilite la base liquidable agregada del IBI 2026 por clase (urbana, rústica, BICE) y uso catastral."), encoding="utf-8")
+    (d / "mocion_reformas_5_puntos.md").write_text(D.mocion_reformas_5_puntos(), encoding="utf-8")
     return sorted(p.name for p in d.iterdir())
 
 if __name__ == "__main__":

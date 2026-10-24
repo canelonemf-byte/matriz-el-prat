@@ -28,6 +28,7 @@ catalogo:
       - {dato: "0,48 % legal", estado: verificado, nota: "art. 72.1 TRLRHL: mínimo urbano 0,4 %, máximo 1,10 %", fuente: trlrhl_art72}
       - {dato: "rebaja solo 'residencial'", estado: incorrecto, nota: "art. 72.4: los tipos diferenciados solo caben para usos NO residenciales; para bajar la vivienda hay que bajar el tipo general (afecta a todo inmueble urbano sin tipo diferenciado) o usar bonificaciones del art. 74", fuente: trlrhl_art72}
       - {dato: "-2,7 M€", estado: no_verificado, nota: "exige una base liquidable afectada de ~1.930 M€ (2,7 M€ / 0,1399 %); falta padrón IBI o estadística catastral", fuente: ""}
+      - {dato: "~28.000 familias", estado: no_verificado, nota: "El Prat tiene 66.251 habitantes (IDESCAT, 2025); 28.000 serían casi todos los hogares, incluidos inquilinos que no pagan IBI directamente. Falta el nº de recibos IBI residenciales", fuente: "https://api.idescat.cat/emex/v1/dades.json?id=081691"}
       - {dato: "280-540 €/año para ~28.000 familias", estado: incorrecto, nota: "incoherente con -2,7 M€: 28.000 × 280-540 € = 7,8-15,1 M€; con 2,7 M€ salen ~96 €/familia. Un ahorro de 280-540 € con Δ0,1399 % requiere base liquidable de 200.000-386.000 € por vivienda", fuente: ""}
   - id: PRAT-FIS-002
     agente: fiscal_prat
@@ -47,6 +48,7 @@ catalogo:
     verificacion:
       - {dato: "art. 11.3 Ley 7/2022", estado: verificado, nota: "obliga a una tasa específica, diferenciada y NO deficitaria que permita el pago por generación; las reducciones por separar o compostar están en el art. 11.4.b-c", fuente: ley_7_2022_art11}
       - {dato: "40 %", estado: no_verificado, nota: "la ley no fija porcentajes; el 40 % debe justificarse con costes y compensarse para que la tasa no sea deficitaria", fuente: ley_7_2022_art11}
+      - {dato: "8 aportaciones/mes orgánica o 6/año deixalleria (Gemini)", estado: no_verificado, nota: "umbrales propuestos sin estudio; deben justificarse con datos de recogida", fuente: ""}
       - {dato: "-1,2 M€", estado: no_verificado, nota: "falta la OF 26 2026, el coste del servicio y la recaudación; el Excel lo deja en 0", fuente: ""}
   - id: PRAT-URB-001
     agente: urba_prat
@@ -56,6 +58,7 @@ catalogo:
     verificacion:
       - {dato: "art. 25.2.g LBRL", estado: verificado, nota: "competencia municipal en 'tráfico, estacionamiento de vehículos y movilidad'", fuente: lbrl_art25_77}
       - {dato: "exención 100 %", estado: incorrecto, nota: "art. 9.1 TRLRHL: no caben beneficios fiscales en tributos locales no previstos en ley; alternativa: tarifa social (art. 24.4) o piloto, como propone el Excel", fuente: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214#a9"}
+      - {dato: "tarifa actual 8 €/mes (Gemini)", estado: verificado, nota: "Zona Taronja Mas Blau desde octubre de 2026: 8 €/mes hasta 16 h/día para trabajadores autorizados; no autorizados 1,25 €/h, máx. 3 h (OF 23 modificada, Ple de junio 2026). Fuente periodística: elprat.digital 25-06-2026 y COPE 30-09-2026; texto de la OF 23 pendiente", fuente: "https://www.elprat.digital/2026/06/25/el-mas-blau-tindra-aparcament-per-a-treballadors/"}
       - {dato: "impacto 0 €", estado: incorrecto, nota: "una exención reduce ingresos de la tasa (OF 23); el Excel lo marca 'pendiente de estudio'", fuente: ""}
   - id: PRAT-VIV-001
     agente: urba_prat
@@ -73,5 +76,5 @@ catalogo:
     verificacion:
       - {dato: "art. 77 LBRL", estado: verificado, nota: "derecho de los concejales a obtener información; la solicitud se resuelve motivadamente en 5 días naturales", fuente: lbrl_art25_77}
       - {dato: "art. 84 ROF", estado: no_verificado, nota: "el ROF (RD 2568/1986) no está en la API consolidada del BOE y la página no respondió; según su texto conocido, la documentación del orden del día debe estar a disposición desde la convocatoria. Comprobar en https://www.boe.es/buscar/doc.php?id=BOE-A-1986-23581", fuente: ""}
-      - {dato: "48 h / 10 días", estado: no_verificado, nota: "la LBRL dice 5 días naturales; los plazos de 48 h (art. 46.2.b LBRL: convocatoria con 2 días hábiles) y 10 días no constan para esto", fuente: lbrl_art25_77}
+      - {dato: "48 h / 10 días", estado: incorrecto, nota: "la base legal correcta es el art. 46.2.b LBRL: convocatoria con al menos 2 días HÁBILES y documentación íntegra a disposición desde el mismo día de la convocatoria; los '10 días' no constan en la ley (podrían estar en el ROM, pendiente)", fuente: lbrl_art25_77}
 plan_y_controles_excel: "ver hoja 'Plan y controles' de data/Registro_Maestro_Mejoras_El_Prat.xlsx (8 actuaciones con indicador ciudadano)"

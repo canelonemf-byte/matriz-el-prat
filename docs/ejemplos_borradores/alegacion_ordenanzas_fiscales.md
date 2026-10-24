@@ -22,7 +22,7 @@ Persona interesada: [nombre, DNI y domicilio a completar por la persona firmante
 Que se estimen las alegaciones y se modifique la ordenanza en los términos expuestos.
 
 ### Fundamento jurídico
-- RDL 2/2004 (TRLRHL), art. 17.1: exposición pública mínima de 30 días hábiles del acuerdo provisional
+- RDL 2/2004 (TRLRHL), art. 17.1: exposición pública del acuerdo provisional durante 30 días como mínimo (hábiles, art. 30.2 Ley 39/2015)
 - RDL 2/2004 (TRLRHL), art. 18: legitimación para reclamar
 - RDL 2/2004 (TRLRHL), art. 17.3: el Pleno resuelve las reclamaciones
 - Ley 39/2015, art. 83: trámite de información pública

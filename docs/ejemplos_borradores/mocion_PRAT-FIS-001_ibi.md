@@ -24,6 +24,8 @@ El tipo general vigente en 2026 es 0,6199 % (OF1 art. 7, BOPB 23-12-2025, CVE 20
 ### Fundamento jurídico
 - RD 2568/1986 (ROF), art. 97.3: definición de moción como propuesta sometida directamente al Pleno
 - RD 2568/1986 (ROF), art. 91.4: mociones por razones de urgencia en sesiones ordinarias
+- Ley 7/1985 (LBRL), art. 46.2.b: convocatoria con 2 días hábiles y documentación íntegra a disposición desde la convocatoria
+- Ley 7/1985 (LBRL), art. 47.1: acuerdos por mayoría simple de los miembros presentes
 - Ley 7/1985 (LBRL), art. 46.2.e: parte de control del Pleno
 - Reglament Orgànic Municipal del Prat de Llobregat: PENDIENTE de localizar el texto vigente y su artículo sobre mociones
 ---

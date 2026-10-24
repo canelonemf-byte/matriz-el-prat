@@ -69,3 +69,8 @@ def test_catalogo_verificado():
     assert ids == {"PRAT-FIS-001", "PRAT-FIS-002", "PRAT-ECO-001", "PRAT-URB-001", "PRAT-VIV-001", "PRAT-LEG-001"}
     for m in c["catalogo"]:
         assert m["agente"] in A.AGENTES and m["original"] and all(v["estado"] in ("verificado", "no_verificado", "incorrecto") for v in m["verificacion"])
+
+
+def test_mocion_gemini_corregida():
+    m = D.mocion_reformas_5_puntos()
+    assert m.startswith("# BORRADOR") and "art. 72.2" in m and "46.2.b" in m and "72.1 del TRLRHL permite" not in m
