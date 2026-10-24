@@ -43,7 +43,7 @@ def sankey(anio):
     return fig
 
 
-PAGINAS = ["🏠 Inicio", "💶 De dónde viene y a dónde va el dinero", "📊 Presupuesto y ejecución", "💰 Sobrantes y dinero disponible",
+PAGINAS = ["🏠 Inicio", "💶 De dónde viene y a dónde va el dinero", "📊 Presupuesto y ejecución", "👥 Personal (sueldos y formación)", "💰 Sobrantes y dinero disponible",
            "📈 Tendencias y análisis", "🏦 Deuda y pago a proveedores", "📝 Contratos y proveedores", "🤝 Subvenciones y convenios",
            "🛠️ Servicios municipales y KPIs", "🏢 Empresas y entes municipales", "🏗️ Inversiones y proyectos futuros", "🏠 Impuestos (IBI y otros)",
            "🔎 Transparencia", "🚨 Alertas", "🤖 Pregunta a la IA", "📚 Glosario y fuentes"]
@@ -116,7 +116,29 @@ elif pag == PAGINAS[2]:
     pendiente("ejecución trimestral del año en curso", "el portal de transparencia solo enlaza fuera (estado 'solo_enlace'); pedirla por acceso a la información (Llei 19/2014 art. 18)")
     fuente("https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6", FUENTE_LIQ)
 
-elif pag == PAGINAS[3]:
+elif pag == "👥 Personal (sueldos y formación)":
+    st.title("Personal: sueldos, Seguridad Social y formación")
+    st.caption("Capítulo 1 del presupuesto INICIAL por concepto económico (la ejecución real por concepto no está en datos abiertos).")
+    pe = A.personal()
+    if pe.empty:
+        pendiente("capítulo 1 por concepto", "ejecutar `python -m app.fetchers personal`")
+    else:
+        g = A.personal_grupos(pe)
+        st.plotly_chart(px.bar(g.loc[2016:], barmode="stack", labels={"value": "€", "any": "Año"}), use_container_width=True)
+        anio = st.selectbox("Año", sorted(g.index)[::-1])
+        st.dataframe(g.loc[anio].rename("previsto (€)").to_frame(), use_container_width=True)
+        st.metric(f"Total personal previsto {anio}", E(g.loc[anio].sum()))
+        f = A.formacion(pe)
+        st.subheader("Formación del personal (concepto 160200)")
+        st.plotly_chart(px.line(f.loc[2016:], markers=True, labels={"value": "€", "any": "Año"}), use_container_width=True)
+        if len(f) > 1 and f.iloc[-1] < 0.5 * f.iloc[-2]:
+            st.warning(f"La formación baja de {E(f.iloc[-2])} a {E(f.iloc[-1])}.")
+        st.dataframe(pe[(pe["any"] == anio) & (pe.nivel >= 3)][["codigo", "concepto", "importe"]], hide_index=True)
+        st.info("Los sueldos de cada cargo electo son públicos (Llei 19/2014 art. 11) y figuran en el portal de transparencia; pendiente cargarlos como datos abiertos. No se muestran sueldos de empleados concretos.")
+        fuente("https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6",
+               "https://seu-e.cat/ca/web/elpratdellobregat/govern-obert-i-transparencia/informacio-institucional-i-organitzativa/organitzacio-politica-i-retribucions/carrecs-electes")
+
+elif pag == PAGINAS[4]:
     st.title("Sobrantes: dinero que podría mejorar la vida en El Prat")
     st.latex(r"\text{Sobrante del año} = \text{Derechos reconocidos} - \text{Obligaciones reconocidas}")
     st.plotly_chart(px.bar(TOT, x="any", y="saldo", labels={"saldo": "€", "any": "Año"}, title="Sobrante (o déficit) cada año"), use_container_width=True)
@@ -133,7 +155,7 @@ elif pag == PAGINAS[3]:
             "sostenibles (DA 6ª) o las excepciones que fije cada año la ley. Las reglas fiscales estuvieron suspendidas 2020-2023.")
     fuente(FUENTE_LIQ, "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5730")
 
-elif pag == PAGINAS[4]:
+elif pag == PAGINAS[5]:
     st.title("Tendencias y análisis")
     serie = st.selectbox("Serie", ["gastos", "ingresos", "gasto_por_hab"])
     real, base = A.deflactar(TOT[serie], TOT["any"])
@@ -165,7 +187,7 @@ elif pag == PAGINAS[4]:
     st.dataframe(z.round(2)); st.caption(f"Variación {ult} frente al año anterior. |z| > 2 indica un cambio fuera de lo habitual para esa área.")
     fuente(FUENTE_LIQ, "https://www.ine.es/consul/serie.do?s=IPC251852")
 
-elif pag == PAGINAS[5]:
+elif pag == PAGINAS[6]:
     st.title("Deuda y pago a proveedores")
     d = pd.DataFrame(AOC.get("endeutament", []))
     if not d.empty:
@@ -178,7 +200,7 @@ elif pag == PAGINAS[5]:
         st.plotly_chart(fig, use_container_width=True)
     fuente("https://dadesobertes.seu-e.cat (datasets endeutament y PMP, CODI_ENS 816910007)")
 
-elif pag == PAGINAS[6]:
+elif pag == PAGINAS[7]:
     st.title("Contratos y proveedores")
     k = A.cargar("contractes") or {}
     ag = pd.DataFrame(k.get("agregado", []))
@@ -193,7 +215,7 @@ elif pag == PAGINAS[6]:
         st.dataframe(pd.DataFrame(k["top_adjudicatarios_desde_2022"]).query("organo in @org"), hide_index=True)
         st.caption("Por protección de datos, los adjudicatarios que pueden ser personas físicas no se nombran; se agregan: " +
                    "; ".join(f"{o}: {v['n']} contratos, {E(v['importe'])}" for o, v in k.get("no_nombrados_desde_2022", {}).items()))
-        det = pd.DataFrame((A.cargar("contractes_detall") or {}).get("filas", []))
+        det = A.contratos_detalle()
         if not det.empty:
             st.subheader("Contratos atípicos (2024 en adelante)")
             st.write("Se marcan por importe inusual dentro de su tipo (IQR y z-score sobre el logaritmo del importe) o contratos menores por encima de los umbrales de la LCSP. **Son indicios para revisar, no irregularidades probadas.**")
@@ -203,7 +225,7 @@ elif pag == PAGINAS[6]:
             st.caption("Mismo órgano, misma empresa y mismo año: 3 o más contratos menores que suman más de 15.000 €. Puede tener explicaciones legítimas (servicios distintos).")
         fuente(k.get("dataset", ""), "https://contractaciopublica.cat")
 
-elif pag == PAGINAS[7]:
+elif pag == PAGINAS[8]:
     st.title("Subvenciones y convenios")
     s = pd.DataFrame([{"any": int(a), **v} for a, v in AOC.get("subvencions_per_any", {}).items()]).sort_values("any")
     if not s.empty:
@@ -215,7 +237,7 @@ elif pag == PAGINAS[7]:
     pendiente("ejecución de los convenios (qué se ha cumplido y pagado)", "la página del portal está 'sin_documentos'; pedirla por acceso a la información (Llei 19/2014 art. 8.1.b y 18)")
     fuente("https://dadesobertes.seu-e.cat (subvencions, convenis; CODI_ENS 816910007)")
 
-elif pag == PAGINAS[8]:
+elif pag == PAGINAS[9]:
     st.title("Servicios municipales: coste y tiempos")
     cs = pd.DataFrame((A.cargar("cost_serveis") or {}).get("filas", []))
     if not cs.empty:
@@ -242,7 +264,7 @@ elif pag == PAGINAS[8]:
     pendiente("tiempos de servicio (licencias, quejas, servicios sociales, OAC)", "no se publican como datos abiertos; pedirlos por acceso a la información (Llei 19/2014 art. 18) y a la Carta de Servicios municipal si existe")
     fuente("https://analisi.transparenciacatalunya.cat/d/7e8k-3vki")
 
-elif pag == PAGINAS[9]:
+elif pag == PAGINAS[10]:
     st.title("Empresas y entes municipales")
     e = pd.DataFrame((A.cargar("ens") or {}).get("filas", []))
     if not e.empty:
@@ -257,7 +279,7 @@ elif pag == PAGINAS[9]:
     pendiente("cuentas anuales, plantilla y retribuciones de Prat Espais, Aigües del Prat y El Prat Comunicació", "Registro Mercantil (cuentas depositadas) y portal de transparencia de cada sociedad; si no constan, acceso a la información (Llei 19/2014 art. 3.1.b)")
     fuente("https://analisi.transparenciacatalunya.cat/d/7fnj-etev", "https://analisi.transparenciacatalunya.cat/d/hb6v-jcbf")
 
-elif pag == PAGINAS[10]:
+elif pag == PAGINAS[11]:
     st.title("Inversiones y proyectos futuros")
     inv = LIQ[(LIQ.doc == "DE") & (LIQ.codigo.astype(str) == "6")]
     pi = PRES[(PRES.partida == "D") & (PRES.clasif == "E") & (PRES.nivel == 1) & (PRES.codigo == "6")]
@@ -274,7 +296,7 @@ elif pag == PAGINAS[10]:
               "si faltan, acceso a la información. Se añadirán cuando se verifiquen sus URL oficiales.")
     fuente(FUENTE_LIQ, "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6")
 
-elif pag == PAGINAS[11]:
+elif pag == PAGINAS[12]:
     st.title("Impuestos: IBI y otros")
     ti = pd.DataFrame(AOC.get("tipus_impositius", []))
     if not ti.empty:
@@ -291,7 +313,7 @@ elif pag == PAGINAS[11]:
     st.info("La revisión catastral es de 1997: los valores catastrales están muy desactualizados, lo que condiciona el tipo del IBI.")
     fuente(FUENTE_LIQ, "https://www.catastro.hacienda.gob.es/es-ES/estadisticas.html")
 
-elif pag == PAGINAS[12]:
+elif pag == PAGINAS[13]:
     st.title("Transparencia: ¿publica el Ayuntamiento lo que la ley le obliga?")
     inv = A.inventario()
     r = inv["resumen_checklist"]; st.plotly_chart(px.pie(names=list(r), values=list(r.values()), hole=.4), use_container_width=True)
@@ -300,13 +322,13 @@ elif pag == PAGINAS[12]:
     st.dataframe(df[df.estado.isin(est)][["obligacion", "estado", "base_legal", "fecha", "nota", "url"]], hide_index=True)
     st.caption(f"Auditoría {inv.get('fecha_auditoria')} · revisión en navegador {inv.get('revision_navegador', '')}")
 
-elif pag == PAGINAS[13]:
+elif pag == PAGINAS[14]:
     st.title("Alertas")
     al = pd.DataFrame(A.alertas())
     st.dataframe(al, hide_index=True)
     st.caption("Plazos, publicaciones que faltan o están desfasadas, y desviaciones de ejecución (>115 % o <70 % del presupuesto inicial en partidas > 1 M€).")
 
-elif pag == PAGINAS[14]:
+elif pag == PAGINAS[15]:
     st.title("Pregunta a la IA sobre el dinero del Ayuntamiento")
     modo = ia.estado()
     if modo == "pendiente_de_clave":

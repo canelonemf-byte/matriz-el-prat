@@ -11,7 +11,7 @@ def _paginas():
     return at.sidebar.radio[0].options
 
 
-@pytest.mark.parametrize("i", range(16))
+@pytest.mark.parametrize("i", range(17))
 def test_cada_pagina_carga(i):
     at = AppTest.from_file(MAIN, default_timeout=60).run()
     at.sidebar.radio[0].set_value(at.sidebar.radio[0].options[i]).run()

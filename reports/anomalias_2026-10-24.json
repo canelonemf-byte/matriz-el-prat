@@ -1,0 +1,713 @@
+[
+ {
+  "organo":"Prat Espais, SLU",
+  "any":2025,
+  "expediente":"24-129-DOT1",
+  "objeto":"CONTRACTE  D'OBRES DE \"CONSTRUCCIÓ DE LA PROMOCIÓ D'UN CONJUNT RESIDENCIAL DE 72 HABITATGES PROTEGITS I DOTACIONALS, SUPERFÍCIE COMERCIAL, EQUIPAMENT ADMINISTRATIU I APARCAMENT EN LA ILLA 3B, PARCEL·L",
+  "adjudicatario":"VIALSER EDIFICACION Y OBRA CIVIL, S.L.U.",
+  "importe":6624715.7000000002,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"6313\/2024",
+  "objeto":"Contracte d'obres per a l'execució del Projecte executiu per a la rehabilitació d'edifici del c\/ Lo Gaiter de Llobregat nº 124 per a la nova seu municipal de l'àmbit de serveis a les persones",
+  "adjudicatario":"UTE EDIFICI GAITER",
+  "importe":5923209.9100000001,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"4038\/2022",
+  "objeto":"Servei de neteja de dependències i edificis municipals,amb mesures de contractació pública sostenibles, d'igualtat de dones i homes i d'altres aspectes socials i laborals",
+  "adjudicatario":"Servicios Especiales de Limpieza, SA (SELSA)",
+  "importe":5111498.7999999998,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"4038\/2022",
+  "objeto":"Servei de neteja de dependències i edificis municipals,amb mesures de contractació pública sostenibles, d'igualtat de dones i homes i d'altres aspectes socials i laborals",
+  "adjudicatario":"Servicios Especiales de Limpieza, SA (SELSA)",
+  "importe":5086498.7999999998,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Prat Espais, SLU",
+  "any":2025,
+  "expediente":"24-216-DOT1",
+  "objeto":"CONTRACTE D'OBRES D'INSTAL.LACIONS PER A LA \"CONSTRUCCIÓ DE LA PROMOCIÓ D'UN CONJUNT RESIDENCIAL DE 72 HABITATGES PROTEGITS I DOTACIONALS, SUPERFÍCIE COMERCIAL, EQUIPAMENT ADMINISTRATIU I APARCAMENT E",
+  "adjudicatario":"VIALSER EDIFICACION Y OBRA CIVIL, S.L.U.",
+  "importe":2377455.27,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"44982\/2025",
+  "objeto":"Gestió i funcionament del servei públic de les escoles bressol municipals de l¿Ajuntament del Prat de Llobregat. (4 Lots)",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":1891427.7,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Prat Espais, SLU",
+  "any":2025,
+  "expediente":"24-129-DOT1",
+  "objeto":"CONTRACTE  D'OBRES DE \"CONSTRUCCIÓ DE LA PROMOCIÓ D'UN CONJUNT RESIDENCIAL DE 72 HABITATGES PROTEGITS I DOTACIONALS, SUPERFÍCIE COMERCIAL, EQUIPAMENT ADMINISTRATIU I APARCAMENT EN LA ILLA 3B, PARCEL·L",
+  "adjudicatario":"EGOIN, S.A.",
+  "importe":1669646.9199999999,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"44982\/2025",
+  "objeto":"Gestió i funcionament del servei públic de les escoles bressol municipals de l¿Ajuntament del Prat de Llobregat. (4 Lots)",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":1595251.04,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"44982\/2025",
+  "objeto":"Gestió i funcionament del servei públic de les escoles bressol municipals de l¿Ajuntament del Prat de Llobregat. (4 Lots)",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":1567140.3,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"21694\/2022",
+  "objeto":"Servei de manteniment preventiu i correctiu de les instal·lacions d'electricitat, fontaneria, manyeria, fusteria, feines de paleta, calefacció, gas, pintura, portes automàtiques i aire condicionat als",
+  "adjudicatario":"COFELY ESPAÑA SA UNIPERSONAL",
+  "importe":1555187.4399999999,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"22904\/2021",
+  "objeto":"Subministrament de gas natural i d'energia elèctrica en els equipaments, quadres d'enllumenat públic i semàfors, i infraestructures municipals amb titularitat de l'Ajuntament del Prat de Llobregat",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":1314010.6100000001,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"14368\/2022",
+  "objeto":"Servei de la gestió i el desenvolupament del projecte cultura de l'Escola Municipal d'Arts en Viu.",
+  "adjudicatario":"VISUALSONORA SCCL",
+  "importe":1285464.48,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"31667\/2024",
+  "objeto":"Contracte d'obres per a l'execució del Projecte de reurbanització del carrer d'Enric Borràs entre l'av. Josep Anselm Clavé i el carrer de Lo Gaiter del Llobregat",
+  "adjudicatario":"CIC3 OBRES I SERVEIS, S.L.",
+  "importe":1137998.49,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"8150\/2023",
+  "objeto":"Servei d'activitats esportives i de salut als complexos esportius municipals Sagnier i Estruch del Prat de Llobregat",
+  "adjudicatario":"SERVEI D'ENSENYAMENT I ASSESSORAMENT ESPORTIU, SA",
+  "importe":808041.0,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"14368\/2022",
+  "objeto":"Servei de la gestió i el desenvolupament del projecte cultura de l'Escola Municipal d'Arts en Viu.",
+  "adjudicatario":"VISUALSONORA SCCL",
+  "importe":749456.63,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"11095\/2023",
+  "objeto":"Servei de conservació, manteniment i neteja dels parcs, jardins municipals, jardineres, i zones periurbanes, inclusivament  l'arbrat i vegetació de cobertes vegetals, mur verds i patis dels equipament",
+  "adjudicatario":"PreZero España S.A",
+  "importe":737631.64,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"34628\/2022",
+  "objeto":"Serveis de gestió integral i funcionament de les escoles bressols municipals La Blaveta i El Cabusset, i del servei de suport i serveis auxiliars l'escola bressol municipal Sol Solet. 3 lots.",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":719160.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"38948\/2024",
+  "objeto":"Contracte basat de l'Acord Marc 2023.04.A02 de l'ACM de subministrament d'energia elèctrica amb destinació a les entitats locals de Catalunya, i concretament, pel que fa als lots 1 i 2, baixa i alta t",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":691381.51,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"31796\/2025",
+  "objeto":"Servei de manteniment de la infraestructura de sistemes i telecomunicacions de l'Ajuntament del  Prat de Llobregat",
+  "adjudicatario":"INTEGRACIONES DIGITALES GOLD, S.L.",
+  "importe":685983.76,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2024,
+  "expediente":"A-2022-01",
+  "objeto":"Subministrament d'energia electrica",
+  "adjudicatario":"IBERDROLA CLIENTES, SAU",
+  "importe":636188.53,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"6483\/2021",
+  "objeto":"Gestió integral dels Serveis del Complex Esportiu Municipal Fondo d'en Peixo.",
+  "adjudicatario":"SERVEI D'ENSENYAMENT I ASSESSORAMENT ESPORTIU, SA",
+  "importe":623000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"34628\/2022",
+  "objeto":"Serveis de gestió integral i funcionament de les escoles bressols municipals La Blaveta i El Cabusset, i del servei de suport i serveis auxiliars l'escola bressol municipal Sol Solet. 3 lots.",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":618718.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"24864\/2022",
+  "objeto":"Servei per la gestió integral i funcionament de l'escola Bressol Municipal \"La Granota\", del c. Sarajevo, 5 del Prat de Llobregat",
+  "adjudicatario":"ZIGA-ZAGA, SL",
+  "importe":595483.78,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"19472\/2021",
+  "objeto":"Servei de manteniment i conservació de les instal·lacions d'enllumenat públic i semàfors de la ciutat del Prat de Llobregat, que inclou les instal·lacions ornamentals i el muntatge i desmuntatge de le",
+  "adjudicatario":"SOCIEDAD ESPAÑOLA DE CONSTRUCCIONES ELECTRICAS, S.A.",
+  "importe":590714.04,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"11095\/2023",
+  "objeto":"Servei de conservació, manteniment i neteja dels parcs, jardins municipals, jardineres, i zones periurbanes, inclusivament  l'arbrat i vegetació de cobertes vegetals, mur verds i patis dels equipament",
+  "adjudicatario":"PreZero España S.A",
+  "importe":553223.73,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2024,
+  "expediente":"A-2024-02-L3",
+  "objeto":"Adhesió d¿Aigües del Prat, SA, al contracte 2023.04.A02 de l¿Acord marc de l'ACM de subministrament d¿energia elèctrica amb destinació a les entitats locals de Catalunya (Exp. 2023.04). LOT 3. ALTA TE",
+  "adjudicatario":"IBERDROLA CLIENTES, SAU",
+  "importe":552500.91,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Prat Espais, SLU",
+  "any":2024,
+  "expediente":"22-236-EGE",
+  "objeto":"SERVEIS INTEGRALS DE VIGILÀNCIA, CONTROL I SEGURETAT DE LES INFRAESTRUCTURES GESTIONADES PER PRAT ESPAIS S.L.U., AL TERME MUNICIPAL DEL PRAT DE LLOBREGAT",
+  "adjudicatario":"BARNA PORTERS SEGURETAT, S.L.-BARNA PORTERS, S.L",
+  "importe":515184.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"16817\/2022",
+  "objeto":"Servei de gestió integral del CEM Julio Méndez i les pistes de petanca de La Granja.",
+  "adjudicatario":"SERVEI D'ENSENYAMENT I ASSESSORAMENT ESPORTIU, SA",
+  "importe":493500.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"31421\/2022",
+  "objeto":"Acord marc de subministrament de gas natural amb destinació a les entitats locals de Catalunya (Exp. 2021.04), i concretament al lot 1, relatiu al subministrament de gas natural de baixa pressió en el",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":460326.48,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"A-2025-03-L3",
+  "objeto":"Adhesió d'Aigües del Prat, SA, al contracte 2023.04.A02 de l'Acord Marc de l'ACM de subministrament d'energia elèctrica amb destinació a les entitats locals de Catalunya (Exp. 2023.04). LOT 3. Alta te",
+  "adjudicatario":"IBERDROLA CLIENTES, SAU",
+  "importe":451019.84,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"45124\/2025",
+  "objeto":"Acord basat en l'Acord Marc núm. 2022.05 de l'ACM per al subministrament d¿àrees de joc temàtics o abstractes Lot 3.",
+  "adjudicatario":"HPC IBERICA, S.A.",
+  "importe":438927.64,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"22659\/2026",
+  "objeto":"contracte basat en l'Acord Marc 2022.07  de l'Associació Catalana de Municipis, relació al subministrament de llumeneres LED per a la subtitució del tipus HCM, i reposició de suports d'enllumenat públ",
+  "adjudicatario":"AERONAVAL DE CONSTRUCCIONES E INSTALACIONES, SA",
+  "importe":421085.13,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"31421\/2022",
+  "objeto":"Acord marc de subministrament de gas natural amb destinació a les entitats locals de Catalunya (Exp. 2021.04), i concretament al lot 1, relatiu al subministrament de gas natural de baixa pressió en el",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":383916.79,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"18623\/2025",
+  "objeto":"Subministrament de lluminàries de diferents tipologies per a instal·lar al nucli urbà atenent a les directrius del Pla Director d'enllumenat públic. 6 lots.",
+  "adjudicatario":"SALTOKI BARBERA S.L.",
+  "importe":383428.94,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"37535\/2024",
+  "objeto":"Contracte basat en l'Acord marc del Consorci Localret per ala posada en marxa de setze (16) punts de control mitjançant càmeres ubicades en diferents punts de la Zona de Baixes Emissions al municipi, ",
+  "adjudicatario":"UTE ESTACIONAMIENTOS Y SERVICIOS SAU I UBERCROS SE",
+  "importe":335224.41,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"25991\/2024",
+  "objeto":"Adhesió a l'acord marc del Consorci Localret, lot 2, subministrament de programari de Microsoft grans comptes, expedient: 1431-001\/2023, i concretament, per al subministrament i servei de suport bàsic",
+  "adjudicatario":"SPECIALIST COMPUTER CENTRES , S.L.",
+  "importe":320176.23,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"27307\/2024",
+  "objeto":"Adhesió a l'Acord Marc del catàleg de l'Associació Catalana de Municipis (ACM), relatiu al subministrament d'energia elèctrica amb destinació a les entitats locals de Catalunya (Exp.2023.04), concreta",
+  "adjudicatario":"ELECTRA CALDENSE ENERGIA S.A.",
+  "importe":294269.61,
+  "motivo":"IQR alto, z>3"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"24890\/2024",
+  "objeto":"Subministrament i instal·lació de diferents punts de llum de la ciutat de conformitat amb els objectius del Pla Director.",
+  "adjudicatario":"Elecnor Servicios y Proyectos, S.A.U.",
+  "importe":219456.69,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"22904\/2021",
+  "objeto":"Subministrament de gas natural i d'energia elèctrica en els equipaments, quadres d'enllumenat públic i semàfors, i infraestructures municipals amb titularitat de l'Ajuntament del Prat de Llobregat",
+  "adjudicatario":"IBERDROLA CLIENTES, SAU",
+  "importe":163873.9,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"32044\/2023",
+  "objeto":"Subministrament i instal·lació en règim de lloguer de cadires i taules necessàries per a la realització d'actes de ciutat.",
+  "adjudicatario":"ILLA COOPERATIVA DE SERVEIS SCCL",
+  "importe":160000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"11495\/2025",
+  "objeto":"Subministrament de tractor i complements i alienació de l'existent.",
+  "adjudicatario":"VERNIS & TABERNER EQUIPS SL",
+  "importe":140600.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"26578\/2024",
+  "objeto":"Subministrament de materials de fusta per al manteniment de diferents elements de mobiliari urbà i paviments de fusta existent a les vies públiques o edificis municipals, així, com el manteniment dels",
+  "adjudicatario":"CONSTRUCCIONES EN MADERA BADIA SL",
+  "importe":140000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"7681\/2024",
+  "objeto":"Acord adhesió a l'Acord Marc de l'ACM 2019.06 relatiu al subministrament de pantalles informatives LED viàries.",
+  "adjudicatario":"ALUMBRADOS VIARIOS, SA",
+  "importe":137965.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"16631\/2024",
+  "objeto":"Subministrament de carburants pels vehicles del parc mòbil de l'Ajuntament del Prat de Llobregat i de gasoil pels dipòsits municipals, gestionats mitjançant targeta amb banda magnètica",
+  "adjudicatario":"RED ESPAÑOLA DE SERVICIOS, S.A. (RESSA)",
+  "importe":132000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"3350\/2024",
+  "objeto":"Acord d'adhesió a la 2a pròrroga de l'Acored Marc 2019.03.D02 de l'ACM relatiu al subministrament d'energia elèctrica amb destinacio a les entitats locals de Catalunya, i concretament, per a l'autocon",
+  "adjudicatario":"ELECTRA CALDENSE ENERGIA S.A.",
+  "importe":130785.33,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"18623\/2025",
+  "objeto":"Subministrament de lluminàries de diferents tipologies per a instal·lar al nucli urbà atenent a les directrius del Pla Director d'enllumenat públic. 6 lots.",
+  "adjudicatario":"SALTOKI BARBERA S.L.",
+  "importe":105110.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2024,
+  "expediente":"A-2022-01",
+  "objeto":"Subministrament d'energia electrica",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":104783.99,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"42594\/2025",
+  "objeto":"Acord basat a l'Acord Marc de Localret per al subministrament de llicències de Microsoft lot 2 ( expedient 1431-0019\/2023).",
+  "adjudicatario":"SPECIALIST COMPUTER CENTRES , S.L.",
+  "importe":101728.98,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"31421\/2022",
+  "objeto":"Acord marc de subministrament de gas natural amb destinació a les entitats locals de Catalunya (Exp. 2021.04), i concretament al lot 1, relatiu al subministrament de gas natural de baixa pressió en el",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":96569.9,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2026,
+  "expediente":"C-2026-03",
+  "objeto":"Subministrament de carbonat de calci granulat per a les estacions de producció d¿aigua potable d¿Aigües del Prat SA,",
+  "adjudicatario":"MINERA DEL SANTO ÁNGEL, SL",
+  "importe":91000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"14545\/2024",
+  "objeto":"Adquisició i manteniment de llicències de programari per als serveis de l'Ajuntament (6 lots).",
+  "adjudicatario":"INTEGRACIONES DIGITALES GOLD, S.L.",
+  "importe":90307.44,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"40983\/2024",
+  "objeto":"Subministrament i instal·lació de material diversos de manteniment amb destinació als complexos esportius municipals.",
+  "adjudicatario":"ELECTRO SOLER MANILS, S.L.",
+  "importe":90000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"18623\/2025",
+  "objeto":"Subministrament de lluminàries de diferents tipologies per a instal·lar al nucli urbà atenent a les directrius del Pla Director d'enllumenat públic. 6 lots.",
+  "adjudicatario":"SALTOKI BARBERA S.L.",
+  "importe":89373.47,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"18623\/2025",
+  "objeto":"Subministrament de lluminàries de diferents tipologies per a instal·lar al nucli urbà atenent a les directrius del Pla Director d'enllumenat públic. 6 lots.",
+  "adjudicatario":"SOCIEDAD ESPAÑOLA DE CONSTRUCCIONES ELECTRICAS, S.A.",
+  "importe":88972.83,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"A-2024-02-L2",
+  "objeto":"Adhesió d¿Aigües del Prat, SA, al contracte 2023.04.A02 de l¿Acord marc de l'ACM de subministrament d¿energia elèctrica amb destinació a les entitats locals de Catalunya (Exp. 2023.04). LOT 2. Baixa t",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":87404.1,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"38332\/2024",
+  "objeto":"Acord basat en l'Acord Marc 2018.09 de l'ACM, LOT 11.2,  i concretament per al subministrament d'equips switching i de serveis d'instal·lació de switchos òptics i coure CPD",
+  "adjudicatario":"SEIDOR SOLUTIONS SL",
+  "importe":84151.91,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"C-2025-03",
+  "objeto":"Subministrament de de membranes d'osmosi inversa per a les estacions de tractament d'aigua ETAP Sagnier i Mas Blau. Dividit en 2 lots",
+  "adjudicatario":"PEAK SPAIN SL",
+  "importe":82628.3,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2026,
+  "expediente":"C-2026-01",
+  "objeto":"Subministrament de 306 unitats de membranes d¿osmosis inversa i el material hidràulic auxiliar necessari per a la seva instal·lació a les estacions de tractament d¿aigua ETAP Sagnier i Mas Blau.",
+  "adjudicatario":"RAVAGO CHEMICALS SPAIN, SA",
+  "importe":82368.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2024,
+  "expediente":"C-2024-01",
+  "objeto":"Subministrament de carbonat de calci granulat per a les estacions de producció d'aigua potable d'Aigües del Prat SA,",
+  "adjudicatario":"BRENNTAG QUIMICA, SAU",
+  "importe":80500.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"C-2025-03",
+  "objeto":"Subministrament de de membranes d'osmosi inversa per a les estacions de tractament d'aigua ETAP Sagnier i Mas Blau. Dividit en 2 lots",
+  "adjudicatario":"PEAK SPAIN SL",
+  "importe":78121.3,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"7567\/2026",
+  "objeto":"Adhesió a l'Acord marc de subministrament d'equips per a la generació d'energia solar fotovoltaica i contractació del subministrament i instal·lació d'un punt de recàrrega semi-ràpida, lot 3",
+  "adjudicatario":"Etecnic Movilidad Elèctrica SRL",
+  "importe":77668.32,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2024,
+  "expediente":"C-2024-02",
+  "objeto":"subministrament de comptadors d'aigua freda amb mòduls de telelectura amb sistema de comunicacions LoRaWAN",
+  "adjudicatario":"ELSTER MEDICION S.A.U.",
+  "importe":75875.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2026,
+  "expediente":"C-2026-01",
+  "objeto":"Subministrament de 306 unitats de membranes d¿osmosis inversa i el material hidràulic auxiliar necessari per a la seva instal·lació a les estacions de tractament d¿aigua ETAP Sagnier i Mas Blau.",
+  "adjudicatario":"RAVAGO CHEMICALS SPAIN, SA",
+  "importe":75300.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"40983\/2024",
+  "objeto":"Subministrament i instal·lació de material diversos de manteniment amb destinació als complexos esportius municipals.",
+  "adjudicatario":"SUBMINISTRAMENTS ELÈCTRICS EL PRAT, SL",
+  "importe":74000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"A-2025-03-L2",
+  "objeto":"Adhesió d'Aigües del Prat, SA, al contracte 2023.04.A02 de l'Acord Marc de l'ACM de subministrament d'energia elèctrica amb destinació a les entitats locals de Catalunya (Exp. 2023.04). Lot 2. Baixa t",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":71017.71,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"3666\/2020",
+  "objeto":"Subministrament d'uniformitat operativa per als agents de la Policia Local del Prat de Llobregat",
+  "adjudicatario":"MAC UNIFORMES SL",
+  "importe":70923.9,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"29930\/2025",
+  "objeto":"Subministrament de petit material divers de ferreteria per a realitzar reparacions de manteniment als edificis municipals, escoles i vies públiques.",
+  "adjudicatario":"METALCO, S.A.",
+  "importe":70200.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"22476\/2023",
+  "objeto":"Subministrament de materials de fusta; pintures i productes pel tractament de superfícies; formigons i morters; materials per a paviments esmorteïdors de cautxú, aglomerat asfàltic, àrids i pedres, ba",
+  "adjudicatario":"MADERAS DEL ALTO URGEL, S.A.",
+  "importe":70000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Prat Espais, SLU",
+  "any":2024,
+  "expediente":"21-384-A",
+  "objeto":"Adhesió de Prat Espais, SLU. a la primera pròrroga del contracte 2019.03-D1 de l'Acord marc de subministrament d'energia elèctrica amb destinació a les entitats locals de Catalunya (Exp. 2019.03",
+  "adjudicatario":"ENDESA ENERGíA, SA Unipersonal",
+  "importe":69500.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"40983\/2024",
+  "objeto":"Subministrament i instal·lació de material diversos de manteniment amb destinació als complexos esportius municipals.",
+  "adjudicatario":"HIERROS TORRRES Y SÁEZ,SAU",
+  "importe":62000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2026,
+  "expediente":"24867\/2022",
+  "objeto":"Subministrament d'elements de senyalització vertical i horitzontal a terme municipal del Prat de Llobregat. 4 lots.",
+  "adjudicatario":"(no se muestra: posible persona física)",
+  "importe":60000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"24867\/2022",
+  "objeto":"Subministrament d'elements de senyalització vertical i horitzontal a terme municipal del Prat de Llobregat. 4 lots.",
+  "adjudicatario":"INDUSTRIAS SALUDES SAU",
+  "importe":60000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"26578\/2024",
+  "objeto":"Subministrament de materials de fusta per al manteniment de diferents elements de mobiliari urbà i paviments de fusta existent a les vies públiques o edificis municipals, així, com el manteniment dels",
+  "adjudicatario":"CONSTRUCCIONES EN MADERA BADIA SL",
+  "importe":60000.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"10964\/2024",
+  "objeto":"Subministraments, en règim de lloguer, muntatge i desmuntatge, de les infraestructures firals: carpes, estands i serveis complementaris, instal·lacions audiovisuals i assistència tècnica, retolació i ",
+  "adjudicatario":"Grupo Maestrat Carpas Espectaculos y Eventos, SL",
+  "importe":57500.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"18623\/2025",
+  "objeto":"Subministrament de lluminàries de diferents tipologies per a instal·lar al nucli urbà atenent a les directrius del Pla Director d'enllumenat públic. 6 lots.",
+  "adjudicatario":"BENITO URBAN, S.L. Unipersonal",
+  "importe":56925.8,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2024,
+  "expediente":"10964\/2024",
+  "objeto":"Subministraments, en règim de lloguer, muntatge i desmuntatge, de les infraestructures firals: carpes, estands i serveis complementaris, instal·lacions audiovisuals i assistència tècnica, retolació i ",
+  "adjudicatario":"2003, SA",
+  "importe":55500.0,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Ajuntament del Prat de Llobregat",
+  "any":2025,
+  "expediente":"15911\/2024",
+  "objeto":"Subministrament d'elements publicitaris per a les campanyes de comunicació.",
+  "adjudicatario":"SERVICE POINT FACILITIES MANAGEMENT IBERICA, SA",
+  "importe":55371.9,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2025,
+  "expediente":"C-2025-13",
+  "objeto":"Subministrament de material hidràulic necessari per a les estacions de tractament d'aigua ETAP Sagnier i Mas Blau dividit en 2 lots. Lot 1: materials tubs vessel. Lot 2: material hidràulic",
+  "adjudicatario":"(no se muestra: posible persona física)",
+  "importe":54120.36,
+  "motivo":"IQR alto"
+ },
+ {
+  "organo":"Aigües del Prat, S.A.",
+  "any":2026,
+  "expediente":"C-2026-01",
+  "objeto":"Subministrament de 306 unitats de membranes d¿osmosis inversa i el material hidràulic auxiliar necessari per a la seva instal·lació a les estacions de tractament d¿aigua ETAP Sagnier i Mas Blau.",
+  "adjudicatario":"(no se muestra: posible persona física)",
+  "importe":54120.0,
+  "motivo":"IQR alto"
+ }
+]

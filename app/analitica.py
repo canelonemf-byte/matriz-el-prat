@@ -121,6 +121,36 @@ def ejecucion(liq: pd.DataFrame, pres: pd.DataFrame, anio: int, clasif: str = "E
     return m.sort_values("codigo")
 
 
+def contratos_unicos(df: pd.DataFrame) -> pd.DataFrame:
+    """El registro repite filas (lotes/publicaciones). Se deduplica por órgano + expediente + adjudicatario + importe."""
+    return df.drop_duplicates(subset=["organo", "expediente", "adjudicatario", "importe"]) if not df.empty else df
+
+
+def contratos_detalle() -> pd.DataFrame:
+    d = cargar("contractes_detall")
+    return contratos_unicos(pd.DataFrame(d["filas"])) if d else pd.DataFrame()
+
+
+def personal() -> pd.DataFrame:
+    d = cargar("personal")
+    return pd.DataFrame(d["filas"]) if d else pd.DataFrame(columns=["any", "nivel", "codigo", "concepto", "importe"])
+
+
+GRUPOS_PERSONAL = {"10": "Órganos de gobierno (cargos electos y directivos)", "11": "Personal eventual (de confianza)", "12": "Funcionarios",
+                   "13": "Personal laboral", "14": "Otro personal", "15": "Incentivos (productividad, gratificaciones)",
+                   "16": "Seguridad Social y gastos sociales"}
+
+
+def personal_grupos(df: pd.DataFrame) -> pd.DataFrame:
+    g = df[df.nivel == 2].copy()
+    g["grupo"] = g.codigo.map(GRUPOS_PERSONAL)
+    return g.pivot_table(index="any", columns="grupo", values="importe", aggfunc="sum").fillna(0)
+
+
+def formacion(df: pd.DataFrame) -> pd.Series:
+    return df[df.codigo == "160200"].set_index("any").importe
+
+
 def anomalias_contratos(df: pd.DataFrame) -> pd.DataFrame:
     """Marca contratos atípicos: (1) IQR sobre ln(importe) por tipo: fuera de [Q1−1,5·IQR, Q3+1,5·IQR];
     (2) z-score de ln(importe) > 3; (3) contrato menor por encima de umbrales LCSP art. 118 (15.000 € servicios/suministros,
@@ -186,6 +216,12 @@ def alertas(hoy=None) -> list[dict]:
             if r.importe_inicial > 1e6 and r.ejecucion_pct < 70:
                 al.append({"nivel": "media", "tipo": "infraejecucion", "texto": f"{ult}: {r.nombre} solo ejecutado al {r.ejecucion_pct:.0f} % "
                            f"({r.no_ejecutado:,.0f} € sin gastar)", "fuente": "liquidacio + pressupost (Generalitat)", "base_legal": ""})
+    f = formacion(personal())
+    if len(f) >= 2:
+        a, b = f.index.max(), sorted(f.index)[-2]
+        if f[a] < 0.5 * f[b]:
+            al.append({"nivel": "media", "tipo": "personal", "texto": f"Formación del personal (160200): {f[b]:,.0f} € en {b} → {f[a]:,.0f} € en {a} (presupuesto inicial)",
+                       "fuente": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6", "base_legal": "TREBEP art. 14.g (derecho a la formación)"})
     for x in (cargar("ens") or {}).get("filas", []):
         if x["any"] == str(hoy.year - 1) and x["tipusens"] != "Municipis" and not x["liquidaci_decofin"]:
             al.append({"nivel": "baja", "tipo": "entes", "texto": f"{x['ens']}: sin registro de envío de liquidación {x['any']} en el inventario de la Generalitat",
