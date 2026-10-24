@@ -1,5 +1,5 @@
 # NOTICE
-Autoría: Lázaro López Paz, El Prat de Llobregat, Barcelona, España (ORCID 0000-0001-8601-1963), con asistencia de IA. Código MIT.
+Autoría: Lázaro López Paz, El Prat de Llobregat, Barcelona, España (ORCID 0000-0001-8601-1963), con asistencia de IA. Código MIT (ver LICENSE). Documentos (docs, *.md, YAML de datos, borradores) bajo CC BY 4.0 (ver LICENSE-DOCS).
 
 Fuentes de datos (públicas, no incluidas en el repositorio; se citan por URL):
 - BOE, API de datos abiertos (Agencia Estatal BOE). Reutilización conforme a su aviso legal.
