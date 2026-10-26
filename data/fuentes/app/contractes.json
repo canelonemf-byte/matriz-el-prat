@@ -2584,6 +2584,6 @@
    "importe": 616470.2599999999
   }
  },
- "fecha_consulta": "2026-10-24",
+ "fecha_consulta": "2026-10-26",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/hb6v-jcbf.json?%24query=SELECT+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte%2Ccount%28%2A%29+as+n%2Csum%28import_adjudicacio%29+as+importe+WHERE+organisme_contractant+in%28%27Ajuntament+del+Prat+de+Llobregat%27%2C%27Prat+Espais%2C+SLU%27%2C%27Aig%C3%BCes+del+Prat%2C+S.A.%27%2C%27El+Prat+Comunicaci%C3%B3%2C+SL%27%29+GROUP+BY+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte+LIMIT+50000"
 }

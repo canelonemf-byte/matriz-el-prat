@@ -12,33 +12,33 @@
   sha256: 19145e1c0f201b396bbfe93d9c52f848088da62ed60a460c8fa7584008d33c9e
 - archivo: data/fuentes/app/liquidacio.json
   url: https://analisi.transparenciacatalunya.cat/resource/ytva-5kp3.json?%24query=SELECT+any%2Ccodi_document%2Ccodi_estructura%2Cdesc_estructura%2Cimport%2Ceuros_habitant+WHERE+codi_ens%3D%270816910007%27+ORDER+BY+any+LIMIT+5000
-  fecha_consulta: '2026-10-24'
-  sha256: 009d54a7f421c4c4202d5bcbf00cb7cf1b36d1a8ddee110bb02743f0040a169c
+  fecha_consulta: '2026-10-26'
+  sha256: 3726677e54755e824eb8bce9bede759fa0863c64488536ef8d6e77840a2e3ffe
 - archivo: data/fuentes/app/pressupost.json
   url: https://analisi.transparenciacatalunya.cat/resource/4g9s-gzp6.json?%24query=SELECT+any_exercici%2Ctipus_partida%2Ctipus_classif%2Cnivell%2Cestructura%2Cdescripcio%2Cimport+WHERE+codi_ens%3D%27816910007%27+AND+nivell+in%28%271%27%2C%272%27%29+ORDER+BY+any_exercici+LIMIT+20000
-  fecha_consulta: '2026-10-24'
-  sha256: af71f0c22acba15b1733b3a3b0d31ad0edaf550f5e2f802531ba74c5be20e34c
+  fecha_consulta: '2026-10-26'
+  sha256: 762edf784fe72a24373c26b6f8a6ad606a985730214979c5d01108ac0e608fbe
 - archivo: data/fuentes/app/cost_serveis.json
   url: https://analisi.transparenciacatalunya.cat/resource/7e8k-3vki.json?%24query=SELECT+any%2Cdescripcio_servei%2Ctipus_gestio%2Ccost_efectiu+WHERE+codi_ens%3D%27816910007%27+ORDER+BY+any+LIMIT+5000
-  fecha_consulta: '2026-10-24'
-  sha256: 9eb1dbc4876e2669906e2aecd27d4e7f781b1843f3552dabbd049a15a7ae754f
+  fecha_consulta: '2026-10-26'
+  sha256: 3d0a6ce1740dd84955cc976200dceed5a06376596c1884adbfa6abfc36cc4e0d
 - archivo: data/fuentes/app/ens.json
   url: https://analisi.transparenciacatalunya.cat/resource/7fnj-etev.json?%24query=SELECT+%2A+WHERE+codiensmatriu%3D%270816910007%27+OR+codi10%3D%270816910007%27+ORDER+BY+any+LIMIT+5000
-  fecha_consulta: '2026-10-24'
-  sha256: b4df661a00bfadb669fe08018e40cbf7a501b56927174edb27d7a57b969f46fb
+  fecha_consulta: '2026-10-26'
+  sha256: 64e245dede59e56572a889c8550345ccc823ab69aae74d2a4355feef607c023e
 - archivo: data/fuentes/app/contractes.json
   url: https://analisi.transparenciacatalunya.cat/resource/hb6v-jcbf.json?%24query=SELECT+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte%2Ccount%28%2A%29+as+n%2Csum%28import_adjudicacio%29+as+importe+WHERE+organisme_contractant+in%28%27Ajuntament+del+Prat+de+Llobregat%27%2C%27Prat+Espais%2C+SLU%27%2C%27Aig%C3%BCes+del+Prat%2C+S.A.%27%2C%27El+Prat+Comunicaci%C3%B3%2C+SL%27%29+GROUP+BY+organisme_contractant%2Cexercici%2Cprocediment_adjudicacio%2Ctipus_contracte+LIMIT+50000
-  fecha_consulta: '2026-10-24'
-  sha256: ddcd41f831de659514db6bad24f3e5052b02191d342971a050345399225e4f9d
+  fecha_consulta: '2026-10-26'
+  sha256: 2856d51cf1930bf9c0fcaf003a1579bfcda78fcac1b310f02a35a6dbc5d2e681
 - archivo: data/fuentes/app/contractes_detall.json
   url: https://analisi.transparenciacatalunya.cat/resource/hb6v-jcbf.json?%24query=SELECT+organisme_contractant%2Cexercici%2Ccodi_expedient%2Cdescripcio_expedient%2Cprocediment_adjudicacio%2Ctipus_contracte%2Cadjudicatari%2Cimport_adjudicacio%2Cdata_adjudicacio+WHERE+organisme_contractant+in%28%27Ajuntament+del+Prat+de+Llobregat%27%2C%27Prat+Espais%2C+SLU%27%2C%27Aig%C3%BCes+del+Prat%2C+S.A.%27%2C%27El+Prat+Comunicaci%C3%B3%2C+SL%27%29+AND+exercici%3E%3D%272024%27+LIMIT+20000
-  fecha_consulta: '2026-10-24'
-  sha256: 5646e8517f8846f5d4282f1b8e0eaa46b2f3934101337abaf952cf921c1095a8
+  fecha_consulta: '2026-10-26'
+  sha256: bcf9c9a4a56149d7df2591ef7087e59811d67add3a5558dc279a100de0df293a
 - archivo: data/fuentes/app/ipc.json
   url: https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC251852?nult=240
-  fecha_consulta: '2026-10-24'
-  sha256: 2b32708e004a6859dabd3fb092194cc0250c10bb3dd6568821d64124d96ca532
+  fecha_consulta: '2026-10-26'
+  sha256: c1f970b26435a17d7d78b991287ba9b1ec6de978c510149dfe4fd6b33d4424e4
 - archivo: data/fuentes/app/personal.json
   url: https://analisi.transparenciacatalunya.cat/resource/4g9s-gzp6.json?%24query=SELECT+any_exercici%2Cnivell%2Cestructura%2Cdescripcio%2Cimport+WHERE+codi_ens%3D%27816910007%27+AND+tipus_partida%3D%27D%27+AND+tipus_classif%3D%27E%27+AND+starts_with%28estructura%2C%271%27%29+AND+nivell+in%28%272%27%2C%273%27%2C%274%27%29+ORDER+BY+any_exercici%2Cestructura+LIMIT+5000
-  fecha_consulta: '2026-10-24'
-  sha256: a93ff8e5f5638b2980ea1ea12d5c7bd953873d04e223e9f1194fc50f10806800
+  fecha_consulta: '2026-10-26'
+  sha256: 1b7f7368ad0cadc408196a993faf4bbf7b91c558f3e81df6914ae3fce88c9f63

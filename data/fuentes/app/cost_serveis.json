@@ -1083,6 +1083,6 @@
    "coste": 0.0
   }
  ],
- "fecha_consulta": "2026-10-24",
+ "fecha_consulta": "2026-10-26",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/7e8k-3vki.json?%24query=SELECT+any%2Cdescripcio_servei%2Ctipus_gestio%2Ccost_efectiu+WHERE+codi_ens%3D%27816910007%27+ORDER+BY+any+LIMIT+5000"
 }

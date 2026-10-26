@@ -14,3 +14,5 @@ Estados: `propuesta` → `aprobada_usuario` → `presentada_por_usuario` → `re
 | IA-2026-10-24-742 | Recuperar la formación del personal | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-24 |
 | IA-2026-10-24-929 | Pedir el remanente y, si la ley lo permite, un plan de inversiones útiles | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-24 |
 | IA-2026-10-24-087 | Pedir los documentos que faltan del presupuesto y de los convenios | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-24 |
+| IA-2026-10-26-649 | Pedir un plan de inversiones con el sobrante, si hay remanente de tesorería | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-26 |
+| IA-2026-10-26-278 | Pedir la ejecución trimestral del presupuesto y la de los convenios | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-26 |

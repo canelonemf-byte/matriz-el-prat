@@ -15375,6 +15375,6 @@
    "importe": 3905294.66
   }
  ],
- "fecha_consulta": "2026-10-24",
+ "fecha_consulta": "2026-10-26",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/4g9s-gzp6.json?%24query=SELECT+any_exercici%2Ctipus_partida%2Ctipus_classif%2Cnivell%2Cestructura%2Cdescripcio%2Cimport+WHERE+codi_ens%3D%27816910007%27+AND+nivell+in%28%271%27%2C%272%27%29+ORDER+BY+any_exercici+LIMIT+20000"
 }

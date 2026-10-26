@@ -3707,6 +3707,6 @@
    "eur_hab": 218.22
   }
  ],
- "fecha_consulta": "2026-10-24",
+ "fecha_consulta": "2026-10-26",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/ytva-5kp3.json?%24query=SELECT+any%2Ccodi_document%2Ccodi_estructura%2Cdesc_estructura%2Cimport%2Ceuros_habitant+WHERE+codi_ens%3D%270816910007%27+ORDER+BY+any+LIMIT+5000"
 }
