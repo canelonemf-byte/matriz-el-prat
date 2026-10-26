@@ -30,6 +30,6 @@ plazo de 1 mes; reclamación ante la GAIP) — plantilla `documentos.solicitud()
 - **sin_documentos**: ejecución de convenios y convenios urbanísticos.
 - `mociones_aprobadas`: no hay apartado específico; extraer de las actas del Pleno (`actes-de-ple`).
 - `of_tasa_residuos` y `of23_aparcamiento` → **publicado** en CIDO (aprobación definitiva 15/09/2026): https://cido.diba.cat/normativa_local/20498914/ordenances-fiscals-per-a-lany-2026-ajuntament-del-prat-de-llobregat
-- `of_2027_aprobacion_inicial`: a 2026-10-24 aún no publicadas en CIDO ni BOPB.
+- `of_2027_aprobacion_inicial`: a 2026-10-24 aún no publicadas en CIDO ni BOPB. **Publicado** en BOPB 26-10-2026, CVE 202610158507 (https://bop.diba.cat/anuncio/ver-pdf/4006661); reclamaciones hasta el 07-12-2026 (30 días hábiles). Borrador: `docs/borradores/alegaciones_ordenanzas_2027.md`.
 
 Recuento actualizado del checklist (57): publicado 33, desactualizado 10, solo_enlace 6, no_verificado 4, no_encontrado 2, sin_documentos 2.
