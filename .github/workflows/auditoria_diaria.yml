@@ -1,14 +1,3 @@
-# PENDIENTE DE ACTIVACIÓN MANUAL
-# ------------------------------------------------------------------
-# Este archivo NO se ha colocado en .github/workflows/ porque el
-# token OAuth usado para el PR no incluye el scope "workflow".
-#
-# Para activarlo:
-#   cp proyecto_matriz_v1_7_2/workflow_pendiente/auditoria_diaria.yml \
-#      .github/workflows/auditoria_diaria.yml
-#
-# Rutas: defaults.run.working-directory apunta a proyecto_matriz_v1_7_2/
-# ------------------------------------------------------------------
 name: Despliegue Continuo y Auditoría Diaria (AGs-Core-LoRa)
 
 on:
@@ -21,6 +10,10 @@ on:
   schedule:
     # Cron en UTC (0 8 * * * = 08:00 UTC; en El Prat/Madrid: 09:00 en invierno, 10:00 en verano)
     - cron: '0 8 * * *'
+  pull_request:
+    paths:
+      - 'proyecto_matriz_v1_7_2/**'
+      - '.github/workflows/auditoria_diaria.yml'
   workflow_dispatch:
 
 defaults:
