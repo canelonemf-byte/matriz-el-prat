@@ -59,3 +59,32 @@ def test_clave_no_en_repo():
     import subprocess
     out = subprocess.run(["git", "grep", "-n", "xai-"], capture_output=True, text=True).stdout
     assert "xai-" not in out.replace('"xai-"', "")
+
+
+def test_hechos_incluyen_contratos_a_revisar():
+    """El resumen IA debe poder citar la cifra real de contratos atípicos (p. ej. 79), no decir que falta."""
+    hechos = A.hechos_para_ia()
+    txt = " ".join(h["hecho"] for h in hechos)
+    assert "contratos atípicos a revisar" in txt.lower() or "contratos atipicos a revisar" in txt.lower()
+    assert any("79" in h["hecho"] or "a revisar" in h["hecho"].lower() for h in hechos)
+    # La cifra debe ser un entero >= 0 parseable desde el hecho
+    import re
+    m = re.search(r"a revisar[^0-9]*(\d+)", txt, re.I)
+    assert m and int(m.group(1)) >= 0
+
+
+def test_gemini_key_desde_secrets(tmp_path, monkeypatch):
+    from app import ia
+    monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    monkeypatch.delenv("GOOGLE_API_KEY", raising=False)
+    monkeypatch.delenv("GROK_API_KEY", raising=False)
+    monkeypatch.delenv("XAI_API_KEY", raising=False)
+    monkeypatch.delenv("MATRIZ_IA_OFF", raising=False)
+    f = tmp_path / "gemini.env"
+    f.write_text('GEMINI_API_KEY="test-gemini-key-not-real"\n')
+    monkeypatch.setenv("GEMINI_ENV_FILE", str(f))
+    # Sin xAI: debe preferir gemini
+    monkeypatch.setattr(ia, "_xai_key", lambda: "")
+    monkeypatch.setattr(ia, "_litellm_vivo", lambda: False)
+    assert ia.estado() == "gemini"
+    assert ia.modelo("gemini") == "gemini-3.5-flash"

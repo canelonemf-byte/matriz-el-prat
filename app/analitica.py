@@ -256,4 +256,10 @@ def hechos_para_ia() -> list[dict]:
         f = formacion(pe)
         h.append({"hecho": "Formación del personal (concepto 160200), presupuesto inicial: " + "; ".join(f"{int(k)} {v:,.0f} €" for k, v in f.tail(3).items()),
                   "fuente": "https://analisi.transparenciacatalunya.cat/d/4g9s-gzp6"})
+    # Contratos 2024+: cifra de atípicos a revisar (IQR/z/LCSP). Indicios, no infracciones.
+    det = contratos_detalle()
+    if not det.empty:
+        n_rev = int(len(anomalias_contratos(det)))
+        h.append({"hecho": f"Contratos únicos desde 2024: {len(det):,}; contratos atípicos a revisar (IQR/z-score/LCSP art. 118): {n_rev}",
+                  "fuente": "https://contractaciopublica.cat (detalle en data/fuentes/app/contractes_detall.json)"})
     return h
