@@ -1,0 +1,77 @@
+{
+  "proyecto": {
+    "id": "matriz_el_prat",
+    "nombre": "matriz_el_prat",
+    "autor": "Lázaro López Paz, El Prat de Llobregat, Barcelona, España, con asistencia de inteligencia artificial",
+    "ubicacion": "El Prat de Llobregat, Barcelona, España",
+    "dominio": "sistema_multi_agente_gobernanza_y_auditoria_municipal",
+    "estado": "activo",
+    "version": "1.7.2",
+    "resumen": "Sistema continuo de 5 agentes principales y 15 sub-agentes especializados para la fiscalización, optimización tributaria, gestión de vivienda pública, movilidad en Mas Blau y sostenibilidad medioambiental del municipio de El Prat de Llobregat.",
+    "palabras_clave": [
+      "el_prat",
+      "ayuntamiento",
+      "ordenanzas_fiscales",
+      "ibi_urbano",
+      "bics_aena_puerto",
+      "mas_blau",
+      "tasa_residuos",
+      "prat_espais",
+      "agentes_especializados",
+      "aprendizaje_continuo",
+      "cero_numeros_rojos"
+    ]
+  },
+  "arquitectura_agentes": {
+    "legal_prat": {
+      "nombre": "Agente Normativo y Gobernanza Local",
+      "estado": "ejecucion_continua",
+      "subagentes": [
+        "sub_1_1_monitor_boe_dogc",
+        "sub_1_2_rastreador_bopb",
+        "sub_1_3_gestor_rom_secretaria"
+      ]
+    },
+    "fiscal_prat": {
+      "nombre": "Agente de Hacienda Pública y Presupuestos",
+      "estado": "ejecucion_continua",
+      "subagentes": [
+        "sub_2_1_inspector_ejecucion_presupuestaria",
+        "sub_2_2_calculador_bics_aena_puerto",
+        "sub_2_3_optimizador_ibi_y_tasas"
+      ]
+    },
+    "urba_prat": {
+      "nombre": "Agente de Desarrollo Urbano, Movilidad y Vivienda",
+      "estado": "ejecucion_continua",
+      "subagentes": [
+        "sub_3_1_gestor_vpo_prat_espais",
+        "sub_3_2_controlador_movilidad_mas_blau",
+        "sub_3_3_inspector_dominio_publico_grua"
+      ]
+    },
+    "eco_prat": {
+      "nombre": "Agente de Sostenibilidad y Transición Ecológica",
+      "estado": "ejecucion_continua",
+      "subagentes": [
+        "sub_4_1_gestor_tasa_residuos_pxg",
+        "sub_4_2_protector_delta_la_ricarda",
+        "sub_4_3_monitor_energia_y_agua"
+      ]
+    },
+    "audit_prat": {
+      "nombre": "Agente de Transparencia, Control Interno y Digitalización",
+      "estado": "ejecucion_continua",
+      "subagentes": [
+        "sub_5_1_auditor_gestiona_pleno",
+        "sub_5_2_inspector_placsp_contratos",
+        "sub_5_3_gestor_portal_transparencia"
+      ]
+    }
+  },
+  "bucle_aprendizaje_continuo": {
+    "frecuencia_ingesta": "diaria_y_por_sesion_plenaria",
+    "retencion_datos": "permanente_sin_reseteo",
+    "optimizacion": "retroalimentacion_kpi_y_alegaciones"
+  }
+}

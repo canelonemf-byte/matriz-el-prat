@@ -1,0 +1,52 @@
+# PENDIENTE DE ACTIVACIÓN MANUAL
+# ------------------------------------------------------------------
+# Este archivo NO se ha colocado en .github/workflows/ porque el
+# token OAuth usado para el PR no incluye el scope "workflow".
+#
+# Para activarlo:
+#   cp proyecto_matriz_v1_7_2/workflow_pendiente/auditoria_diaria.yml \
+#      .github/workflows/auditoria_diaria.yml
+#
+# Rutas: defaults.run.working-directory apunta a proyecto_matriz_v1_7_2/
+# ------------------------------------------------------------------
+name: Despliegue Continuo y Auditoría Diaria (AGs-Core-LoRa)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'proyecto_matriz_v1_7_2/**'
+      - '.github/workflows/auditoria_diaria.yml'
+  schedule:
+    # Cron en UTC (0 8 * * * = 08:00 UTC; en El Prat/Madrid: 09:00 en invierno, 10:00 en verano)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: proyecto_matriz_v1_7_2
+
+jobs:
+  auditoria_y_despliegue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar el Repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar entorno Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+          cache-dependency-path: proyecto_matriz_v1_7_2/requirements.txt
+
+      - name: 📦 Instalar Dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔍 Ejecutar Diagnóstico y Auditoría Diaria
+        run: |
+          python el_prat_multi_agent_system.py
