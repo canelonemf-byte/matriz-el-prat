@@ -1,0 +1,150 @@
+{
+  "registro_maestro_mejoras_el_prat": {
+    "municipio": "El Prat de Llobregat, Barcelona, España",
+    "autor": "Lázaro López Paz, El Prat de Llobregat, Barcelona, España, con asistencia de inteligencia artificial",
+    "version": "1.7.2",
+    "ultima_actualizacion": "2026-10-30",
+    "estado_general": "activo_y_en_expansion_continua",
+    "caracter_del_proyecto": "Iniciativa privada, individual e independiente",
+    "vinculacion_institucional": "Sin vinculación institucional con el Ayuntamiento de El Prat de Llobregat",
+    "finalidad": "Divulgación ciudadana de ideas de gestión financiera y optimización tributaria",
+    "regla_de_oro_presupuestaria": "cero_numeros_rojos_superavit_positivo_obligatorio",
+    "colchon_de_seguridad_anual_eur": 300000,
+    "fuente_financiacion_principal": "superavit_bics_aena_puerto_y_eficiencia_interna",
+    "catalogo_mejoras": [
+      {
+        "id": "PRAT-FIS-001",
+        "area": "Hacienda Pública y Presupuestos",
+        "titulo": "Rebaja IBI Urbano Residencial del 0,62% al 0,48%",
+        "fundamento_legal": "Art. 72 del TRLRHL",
+        "impacto_presupuestario_eur": -2700000,
+        "beneficiarios_kpi": "Ahorro = 0,14% del valor catastral (p. ej. 126 €/año con 90.000 €; 280–540 €/año con 200.000–386.000 €) para ~28.000 familias",
+        "estado": "Propuesta ciudadana",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-FIS-002",
+        "area": "Hacienda Pública y Presupuestos",
+        "titulo": "Recargo IBI BICS al 1,30% para AENA y Puerto de Barcelona",
+        "fundamento_legal": "Art. 72.2 del TRLRHL",
+        "impacto_presupuestario_eur": 6100000,
+        "beneficiarios_kpi": "Compensación de ingresos tributarios no residenciales",
+        "estado": "Propuesta ciudadana",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-ECO-001",
+        "area": "Sostenibilidad y Transición Ecológica",
+        "titulo": "Bonificación del 40% Tasa de Residuos por Pago por Generación (PxG)",
+        "fundamento_legal": "Art. 11.3 de la Ley 7/2022 de Residuos",
+        "impacto_presupuestario_eur": -1200000,
+        "beneficiarios_kpi": "Devolución de ahorro de cánones a familias recicladoras",
+        "estado": "Propuesta ciudadana",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-URB-001",
+        "area": "Movilidad e Industria (Mas Blau)",
+        "titulo": "Tarjeta de Movilidad Laboral Mas Blau (Exención 100% de pago)",
+        "fundamento_legal": "Art. 25.2.g de la LBRL",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Gratuidad de estacionamiento para trabajadores locales",
+        "estado": "Propuesta ciudadana",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-VIV-001",
+        "area": "Vivienda Pública (Prat Espais)",
+        "titulo": "Plan 1.500 VPO Alquiler Asequible en Eixample Sud y ARE",
+        "fundamento_legal": "Patrimonio Municipal de Suelo y Vivienda (PMSV)",
+        "impacto_presupuestario_eur": -54000000,
+        "beneficiarios_kpi": "Alquileres protegidos topados al 20% del salario medio",
+        "estado": "En diseño técnico",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": true
+      },
+      {
+        "id": "PRAT-LEG-001",
+        "area": "Gobernanza y Transparencia",
+        "titulo": "Bloqueo tecnológico en Gestiona por falta de expediente previo",
+        "fundamento_legal": "Art. 77 LBRL y Art. 84 ROF",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Garantía de 48h/10 días de acceso a la documentación plenaria",
+        "estado": "Propuesta ciudadana (borrador de moción)",
+        "fecha_registro": "2026-10-24",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-LIM-001",
+        "area": "Servicios Urbanos y Vía Pública",
+        "titulo": "Plan de Shock de Limpieza, Baldeo con Hidrolimpiadora y Control por GPS/NFC a la Contrata",
+        "fundamento_legal": "Art. 25.2.b de la LBRL y Pliego de Prescripciones del Contrato de Limpieza",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Baldeo a presión en portales y comercios + fiscalización del 100% de rutas",
+        "estado": "Propuesta de Intervención Directa",
+        "fecha_registro": "2026-10-25",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-LIM-002",
+        "area": "Sanidad Ambiental y Convivencia",
+        "titulo": "Plan de Control de Incivismo Canino y Obligación de Neutralización de Orines (Sin ADN)",
+        "fundamento_legal": "Ordenanza Municipal de Convivencia y Art. 25.2.j de la LBRL",
+        "impacto_presupuestario_eur": 150000,
+        "beneficiarios_kpi": "Erradicación de manchas y malos olores en aceras y portales (Control mediante inspección ordinaria, eliminación total de rastreo por ADN)",
+        "estado": "Propuesta de Ordenanza",
+        "fecha_registro": "2026-10-25",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-LIM-003",
+        "area": "Sanidad Ambiental y Hacienda Local",
+        "titulo": "Impuesto Municipal de Perros con Devolución 100% condicionada a Uso de Pipican y Evidencia",
+        "fundamento_legal": "Art. 20 a 27 del TRLRHL, Art. 25.2.b LBRL y Ordenanza de Convivencia",
+        "impacto_presupuestario_eur": 450000,
+        "beneficiarios_kpi": "Se devolverá el importe íntegro del impuesto SOLO a las personas que acrediten con fotografías y vídeos que limpian los desechos de sus perros Y que hacen uso de los pipicanes.",
+        "estado": "Propuesta de Ordenanza Fiscal con Incentivo Ciudadano",
+        "fecha_registro": "2026-10-25",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-SAL-001",
+        "area": "Empleo Público y Servicios",
+        "titulo": "Complemento de Equiparación y Salarios Dignos para Servicios Públicos (Limpieza, Brigadas, Prat Espais)",
+        "fundamento_legal": "Art. 126 del TRLEEP y Convenio Colectivo Municipal",
+        "impacto_presupuestario_eur": -1800000,
+        "beneficiarios_kpi": "Subida salarial directa para +600 trabajadores de servicios públicos sin coste impositivo para el vecino (financiado con BICS)",
+        "estado": "En diseño técnico",
+        "fecha_registro": "2026-10-26",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-COM-001",
+        "area": "Comercio Local y Renta Familiar",
+        "titulo": "Programa Bono-Comercio Prat (Estímulo de Comercio Local ajustado)",
+        "fundamento_legal": "Art. 25.2.n de la LBRL",
+        "impacto_presupuestario_eur": -700000,
+        "beneficiarios_kpi": "Inyección directa en comercio local manteniendo un colchón estricto de superávit positivo (+300.000 €)",
+        "estado": "Propuesta ciudadana",
+        "fecha_registro": "2026-10-26",
+        "fuera_presupuesto_ordinario": false
+      },
+      {
+        "id": "PRAT-SER-001",
+        "area": "Servicios Ciudadanos y Calidad de Vida",
+        "titulo": "Plan de Excelencia en Servicios Públicos Cero Impuestos (Ventanilla 24/7 y Gestión Eficiente)",
+        "fundamento_legal": "Art. 25 y 26 de la LBRL",
+        "impacto_presupuestario_eur": 0,
+        "beneficiarios_kpi": "Optimización del 100% de equipamientos y trámites municipales con congelación tributaria absoluta",
+        "estado": "Propuesta de Directiva",
+        "fecha_registro": "2026-10-26",
+        "fuera_presupuesto_ordinario": false
+      }
+    ],
+    "resultado_revision_diaria": "Nota manual (no auditoría automatizada): el 30 de octubre de 2026 no se ha registrado en este repositorio ninguna nueva resolución normativa, edicto impositivo ni modificación presupuestaria procedente del BOPB, DOGC o BOE. Esta nota no sustituye una consulta real a esos boletines. La regla de oro presupuestaria (superávit ordinario estimado de +300.000 €, excluyendo la inversión plurianual VPO) y las 12 propuestas ciudadanas independientes permanecen documentadas en este catálogo."
+  }
+}
