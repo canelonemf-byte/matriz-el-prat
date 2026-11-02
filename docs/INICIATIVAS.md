@@ -16,3 +16,6 @@ Estados: `propuesta` → `aprobada_usuario` → `presentada_por_usuario` → `re
 | IA-2026-10-24-087 | Pedir los documentos que faltan del presupuesto y de los convenios | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-24 |
 | IA-2026-10-26-649 | Pedir un plan de inversiones con el sobrante, si hay remanente de tesorería | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-26 |
 | IA-2026-10-26-278 | Pedir la ejecución trimestral del presupuesto y la de los convenios | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-26 |
+| IA-2026-10-28-083 | Pedir que parte del sobrante se use en inversiones útiles para los vecinos | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-28 |
+| IA-2026-10-28-042 | Pedir la publicación de la ejecución del presupuesto y de los convenios | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-28 |
+| IA-2026-10-29-978 | Pedir un plan de inversiones con el sobrante, solo si hay remanente de tesorería | IA (grok-4.7) | propuesta | IA (ver informe) | ver informe | 2026-10-29 |

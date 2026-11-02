@@ -1,0 +1,25 @@
+{
+ "liquidacion_ultimo_anio": 2025,
+ "ingresos": 142600371,
+ "gastos": 129367688,
+ "saldo": 13232683,
+ "sobrantes_5_anios": 35617343,
+ "deuda_viva": 480671.0,
+ "pmp_dias": 21,
+ "contratos_unicos_2024_mas": 4570,
+ "contratos_a_revisar": 79,
+ "menores_repetidos": 26,
+ "formacion_ultimo": {
+  "2025": 68611.1,
+  "2026": 15413.91
+ },
+ "transparencia": {
+  "publicado": 33,
+  "solo_enlace": 6,
+  "desactualizado": 10,
+  "no_encontrado": 2,
+  "no_verificado": 4,
+  "sin_documentos": 2
+ },
+ "alertas": 26
+}
