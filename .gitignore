@@ -3,11 +3,13 @@ borradores/
 __pycache__/
 *.pyc
 .venv/
-__pycache__/
-
 # secretos
 .env
 *.env
 .secrets/
 *.key
 secrets*
+*.db
+reports/*.xlsx
+reports/matriz_el_prat.xlsx
+data/
