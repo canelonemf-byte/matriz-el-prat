@@ -3,11 +3,14 @@ borradores/
 __pycache__/
 *.pyc
 .venv/
-__pycache__/
-
 # secretos
 .env
 *.env
 .secrets/
 *.key
 secrets*
+*.db
+# informes runtime de esta app (pueden incluir hashes/IPs)
+reports/matriz_el_prat.xlsx
+reports/*.xlsx
+data/
