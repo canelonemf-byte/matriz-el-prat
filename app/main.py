@@ -67,9 +67,8 @@ PAGINAS = ["🏠 Inicio", "💶 De dónde viene y a dónde va el dinero", "📊 
            "🔎 Transparencia", "🚨 Alertas", "🤖 Pregunta a la IA", "📚 Glosario y fuentes"]
 if track_streamlit_visit is not None:
     track_streamlit_visit(APP_NAME)
-with st.sidebar:
-    if render_visit_badge is not None:
-        render_visit_badge(APP_NAME)
+if render_visit_badge is not None:
+    render_visit_badge(APP_NAME)
 pag = st.sidebar.radio("Secciones", PAGINAS)
 st.sidebar.caption("Autoría: Lázaro López Paz, El Prat de Llobregat (Barcelona, España), con asistencia de IA. Código MIT · textos CC BY 4.0. "
                    "Solo datos públicos oficiales. Esta app no presenta nada ante el Ajuntament.")
@@ -77,9 +76,6 @@ ULT = int(TOT["any"].max()) if not TOT.empty else None
 
 if pag == PAGINAS[0]:
     st.title("Control ciudadano del Ajuntament del Prat de Llobregat")
-    if render_app_metrics is not None:
-        with st.expander("Detalle de visitas de esta app", expanded=False):
-            render_app_metrics(APP_NAME)
     st.write("Para saber **en qué se gasta el dinero de los contribuyentes**, si se cumple lo previsto y qué se puede mejorar. Cada cifra lleva su fuente oficial.")
     if ULT:
         r = TOT[TOT["any"] == ULT].iloc[0]
