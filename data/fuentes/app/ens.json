@@ -3,6 +3,26 @@
  "descripcion": "Entes del sector público local dependientes del Ajuntament y cumplimiento de envío de presupuesto/liquidación",
  "filas": [
   {
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2009",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2011-04-13T00:00:00.000"
+  },
+  {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2009",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2011-04-13T00:00:00.000"
+  },
+  {
    "ens": "Ajuntament del Prat de Llobregat",
    "codi10": "0816910007",
    "tipusens": "Municipis",
@@ -23,24 +43,14 @@
    "dataliquidaci_decofin": "2011-04-13T00:00:00.000"
   },
   {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
    "tipusens": "Ens de gestió",
-   "any": "2009",
+   "any": "2010",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2011-04-13T00:00:00.000"
-  },
-  {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2009",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2011-04-13T00:00:00.000"
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
    "ens": "Ajuntament del Prat de Llobregat",
@@ -53,26 +63,6 @@
    "dataliquidaci_decofin": "2012-02-29T00:00:00.000"
   },
   {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
-   "tipusens": "Ens de gestió",
-   "any": "2010",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2010",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
    "tipusens": "Ens de gestió",
@@ -83,20 +73,10 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2011",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "Prat Espais, SLU",
    "codi10": "0816915030",
    "tipusens": "Ens de gestió",
-   "any": "2011",
+   "any": "2010",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -111,6 +91,26 @@
    "datapressupostdecofin": "2011-12-13T00:00:00.000",
    "liquidaci_decofin": "Tramès",
    "dataliquidaci_decofin": "2012-07-04T00:00:00.000"
+  },
+  {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2011",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2011",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
    "ens": "Aigües del Prat, SA",
@@ -143,16 +143,6 @@
    "dataliquidaci_decofin": "2013-06-27T00:00:00.000"
   },
   {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2012",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
    "tipusens": "Ens de gestió",
@@ -163,20 +153,10 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2013",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "Aigües del Prat, SA",
    "codi10": "0816915019",
    "tipusens": "Ens de gestió",
-   "any": "2013",
+   "any": "2012",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -193,6 +173,16 @@
    "dataliquidaci_decofin": ""
   },
   {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2013",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "Ajuntament del Prat de Llobregat",
    "codi10": "0816910007",
    "tipusens": "Municipis",
@@ -201,6 +191,36 @@
    "datapressupostdecofin": "2013-04-22T00:00:00.000",
    "liquidaci_decofin": "Tramès",
    "dataliquidaci_decofin": "2014-12-16T00:00:00.000"
+  },
+  {
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
+   "tipusens": "Ens de gestió",
+   "any": "2013",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2014",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2014",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
    "ens": "Ajuntament del Prat de Llobregat",
@@ -226,17 +246,7 @@
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
    "tipusens": "Ens de gestió",
-   "any": "2014",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
-   "tipusens": "Ens de gestió",
-   "any": "2014",
+   "any": "2015",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -253,8 +263,8 @@
    "dataliquidaci_decofin": "2016-06-09T00:00:00.000"
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
    "tipusens": "Ens de gestió",
    "any": "2015",
    "pressupostdecofin": "",
@@ -267,26 +277,6 @@
    "codi10": "0816915030",
    "tipusens": "Ens de gestió",
    "any": "2015",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2015",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2016",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -303,16 +293,6 @@
    "dataliquidaci_decofin": "2017-12-14T00:00:00.000"
   },
   {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
-   "tipusens": "Ens de gestió",
-   "any": "2016",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "Aigües del Prat, SA",
    "codi10": "0816915019",
    "tipusens": "Ens de gestió",
@@ -326,17 +306,17 @@
    "ens": "Prat Espais, SLU",
    "codi10": "0816915030",
    "tipusens": "Ens de gestió",
-   "any": "2017",
+   "any": "2016",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
    "tipusens": "Ens de gestió",
-   "any": "2017",
+   "any": "2016",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -363,6 +343,16 @@
    "dataliquidaci_decofin": "2018-08-30T00:00:00.000"
   },
   {
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
+   "tipusens": "Ens de gestió",
+   "any": "2017",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
    "tipusens": "Ens de gestió",
@@ -373,18 +363,18 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Ajuntament del Prat de Llobregat",
-   "codi10": "0816910007",
-   "tipusens": "Municipis",
-   "any": "2018",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2018-09-18T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2019-06-14T00:00:00.000"
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2017",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
    "tipusens": "Ens de gestió",
    "any": "2018",
    "pressupostdecofin": "",
@@ -403,6 +393,16 @@
    "dataliquidaci_decofin": "2019-06-14T00:00:00.000"
   },
   {
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
+   "tipusens": "Ens de gestió",
+   "any": "2018",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
    "tipusens": "Ens de gestió",
@@ -413,14 +413,34 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
-   "tipusens": "Ens de gestió",
+   "ens": "Ajuntament del Prat de Llobregat",
+   "codi10": "0816910007",
+   "tipusens": "Municipis",
    "any": "2018",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2018-09-18T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2019-06-14T00:00:00.000"
+  },
+  {
+   "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
+   "codi10": "9836490004",
+   "tipusens": "Consorcis",
+   "any": "2019",
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2019-05-22T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2020-06-18T00:00:00.000"
+  },
+  {
+   "ens": "Ajuntament del Prat de Llobregat",
+   "codi10": "0816910007",
+   "tipusens": "Municipis",
+   "any": "2019",
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2019-05-22T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2020-06-18T00:00:00.000"
   },
   {
    "ens": "Aigües del Prat, SA",
@@ -443,26 +463,6 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Ajuntament del Prat de Llobregat",
-   "codi10": "0816910007",
-   "tipusens": "Municipis",
-   "any": "2019",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2019-05-22T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2020-06-18T00:00:00.000"
-  },
-  {
-   "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
-   "codi10": "9836490004",
-   "tipusens": "Consorcis",
-   "any": "2019",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2019-05-22T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2020-06-18T00:00:00.000"
-  },
-  {
    "ens": "Prat Espais, SLU",
    "codi10": "0816915030",
    "tipusens": "Ens de gestió",
@@ -473,8 +473,8 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
    "tipusens": "Ens de gestió",
    "any": "2020",
    "pressupostdecofin": "",
@@ -493,16 +493,6 @@
    "dataliquidaci_decofin": "2021-05-11T00:00:00.000"
   },
   {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2020",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
    "codi10": "9836490004",
    "tipusens": "Consorcis",
@@ -513,6 +503,16 @@
    "dataliquidaci_decofin": "2021-05-11T00:00:00.000"
   },
   {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2020",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "Prat Espais, SLU",
    "codi10": "0816915030",
    "tipusens": "Ens de gestió",
@@ -523,14 +523,24 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
+   "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
+   "codi10": "9836490004",
+   "tipusens": "Consorcis",
    "any": "2021",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2021-03-26T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2022-05-13T00:00:00.000"
+  },
+  {
+   "ens": "Ajuntament del Prat de Llobregat",
+   "codi10": "0816910007",
+   "tipusens": "Municipis",
+   "any": "2021",
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2021-03-26T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2022-05-13T00:00:00.000"
   },
   {
    "ens": "Aigües del Prat, SA",
@@ -553,34 +563,24 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Ajuntament del Prat de Llobregat",
-   "codi10": "0816910007",
-   "tipusens": "Municipis",
-   "any": "2021",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2021-03-26T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2022-05-13T00:00:00.000"
-  },
-  {
-   "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
-   "codi10": "9836490004",
-   "tipusens": "Consorcis",
-   "any": "2021",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2021-03-26T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2022-05-13T00:00:00.000"
-  },
-  {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
    "tipusens": "Ens de gestió",
-   "any": "2022",
+   "any": "2021",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
    "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "Ajuntament del Prat de Llobregat",
+   "codi10": "0816910007",
+   "tipusens": "Municipis",
+   "any": "2022",
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2022-05-13T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2023-05-03T00:00:00.000"
   },
   {
    "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
@@ -591,6 +591,16 @@
    "datapressupostdecofin": "2022-05-13T00:00:00.000",
    "liquidaci_decofin": "Tramès",
    "dataliquidaci_decofin": "2023-05-03T00:00:00.000"
+  },
+  {
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2022",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
    "ens": "EL PRAT COMUNICACIÓ, SL",
@@ -607,26 +617,6 @@
    "codi10": "0816915019",
    "tipusens": "Ens de gestió",
    "any": "2022",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Ajuntament del Prat de Llobregat",
-   "codi10": "0816910007",
-   "tipusens": "Municipis",
-   "any": "2022",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2022-05-13T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2023-05-03T00:00:00.000"
-  },
-  {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2023",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -676,7 +666,7 @@
    "ens": "Aigües del Prat, SA",
    "codi10": "0816915019",
    "tipusens": "Ens de gestió",
-   "any": "2024",
+   "any": "2023",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -685,16 +675,6 @@
   {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2024",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
    "tipusens": "Ens de gestió",
    "any": "2024",
    "pressupostdecofin": "",
@@ -713,6 +693,16 @@
    "dataliquidaci_decofin": "2025-04-04T00:00:00.000"
   },
   {
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
+   "tipusens": "Ens de gestió",
+   "any": "2024",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
    "codi10": "9836490004",
    "tipusens": "Consorcis",
@@ -723,14 +713,24 @@
    "dataliquidaci_decofin": "2025-04-04T00:00:00.000"
   },
   {
-   "ens": "Ajuntament del Prat de Llobregat",
-   "codi10": "0816910007",
-   "tipusens": "Municipis",
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2024",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "Aigües del Prat, SA",
+   "codi10": "0816915019",
+   "tipusens": "Ens de gestió",
    "any": "2025",
-   "pressupostdecofin": "Tramès",
-   "datapressupostdecofin": "2025-02-11T00:00:00.000",
-   "liquidaci_decofin": "Tramès",
-   "dataliquidaci_decofin": "2026-04-29T00:00:00.000"
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
   },
   {
    "ens": "Prat Espais, SLU",
@@ -743,14 +743,14 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "EL PRAT COMUNICACIÓ, SL",
-   "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
+   "ens": "Ajuntament del Prat de Llobregat",
+   "codi10": "0816910007",
+   "tipusens": "Municipis",
    "any": "2025",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
+   "pressupostdecofin": "Tramès",
+   "datapressupostdecofin": "2025-02-11T00:00:00.000",
+   "liquidaci_decofin": "Tramès",
+   "dataliquidaci_decofin": "2026-04-29T00:00:00.000"
   },
   {
    "ens": "C_ urb.  Desenvol. sector Eixample Nord i àrees resid. Eixample Sud_Ronda del Sud-Aeroport",
@@ -763,10 +763,20 @@
    "dataliquidaci_decofin": "2026-04-29T00:00:00.000"
   },
   {
+   "ens": "EL PRAT COMUNICACIÓ, SL",
+   "codi10": "0816915024",
+   "tipusens": "Ens de gestió",
+   "any": "2025",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
+   "dataliquidaci_decofin": ""
+  },
+  {
    "ens": "Aigües del Prat, SA",
    "codi10": "0816915019",
    "tipusens": "Ens de gestió",
-   "any": "2025",
+   "any": "2026",
    "pressupostdecofin": "",
    "datapressupostdecofin": "",
    "liquidaci_decofin": "",
@@ -783,28 +793,8 @@
    "dataliquidaci_decofin": ""
   },
   {
-   "ens": "Aigües del Prat, SA",
-   "codi10": "0816915019",
-   "tipusens": "Ens de gestió",
-   "any": "2026",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
    "ens": "EL PRAT COMUNICACIÓ, SL",
    "codi10": "0816915024",
-   "tipusens": "Ens de gestió",
-   "any": "2026",
-   "pressupostdecofin": "",
-   "datapressupostdecofin": "",
-   "liquidaci_decofin": "",
-   "dataliquidaci_decofin": ""
-  },
-  {
-   "ens": "Prat Espais, SLU",
-   "codi10": "0816915030",
    "tipusens": "Ens de gestió",
    "any": "2026",
    "pressupostdecofin": "",
@@ -820,9 +810,19 @@
    "pressupostdecofin": "Tramès",
    "datapressupostdecofin": "2026-03-03T00:00:00.000",
    "liquidaci_decofin": "No tramès",
+   "dataliquidaci_decofin": ""
+  },
+  {
+   "ens": "Prat Espais, SLU",
+   "codi10": "0816915030",
+   "tipusens": "Ens de gestió",
+   "any": "2026",
+   "pressupostdecofin": "",
+   "datapressupostdecofin": "",
+   "liquidaci_decofin": "",
    "dataliquidaci_decofin": ""
   }
  ],
- "fecha_consulta": "2026-11-02",
+ "fecha_consulta": "2026-11-09",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/7fnj-etev.json?%24query=SELECT+%2A+WHERE+codiensmatriu%3D%270816910007%27+OR+codi10%3D%270816910007%27+ORDER+BY+any+LIMIT+5000"
 }
