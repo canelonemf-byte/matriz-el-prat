@@ -29,9 +29,14 @@ Lo que falta está en `datos_pendientes.yaml`. El catálogo de mejoras (6 propue
 ```bash
 pip install -r requirements.txt
 python -m matriz_el_prat ciclo        # ingesta + análisis
-python -m matriz_el_prat borradores   # genera borradores en borradores/
+python -m matriz_el_prat borradores   # genera borradores automáticos en borradores/ (se crea al ejecutarlo)
 pytest -q
 ```
+
+## Borradores preparados a mano
+Los borradores revisados (p. ej. alegaciones y nota de audiencia de las ordenanzas fiscales 2027) están en `docs/borradores/`,
+que **no se versiona** (`.gitignore`): contienen huecos para datos personales que la persona interesada rellena, firma y
+presenta ella misma. Este repositorio nunca presenta ni envía nada.
 
 ## Protección de datos
 No se recogen datos personales; NIF/DNI/NIE y correos se enmascaran antes de guardar (RGPD (UE) 2016/679, LO 3/2018).
@@ -48,7 +53,7 @@ Autoría: Lázaro López Paz, El Prat de Llobregat, Barcelona, España (ORCID 00
 
 Licencia dual:
 - **Código y software** (`matriz_el_prat/`, `scripts/`, `tests/` y demás código fuente): **MIT** — ver [`LICENSE`](LICENSE).
-- **Documentos** (`docs/`, contenido de los `*.md`, documentación de datos como los `*.yaml` de inventario y catálogo, y `borradores/`): **CC BY 4.0** — ver [`LICENSE-DOCS`](LICENSE-DOCS) y https://creativecommons.org/licenses/by/4.0/.
+- **Documentos** (`docs/`, contenido de los `*.md`, documentación de datos como los `*.yaml` de inventario y catálogo, `borradores/` y `docs/borradores/`): **CC BY 4.0** — ver [`LICENSE-DOCS`](LICENSE-DOCS) y https://creativecommons.org/licenses/by/4.0/.
 
 Atribución sugerida: «Lázaro López Paz, El Prat de Llobregat, Barcelona, España — matriz_el_prat (CC BY 4.0)».
 
@@ -59,7 +64,7 @@ Panel en castellano para seguir el dinero del Ajuntament del Prat de Llobregat: 
 ```bash
 pip install -r requirements.txt
 python -m app.fetchers          # refresca data/fuentes/app/*.json y MANIFIESTO.yaml (URL, fecha, SHA-256)
-streamlit run app/main.py       # http://localhost:8501
+streamlit run app/main.py --server.port 8510   # http://localhost:8510 (el 8501 es la UI de AGs-Core)
 pytest -q
 ```
 
