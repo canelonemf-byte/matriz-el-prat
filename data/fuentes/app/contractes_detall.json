@@ -290,6 +290,17 @@
   },
   {
    "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "expediente": "C-2026-04",
+   "objeto": "Consta a l'informe d'inici i al PPT",
+   "procedimiento": "Obert",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "adjudicatario": "AIGASA CANALIZACIONES, SL",
+   "importe": 58000.0,
+   "fecha": "2026-10-26"
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
    "any": 2024,
    "expediente": "20240118",
    "objeto": "Reparació Equip 1010 TOC Laboratori",
@@ -3620,6 +3631,17 @@
    "adjudicatario": "GARRO, S.A.",
    "importe": 106.06,
    "fecha": "2024-11-13"
+  },
+  {
+   "organo": "Aigües del Prat, S.A.",
+   "any": 2026,
+   "expediente": "C-2025-09",
+   "objeto": "Servei lectura dels comptadors del subministrament d'aigua d'abonats/des d'Aigües del Prat, SA",
+   "procedimiento": "Obert",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "COBRA SERVICIOS AUXILIARES, S.A.",
+   "importe": 64800.0,
+   "fecha": "2025-09-25"
   },
   {
    "organo": "Aigües del Prat, S.A.",
@@ -42784,6 +42806,17 @@
   {
    "organo": "Ajuntament del Prat de Llobregat",
    "any": 2026,
+   "expediente": "28677/2026",
+   "objeto": "Actuació de \"La Rauxa\" a l'espai Fondo d'en Peixo el 28 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "MUSTRAMIT, S.L.",
+   "importe": 3200.0,
+   "fecha": "2026-09-21"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
    "expediente": "25748/2025",
    "objeto": "Subministrament de maquinària, eines i material per a l'adequació dels nous espais formatius: el nou taller i el pati de l'Escola d'Oficis Delta de Llobregat i la coberta del CEM Estruch (3 lots)",
    "procedimiento": "Obert",
@@ -42937,6 +42970,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28889/2026",
+   "objeto": "Contractació de \"Samfaina Club\" a l'espai Fondo d'en Peixo el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "EVENTS BRANCH S.L.",
+   "importe": 400.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "21630/2024",
    "objeto": "Creació del cartell, marca i campanya de comunicació de la Festa Major del Prat 2024.",
@@ -42967,6 +43011,17 @@
    "adjudicatario": "A B D ASOCIACIÓN BIENESTAR Y DESARROLLO",
    "importe": 13942.78,
    "fecha": "2025-11-03"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28367/2026",
+   "objeto": "Contractació de \"Balahits\" a l'espai Fondo d'en Peixo el 25 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "ÈXITS ESPECTACLES S.L.",
+   "importe": 4000.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -43410,6 +43465,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "27924/2026",
+   "objeto": "Contractació de l'espectacle \"Triplette\" de la Cia. Labú & Cris Clown a la pl. Louis Braille el 27 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "LABU TEATRE SL",
+   "importe": 3000.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "25656/2025",
    "objeto": "Representació de l'espectacle \"Qué verguenza! amb l'artista Joaquim Collado de l'1 d'octubre del 2025 i fins el 5 de juliol del 2026 dins el circuit \"Ornitorrinco 2025\"",
@@ -43440,6 +43506,17 @@
    "adjudicatario": "DOMINGO RECREATIVOS  SCCL",
    "importe": 30100.0,
    "fecha": "2024-11-27"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28706/2026",
+   "objeto": "Actuació del concert de \"Fades\" a l'espai Fondo d'en Peixo el 28 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "SOUNDS OF BELLO & CYCLING SL",
+   "importe": 4000.0,
+   "fecha": "2026-09-21"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -43693,6 +43770,17 @@
    "adjudicatario": "SALTOKI BARBERA S.L.",
    "importe": 105110.0,
    "fecha": "2025-12-01"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28104/2026",
+   "objeto": "Actuació de \"Pirene\" als Jardins del Cementeri Vell el 28 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 1550.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -44334,6 +44422,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28198/2026",
+   "objeto": "Contractació de l'espectacle \"Ricky, el professor de Tenis\" de la Cia. La Mano Jueves a la pl. Constitució el 28 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 1600.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "16299/2024",
    "objeto": "Avituallament i refrigeri per a actes esportius",
@@ -44433,6 +44532,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28184/2026",
+   "objeto": "Contractació d'\"Estopaos\" a l'espai Julio Méndez el 27 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "FEXART SL",
+   "importe": 2900.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "26391/2025",
    "objeto": "Representació de \"Tu em vas prometre una història d'amor\" d'Àngel Guimera el proper 28 de setembre dins el programa de Festa Major 2025",
@@ -44463,6 +44573,17 @@
    "adjudicatario": "BITÓ PRODUCCIONS SL",
    "importe": 7200.0,
    "fecha": "2025-11-24"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "20688/2026",
+   "objeto": "Contractació de Manuel Alcàntara per a la representació de la peça Refugi el 12 de juliol en el marc de la Temporada d'Arts en Viu Estiu 2026 aprovat a la JGL 30/03/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 2400.0,
+   "fecha": "2026-07-06"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -44576,6 +44697,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "27913/2026",
+   "objeto": "Contractació de l'espectacle \"Shake, Shake, Shake\" de la Cial Paki Paya a la pl. Jardins de la Pau el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 2200.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "29537/2025",
    "objeto": "Creació del mural artístic de la 52a Fira Avícola Raça Prat",
@@ -44584,6 +44716,17 @@
    "adjudicatario": "FUNDACIÓ CONTORNO URBANO",
    "importe": 14823.5,
    "fecha": "2025-09-22"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28895/2026",
+   "objeto": "Actuació de \"Djs Javugo\"  a l'espai Zona Jove Renge el 25 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 400.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -44727,6 +44870,17 @@
    "adjudicatario": "ÈXITS ESPECTACLES S.L.",
    "importe": 18000.0,
    "fecha": "2024-12-04"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28766/2026",
+   "objeto": "Contractació de \"Catlletres\" a l'espai Zona Jove Renfe el 25 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 500.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -44983,6 +45137,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28525/2026",
+   "objeto": "Actuació de \"Paco Pecado\" a l'espai Fondo d'en Peixo el 27 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "SOUNDS OF BELLO & CYCLING SL",
+   "importe": 2500.0,
+   "fecha": "2026-09-21"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "40802/2025",
    "objeto": "Contracte menor pont pel Servei de dinamització, acollida i formació de diversos col·lectius de persones migrades al Prat",
@@ -45214,6 +45379,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28817/2026",
+   "objeto": "Contractació de \"Llobregat Suena Take Over\" a l'espai Zona Jove Renfe el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "ASSOCIACIO EL LLOBREGAT SUENA",
+   "importe": 750.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "40205/2025",
    "objeto": "Revisió i manteniment de la maquinaria escènica de l'Artesà",
@@ -45233,6 +45409,17 @@
    "adjudicatario": "CO-AUVISA-90, S.L.U.",
    "importe": 1146.94,
    "fecha": "2024-11-20"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "22884/2026",
+   "objeto": "Servei d'impartició de la formació \"Educació per la convivència i el foment de la participació\" de 48 hores de duració, emmarcat dins de la línia d'ocupació de persones en risc, del Pla metropolità de",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "PROGESS PROJECTES I GESTIÓ DE SERVEIS SOCIALS, S.L.",
+   "importe": 3622.5,
+   "fecha": "2026-08-09"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -45720,6 +45907,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28502/2026",
+   "objeto": "Contractació d'\"Elena Grueso\" a l'espai Fondo d'en Peixo el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 1400.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "23070/2024",
    "objeto": "Redacció d'un estudi previ pel Projecte de reforma del Teatre Modern del Prat de Llobregat.",
@@ -45904,6 +46102,17 @@
    "adjudicatario": "(no se muestra: posible persona física)",
    "importe": 8800.0,
    "fecha": "2025-12-22"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28849/2026",
+   "objeto": "Contractació \"Dj Yasita\" a l'espai Zona Jove Renfe el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "COOPERATIVA SUDOR, SCCL",
+   "importe": 250.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -46325,6 +46534,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "27894/2026",
+   "objeto": "Subministrament de 3.570 mocadors personalitzats en el marc de la Festa Major 2026 aprovat a JGL el 20/07/296",
+   "procedimiento": "Menor",
+   "tipo": "3. SUBMINISTRAMENTS",
+   "adjudicatario": "IMAGO SERVEIS PUBLICITARIS, SL",
+   "importe": 4998.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2025,
    "expediente": "40233/2025",
    "objeto": "Subministrament de 6 projectors mòbils wash Cameo Evos W7 per a la sala de concerts de La Capsa",
@@ -46512,6 +46732,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28377/2026",
+   "objeto": "Contractació de \"Tarquim y los metales preciosos\" a l'espai Fondo d'en Peixo el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 3000.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "6490/2024",
    "objeto": "Adquisició de dosificador complementari a l'exp. 29323/2023.",
@@ -46553,6 +46784,17 @@
    "adjudicatario": "FACTO ASSESSORS SCCL",
    "importe": 1485.0,
    "fecha": "2024-05-02"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "29086/2026",
+   "objeto": "Contractació de \"La Gent del Fun x Vermood\" a l'espai Fondo d'en Peixo el 27 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 450.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -46608,6 +46850,17 @@
    "adjudicatario": "ECONOCOM CLOUD, SOCIEDAD LIMITADA",
    "importe": 2287.5,
    "fecha": "2024-04-17"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28857/2026",
+   "objeto": "Contractació de \"Anómala Dj\" a l'espai Julio Méndez el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 350.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -46820,6 +47073,28 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "29073/2026",
+   "objeto": "Actuació de la sessió \"Meloms amb Viyou, Manu i Meow aka Dj Nu\" a l'espai Fondo d'en Peixo el 25 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "BACKSTAGE GESTION TAP 2006 S.lL.",
+   "importe": 350.0,
+   "fecha": "2026-09-21"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "27903/2026",
+   "objeto": "Contractació de l'espectacle \"Clam\" de la Cia. Fèmut a la pl. Sant Jordi el proper 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 3000.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "15979/2023",
    "objeto": "servei de suport arxivístic per a l'Arxiu municipal del Prat per organitzar les sèries documentals semiactives en suport paper entre 1950 i 2017.",
@@ -47029,6 +47304,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28776/2026",
+   "objeto": "Contractació de \"Dj Trapella\" a l'espai Zona Jove Renfe el 25 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "Propaganda pel Fet, SCCL",
+   "importe": 2500.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "21144/2024",
    "objeto": "Serveis per a la impartició de 30 hores lectives del curs bàsic de Prevenció de Riscos Laborals (codi: FCSL02),  corresponent a les accions de formació professional per l¿ocupació  del Certificat de P",
@@ -47227,6 +47513,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28853/2026",
+   "objeto": "Contractació \"Dj Fresh Cobo\" a l'espai Zona Jove Renfe el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "COOPERATIVA SUDOR, SCCL",
+   "importe": 200.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "36733/2024",
    "objeto": "Creació i producció de dues peces audiovisuals per promocionar el Prat com a plató de rodatges.",
@@ -47315,6 +47612,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28156/2026",
+   "objeto": "Contractació de l'espectacle \"Monsieur Florian, tant per tant gran\" de la Cia. Zigurat Circus Band el 28 de setembre en el marc de la Festa Major aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "EL GRAN MOGOL SLU",
+   "importe": 2700.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "7578/2024",
    "objeto": "Representació de l'espectacle \"Para cuatro jinetes\" con Mucha Muchacha i Los Voluble el proper 27 d'abril dins la programació d'Arts en Viu febrer a maig 2024.",
@@ -47348,6 +47656,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28822/2026",
+   "objeto": "Actuació de \"Glorysixvain\" a l'espai Zona Jove Renfe el 26 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 4000.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "25991/2024",
    "objeto": "Adhesió a l'acord marc del Consorci Localret, lot 2, subministrament de programari de Microsoft grans comptes, expedient: 1431-001/2023, i concretament, per al subministrament i servei de suport bàsic",
@@ -47378,6 +47697,17 @@
    "adjudicatario": "(no se muestra: posible persona física)",
    "importe": 7040.0,
    "fecha": "2025-01-15"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "29210/2026",
+   "objeto": "Contractació de \"Zick & Soul\" a l'espai Fondo d'en Peixo el 28 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "MUSTRAMIT, S.L.",
+   "importe": 1200.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -47557,6 +47887,17 @@
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28097/2026",
+   "objeto": "Contractació de l'espectacle \"Eh!\" de la Cia. Flying Pikmis a la pl. Sant Jordi el 27 de setembre en el marc de la Festra Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 3500.0,
+   "fecha": "2026-09-07"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
    "any": 2024,
    "expediente": "165/2024",
    "objeto": "Subscripció anual al diari El Periódico de Catalunya pel departament de Comunicació de l'Ajuntament del Prat de Llobregat.",
@@ -47708,6 +48049,28 @@
    "adjudicatario": "DISTRICTE DIGITAL, SL",
    "importe": 5346.0,
    "fecha": "2024-03-21"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "18831/2026",
+   "objeto": "Serveis per a la impartició de 60 hores lectives del curs \"Office: Word, Excel, Access i Power Point (Codi  ADGG052PO), que s'emmarca dins del Programa Treball i Formació ACOL 2025, subvencionat pel S",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 4006.8,
+   "fecha": "2026-07-23"
+  },
+  {
+   "organo": "Ajuntament del Prat de Llobregat",
+   "any": 2026,
+   "expediente": "28355/2026",
+   "objeto": "Contractació de \"Zamorano\" a l'espai Julio Méndez el 27 de setembre en el marc de la Festa Major 2026 aprovat a JGL el 20/07/26",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "EVENTS BRANCH S.L.",
+   "importe": 2400.0,
+   "fecha": "2026-09-07"
   },
   {
    "organo": "Ajuntament del Prat de Llobregat",
@@ -68501,6 +68864,17 @@
   },
   {
    "organo": "Prat Espais, SLU",
+   "any": 2025,
+   "expediente": "25-126-HAB",
+   "objeto": "Contractació dels serveis professionals d¿assessoria jurídica i acompanyament adreçat a persones llogateres en el municipi, i implantació del servei 2025-2026",
+   "procedimiento": "Menor",
+   "tipo": "5. SERVEIS",
+   "adjudicatario": "(no se muestra: posible persona física)",
+   "importe": 14700.0,
+   "fecha": "2025-03-31"
+  },
+  {
+   "organo": "Prat Espais, SLU",
    "any": 2024,
    "expediente": "24-078-A",
    "objeto": "Honoraris professionals pels serveis d'elaboració d'informe relatiu a la revisió de valors dels edificis d'aparcaments de Av.Verge de Montserrat - Jaume Casanovas i Av. Verge de Montserrat - Marina.",
@@ -77531,6 +77905,6 @@
    "fecha": "2025-01-17"
   }
  ],
- "fecha_consulta": "2026-11-09",
+ "fecha_consulta": "2026-11-16",
  "url_consulta": "https://analisi.transparenciacatalunya.cat/resource/hb6v-jcbf.json?%24query=SELECT+organisme_contractant%2Cexercici%2Ccodi_expedient%2Cdescripcio_expedient%2Cprocediment_adjudicacio%2Ctipus_contracte%2Cadjudicatari%2Cimport_adjudicacio%2Cdata_adjudicacio+WHERE+organisme_contractant+in%28%27Ajuntament+del+Prat+de+Llobregat%27%2C%27Prat+Espais%2C+SLU%27%2C%27Aig%C3%BCes+del+Prat%2C+S.A.%27%2C%27El+Prat+Comunicaci%C3%B3%2C+SL%27%29+AND+exercici%3E%3D%272024%27+LIMIT+20000"
 }

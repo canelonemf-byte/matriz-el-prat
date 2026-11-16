@@ -1,0 +1,15 @@
+{
+ "anterior": "2026-11-09",
+ "cambios": [
+  {
+   "campo": "contratos_a_revisar",
+   "antes": 79,
+   "ahora": 81
+  },
+  {
+   "campo": "contratos_unicos_2024_mas",
+   "antes": 4570,
+   "ahora": 4602
+  }
+ ]
+}
