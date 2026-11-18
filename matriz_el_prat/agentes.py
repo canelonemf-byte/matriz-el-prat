@@ -74,12 +74,31 @@ def _sub(nombre, agente, fuente, tema, ingerir=None):
 def _boe_ultimos(dias=3):
     out = []
     for i in range(dias):
-        out += F.boe_sumario(dt.date.today() - dt.timedelta(days=i))
+        try:
+            out += F.boe_sumario(dt.date.today() - dt.timedelta(days=i))
+        except F.FuenteError:
+            continue  # un fallo de un día no detiene los demás
     return out
 
 
+def _boe_y_dogc():
+    """Ingesta BOE + DOGC aislada por fuente: un fallo del BOE no detiene el DOGC."""
+    items, errores = [], []
+    try:
+        items += _boe_ultimos()
+    except F.FuenteError as e:
+        errores.append(str(e))
+    try:
+        items += F.dogc_normativa()
+    except F.FuenteError as e:
+        errores.append(str(e))
+    if errores and not items:
+        raise F.FuenteError(" | ".join(errores))
+    return items
+
+
 SUBAGENTES = [
-    _sub("sub_1_1_monitor_boe_dogc", "legal_prat", "boe_sumario+dogc_normativa", "fiscal", lambda: _boe_ultimos() + F.dogc_normativa()),
+    _sub("sub_1_1_monitor_boe_dogc", "legal_prat", "boe_sumario+dogc_normativa", "fiscal", _boe_y_dogc),
     _sub("sub_1_2_rastreador_bopb", "legal_prat", "bopb_rss", "fiscal", F.bopb_rss),
     _sub("sub_1_3_gestor_rom_secretaria", "legal_prat", "rom_el_prat", "rom"),
     _sub("sub_2_1_inspector_ejecucion_presupuestaria", "fiscal_prat", "catastro_estadisticas+seu_ckan", "fiscal", lambda: F.datos_fiscales_registros()),

@@ -3,7 +3,7 @@
 Cada función devuelve una lista de dicts {titulo, url, fecha_publicacion, datos}. Si la fuente falla, lanza
 FuenteError; el sub-agente lo registra como estado 'error' (nunca inventa datos).
 """
-import datetime as dt, html as _html, json, re, urllib.parse, urllib.request
+import datetime as dt, html as _html, json, re, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 
 UA = "matriz_el_prat/1.0 (+https://github.com/canelonemf-byte/matriz-el-prat; auditoria ciudadana)"
@@ -58,7 +58,15 @@ def _get(url, accept="*/*", timeout=40) -> bytes:
 
 def boe_sumario(fecha: dt.date | None = None):
     fecha = fecha or dt.date.today()
-    d = json.loads(_get(FUENTES["boe_sumario"]["url"].format(fecha=fecha.strftime("%Y%m%d")), "application/json"))
+    url = FUENTES["boe_sumario"]["url"].format(fecha=fecha.strftime("%Y%m%d"))
+    try:
+        raw = _get(url, "application/json")
+    except FuenteError as e:
+        causa = e.__cause__
+        if isinstance(causa, urllib.error.HTTPError) and causa.code == 404:
+            return []  # HTTP 404: sin BOE ese día (domingo/festivo)
+        raise
+    d = json.loads(raw)
     if str(d.get("status", {}).get("code")) != "200":
         return []  # sin BOE ese día (domingo/festivo)
     out = []
